@@ -1,0 +1,67 @@
+{
+	"data": [{
+		"summary": "Example summary #1",
+		"timestamp": "1322956800",
+		"id": "strategy-overview",
+		"title": "Strategy overview",
+		"maintext": "<p><strong>Our strategy seeks to reinforce our position as a leader in the oil & gas industry in order to provide a competitive shareholder return while helping to meet global energy demand in a responsible way. Safety & corporate responsibility are at the heart of our activities.</strong></p><p>Intense competition exists for access to upstream resources & to new downstream markets. But we believe our technology, project-delivery capability & operational excellence will remain key differentiators for our businesses.We expect around 75% of our capital investment in 2011 to be in our Upstream projects.</p><p>Meeting the growing demand for energy worldwide in ways that minimise environmental & social impact is a major challenge for the global energy industry. We are committed to improving energy efficiency in our own operations, supporting customers in managing their energy demands, & continuing to research & develop technologies that increase efficiency & reduce emissions in oil & gas production.</p><p>Our commitment to technology & innovation continues to be at the core of our strategy. As energy projects become more complex & more technically demanding, we believe our engineering expertise will be a deciding factor in the growth of our businesses. Our key strengths include the development & application of technology, the financial & project-management skills that allow us to deliver large oil & gas projects, & the management of integrated value chains. We leverage our diverse & global business portfolio & customer-focused businesses built around the strength of the Shell brand.</p>",
+		"publicationdate": "2011-03-02T00:07:09Z",
+		"metadata": {
+			"view": "Overview"
+		}
+	}, {
+		"summary": "Example summary #2",
+		"timestamp": "1318892400",
+		"id": "strategy-overview",
+		"resources": [{
+			"summary": "Example summary #3",
+			"timestamp": "1317682800",
+			"id": "e8a1955a1ede0cb18a13544932299732",
+			"textcontent": "Example text content #1",
+			"title": "Example title #1",
+			"mimetype": "application/pdf",
+			"thumbnail": {
+				"uri2x": "http://www-static.shell.com/static/investor/imgs/240_wide/2011_sustainabilityreportcover.gif",
+				"timestamp": "1344380400",
+				"id": "e8a1955a1ede0cb18a13544932299733",
+				"uri": "http://www-static.shell.com/static/investor/imgs/240_wide/2011_sustainabilityreportcover.gif"
+			},
+			"description": "Example description #1",
+			"publicationdate": "2012-09-06T07:13:00Z",
+			"uri": "http://www.shell.com/global/aboutshell/investor/strategy.html"
+		}],
+		"title": "Strategy overview",
+		"maintext": "<p><img src=\"strategy_in_app_banner_portrait.png\"/></p><p><strong>Our strategy seeks to reinforce our position as a leader in the oil & gas industry in order to provide a competitive shareholder return while helping to meet global energy demand in a responsible way. Safety & corporate responsibility are at the heart of our activities.</strong></p><p>Intense competition exists for access to upstream resources & to new downstream markets. But we believe our technology, project-delivery capability & operational excellence will remain key differentiators for our businesses.We expect around 75% of our capital investment in 2011 to be in our Upstream projects.</p> <p>Meeting the growing demand for energy worldwide in ways that minimise environmental & social impact is a major challenge for the global energy industry. We are committed to improving energy efficiency in our own operations, supporting customers in managing their energy demands, & continuing to research & develop technologies that increase efficiency & reduce emissions in oil & gas production.</p> <p>Our commitment to technology & innovation continues to be at the core of our strategy. As energy projects become more complex & more technically demanding, we believe our engineering expertise will be a deciding factor in the growth of our businesses. Our key strengths include the development & application of technology, the financial & project-management skills that allow us to deliver large oil & gas projects, & the management of integrated value chains. We leverage our diverse & global business portfolio & customer-focused businesses built around the strength of the Shell brand.</p><h3>Strategy summary</h3><p><strong>Upstream</strong></p> <ul><li>Profitable growth; price upside</li> <li>&gt;80% of total capital spending</li> <li>Sustained exploration investment</li> </ul> <p>&gt; <a href=\"http://www.shell.com/global/aboutshell/investor/strategy/upstream.html\">More about our Upstream strategy</a> <br/><br/><br/><strong>Downstream</strong></p> <ul><li>Stable capital employed</li> <li>Fewer refineries; upgrade chemicals assets</li> <li>More concentrated marketing positions</li> </ul> <p>&gt; <a href=\"http://www.shell.com/global/aboutshell/investor/strategy/downstream.html\">More about our Downstream strategy</a> <br/><br/><br/><strong>Financial outlook</strong></p> <ul><li>Generating surplus cashflow through cycle</li> <li>Investing for growth; competitive payout</li> <li>Substantial cashflow growth<br/> </li> </ul><h3>02 Feb 2012 - Royal Dutch Shell sets out new growth agenda</h3><ul><li><a href=\"http://www.shell.com/home/content/investor/news_and_library/2012_media_releases/shell_sets_out_new_growth_agenda_02022012.html\">Read the release</a></li></ul>",
+		"htmlimages": [{
+			"uri2x": "http://www-static.shell.com/static/investor/imgs/240_wide/peter_voser.jpg",
+			"timestamp": "1316991600",
+			"id": "e8a1955a1ede0cb18a13544932299721",
+			"uri": "http://www-static.shell.com/static/investor/imgs/240_wide/peter_voser.jpg"
+		}],
+		"publicationdate": "2012-09-06T07:13:00Z",
+		"metadata": {
+			"view": "Overview"
+		}
+	}, {
+		"summary": "Example summary #4",
+		"timestamp": "1282086000",
+		"id": "upstream-strategy",
+		"title": "Upstream strategy",
+		"maintext": "<ul><li>Profitable growth; price upside</li><li>&gt;80% of total capital spending</li><li>Sustained exploration investment</li></ul><p> <a href=\"http://www.shell.com/global/aboutshell/investor/strategy/upstream.html\">More about our Upstream strategy</a>.",
+		"publicationdate": "2012-02-25T00:07:09Z",
+		"metadata": {
+			"view": "Upstream"
+		}
+	}, {
+		"summary": "Example summary #5",
+		"timestamp": "1301526000",
+		"id": "downstream-strategy",
+		"title": "Downstream strategy",
+		"maintext": "<ul><li>Stable capital employed</li><li>Fewer refineries; upgrade chemicals assets</li><li>More concentrated marketing positions</li></ul><p>&gt; <a href=\"http://www.shell.com/global/aboutshell/investor/strategy/downstream.html\">More about our Downstream strategy</a> <br/><br/><br/><strong>Financial outlook</strong></p><ul><li>Generating surplus cashflow through cycle</li><li>Investing for growth; competitive payout</li><li>Substantial cashflow growth<br/> </li></ul><h3>02 Feb 2012 - Royal Dutch Shell sets out new growth agenda</h3><ul><li><a href=\"http://www.shell.com/home/content/investor/news_and_library/2012_media_releases/shell_sets_out_new_growth_agenda_02022012.html\">Read the release</a></li></ul>",
+		"publicationdate": "2010-05-03T00:07:09Z",
+		"metadata": {
+			"view": "Downstream"
+		}
+	}],
+	"apiversion": "2.0"
+}

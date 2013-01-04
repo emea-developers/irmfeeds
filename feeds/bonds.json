@@ -1,0 +1,130 @@
+{
+	"data": [{
+		"timestamp": "1321056000",
+		"id": "7d72baeaa17d8d67c113542734462312",
+		"summary": "Example summary #1",
+		"resources": [{
+			"id": "7d72baeaa17d8d67c113542734462474",
+			"timestamp": "1316991600",
+			"summary": "Example summary #2",
+			"textcontent": "Example text content #1",
+			"mimetype": "text/html",
+			"title": "Example title #3",
+			"thumbnail": {
+				"id": "7d72baeaa17d8d67c113542734462475",
+				"timestamp": "1311289200",
+				"uri2x": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif",
+				"uri": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
+			},
+			"description": "Example description #1",
+			"publicationdate": "2012-09-06T07:13:00Z",
+			"uri": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
+		}],
+		"title": "Example title #1",
+		"maintext": "Example maintext #1",
+		"events": [{
+			"id": "7d72baeaa17d8d67c113542734462463",
+			"title": "Example title #2",
+			"startdate": "2012-09-06T07:13:00Z",
+			"description": "Example description #1",
+			"year": "2012",
+			"period": "Autumn",
+			"enddate": "2012-09-06T07:13:00Z"
+		}],
+		"htmlimages": [{
+			"id": "b914b263da36d2b15aff4abfd53c8b42",
+			"timestamp": "0",
+			"uri2x": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/544-wide/spdc-mining-leasedivestments05092012.gif",
+			"uri": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/544-wide/spdc-mining-leasedivestments05092012.gif"
+		}],
+		"publicationdate": "2011-04-14T11:04:06Z",
+		"metadata": {
+			"view": "Bonds"
+		}
+	}, {
+		"timestamp": "1345413600",
+		"id": "app_bonds_credit_rating",
+		"summary": "Example summary #3",
+		"resources": [{
+			"id": "7d72baeaa17d8d67c113542734462488",
+			"timestamp": "1281740400",
+			"summary": "Example summary #4",
+			"textcontent": "Example text content #2",
+			"mimetype": "text/html",
+			"title": "Example title #6",
+			"thumbnail": {
+				"id": "7d72baeaa17d8d67c113542734462499",
+				"timestamp": "1310770800",
+				"uri2x": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif",
+				"uri": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
+			},
+			"description": "Example description #2",
+			"publicationdate": "2011-06-19T11:04:06Z",
+			"uri": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
+		}],
+		"title": "Example title #4",
+		"maintext": "Example maintext #2",
+		"events": [{
+			"id": "7d72baeaa17d8d67c113542734462487",
+			"title": "Example title #5",
+			"startdate": "2012-09-06T07:13:00Z",
+			"description": "Example description #2",
+			"year": "2012",
+			"period": "Spring",
+			"enddate": "2012-09-06T07:13:00Z"
+		}],
+		"htmlimages": [{
+			"id": "7d72baeaa17d8d67c113542734462486",
+			"timestamp": "0",
+			"uri2x": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/544-wide/maturity-bond-profilegraph21082012.gif",
+			"uri": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/544-wide/maturity-bond-profilegraph21082012.gif"
+		}],
+		"publicationdate": "2012-08-20T08:56:00Z",
+		"metadata": {
+			"view": "Bonds"
+		}
+	}, {
+		"timestamp": "1341525600",
+		"id": "credit-ratings",
+		"summary": "Example summary #5",
+		"resources": [{
+			"id": "7d72baeaa17d8d67c1135427344625012",
+			"timestamp": "1316300400",
+			"summary": "Example summary #1",
+			"textcontent": "Example text content #3",
+			"mimetype": "text/plain",
+			"title": "Example title #8",
+			"thumbnail": {
+				"id": "7d72baeaa17d8d67c1135427344625013",
+				"timestamp": "1324166400",
+				"uri2x": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/544-wide/maturity-bond-profilegraph21082012.gif",
+				"uri": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/544-wide/maturity-bond-profilegraph21082012.gif"
+			},
+			"description": "Example description #3",
+			"publicationdate": "2010-05-09T11:04:06Z",
+			"uri": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
+		}],
+		"title": "Bonds & credit ratings",
+		"maintext": "<table><tbody><tr><th> </th><th>S&amp;P    </th><th> </th><th> </th><th>Moody's</th><th> </th><th> </th></tr><tr><td> </td><td><em>Short-term rating</em></td><td><em>Long-term rating</em></td><td><em>Outlook</em></td><td><em>Short-term rating</em></td><td><em>Long-term rating</em></td><td><em>Outlook</em></td></tr><tr><td>Royal Dutch Shell plc</td><td>A-1+</td><td>AA</td><td>Stable</td><td>P-1</td><td>Aa1</td><td>Stable</td></tr><tr><td>Debt of Shell International Finance BV</td><td>A-1+</td><td>AA</td><td>Stable</td><td>P-1</td><td>Aa1</td><td>Stable</td></tr></tbody></table>",
+		"events": [{
+			"id": "7d72baeaa17d8d67c1135427344625011",
+			"title": "Example title #7",
+			"startdate": "2012-09-06T07:13:00Z",
+			"description": "Example description #3",
+			"year": "2012",
+			"period": "Autumn",
+			"enddate": "2012-09-06T07:13:00Z"
+		}],
+		"htmlimages": [{
+			"id": "7d72baeaa17d8d67c1135427344624910",
+			"timestamp": "1279321200",
+			"uri2x": "http://www-static.shell.com/static/investor/imgs/240_wide/peter_voser.jpg",
+			"uri": "http://www-static.shell.com/static/investor/imgs/240_wide/peter_voser.jpg"
+		}],
+		"publicationdate": "2012-09-06T07:13:00Z",
+		"metadata": {
+			"view": "Credit Ratings"
+		}
+	}],
+	"apiversion": "2.0"
+}

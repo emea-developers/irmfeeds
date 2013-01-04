@@ -1,0 +1,119 @@
+{
+	"data": [{
+		"summary": "Example summary #1",
+		"timestamp": "1334587633",
+		"id": "41be3696c47b2d9ae3a2192b73c8669a",
+		"textcontent": "Example text content #1",
+		"title": "2012 Investor factsheet",
+		"mimetype": "application/pdf",
+		"thumbnail": {
+			"timestamp": "1334587633",
+			"uri2x": "http://www-static.shell.com/static/investor/imgs/app/factsheet/2012_factsheet_english.png",
+			"id": "51be3696c47b2d9ae3a2192b73c8669i",
+			"uri": "http://www-static.shell.com/static/investor/imgs/app/factsheet/2012_factsheet_english.png"
+		},
+		"description": "2012 investor factsheet provides a high level overview of the businesses, strategy & investment highlights of Royal Dutch Shell plc.",
+		"publicationdate": "2011-07-31T23:49:56Z",
+		"uri": "http://www-static.shell.com/static/investor/downloads/shell_at_a_glance/shell_2012_ir_factsheetenglish.pdf"
+	}, {
+		"summary": "Chinese version of the 2012 investor factsheet, providing an overview of the business, strategy & investment highlights of Royal Dutch Shell plc.",
+		"timestamp": "1338802505",
+		"id": "2f005d7bdf40b188431fc1f42424d99a",
+		"textcontent": "Example text content #2",
+		"title": "2012 investor factsheet in Chinese",
+		"mimetype": "application/pdf",
+		"thumbnail": {
+			"timestamp": "1338802505",
+			"uri2x": "http://www-static.shell.com/static/investor/imgs/app/factsheet/2012_factsheet_chinese.png",
+			"id": "7ac9b99c82f9881ca913544940954591",
+			"uri": "http://www-static.shell.com/static/investor/imgs/app/factsheet/2012_factsheet_chinese.png"
+		},
+		"description": "Example description #1",
+		"publicationdate": "2011-06-28T00:21:35Z",
+		"uri": "http://www-static.shell.com/static/investor/downloads/shell_at_a_glance/shell_2012_ir_factsheetchinese.pdf"
+	}, {
+		"summary": "Dutch version of the 2012 investor factsheet, providing an overview of the business, strategy & investment highlights of Royal Dutch Shell plc.",
+		"timestamp": "1334587628",
+		"id": "8eb4af01ef545609f0cf652767811b39",
+		"textcontent": "Example text content #3",
+		"title": "2012 investor factsheet in Dutch",
+		"mimetype": "application/pdf",
+		"thumbnail": {
+			"timestamp": "1334587628",
+			"uri2x": "http://www-static.shell.com/static/investor/imgs/app/factsheet/2012_factsheet_dutch.png",
+			"id": "7ac9b99c82f9881ca913544940954602",
+			"uri": "http://www-static.shell.com/static/investor/imgs/app/factsheet/2012_factsheet_dutch.png"
+		},
+		"description": "Example description #2",
+		"publicationdate": "2012-10-01T00:21:35Z",
+		"uri": "http://www-static.shell.com/static/investor/imgs/240_wide/q3_2012_banner.gif"
+	}, {
+		"summary": "French version of the 2012 investor factsheet, providing an overview of the business, strategy & investment highlights of Royal Dutch Shell plc.",
+		"timestamp": "1337429438",
+		"id": "771dc47abd31a0dbf4c38688047527dc",
+		"textcontent": "Example text content #4",
+		"title": "2012 investor factsheet in French",
+		"mimetype": "application/pdf",
+		"thumbnail": {
+			"timestamp": "1337429438",
+			"uri2x": "http://www-static.shell.com/static/investor/imgs/app/factsheet/2012_factsheet_french.png",
+			"id": "7ac9b99c82f9881ca913544940954603",
+			"uri": "http://www-static.shell.com/static/investor/imgs/app/factsheet/2012_factsheet_french.png"
+		},
+		"description": "http://www-static.shell.com/static/investor/downloads/shell_at_a_glance/shell_2012_ir_factsheetfrench.pdf",
+		"publicationdate": "2012-05-02T00:21:35Z",
+		"uri": "http://www-static.shell.com/static/investor/imgs/240_wide/q3_2012_banner.gif"
+	}, {
+		"summary": "German version of the 2012 investor factsheet, providing an overview of the business, strategy & investment highlights of Royal Dutch Shell plc.",
+		"timestamp": "1337429439",
+		"id": "353d7ab05f96687f1178e3044f6d1b94",
+		"textcontent": "Example text content #5",
+		"title": "2012 investor factsheet in German",
+		"mimetype": "application/pdf",
+		"thumbnail": {
+			"timestamp": "1337429439",
+			"uri2x": "http://www-static.shell.com/static/investor/imgs/app/factsheet/2012_factsheet_german.png",
+			"id": "7ac9b99c82f9881ca913544940954614",
+			"uri": "http://www-static.shell.com/static/investor/imgs/app/factsheet/2012_factsheet_german.png"
+		},
+		"description": "Example description #3",
+		"publicationdate": "2012-08-24T00:21:35Z",
+		"uri": "http://www-static.shell.com/static/investor/downloads/shell_at_a_glance/shell_2012_ir_factsheetgerman.pdf"
+	},
+
+	{
+
+		"summary": "Japanese version of the 2012 investor factsheet, providing an overview of the business, strategy & investment highlights of Royal Dutch Shell plc.",
+		"timestamp": "1337867448",
+		"id": "4f8a196a400c4554fc140825d6391dc4",
+		"textcontent": "Example text content #6",
+		"title": "2012 investor factsheet in Japanese",
+		"mimetype": "application/pdf",
+		"thumbnail": {
+			"timestamp": "1337867448",
+			"uri2x": "http://www-static.shell.com/static/investor/imgs/app/factsheet/2012_factsheet_japanese.png",
+			"id": "7ac9b99c82f9881ca913544940954615",
+			"uri": "http://www-static.shell.com/static/investor/imgs/app/factsheet/2012_factsheet_japanese.png"
+		},
+		"description": "Example description #4",
+		"publicationdate": "2012-06-03T00:21:35Z",
+		"uri": "http://www-static.shell.com/static/investor/downloads/shell_at_a_glance/shell_2012_ir_factsheetjapanese.pdf"
+	}, {
+		"summary": "Spanish version of the 2012 investor factsheet, providing an overview of the business, strategy & investment highlights of Royal Dutch Shell plc.",
+		"timestamp": "1337429441",
+		"id": "d19759f6f1e65b793ee605fc5fa996dd",
+		"textcontent": "Example text content #7",
+		"title": "2012 investor factsheet in Spanish",
+		"mimetype": "application/pdf",
+		"thumbnail": {
+			"timestamp": "1337429441",
+			"uri2x": "http://www-static.shell.com/static/investor/imgs/app/factsheet/2012_factsheet_spanish.png",
+			"id": "7ac9b99c82f9881ca913544940954626",
+			"uri": "http://www-static.shell.com/static/investor/imgs/app/factsheet/2012_factsheet_spanish.png"
+		},
+		"description": "Example description #5",
+		"publicationdate": "2011-07-11T00:21:35Z",
+		"uri": "http://www-static.shell.com/static/investor/downloads/shell_at_a_glance/shell_2012_ir_factsheetspanish.pdf"
+	}],
+	"apiversion": "2.0"
+}

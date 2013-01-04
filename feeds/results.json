@@ -1,0 +1,290 @@
+{
+	"apiversion": "2.0",
+	"data": [{
+		"year": "2012",
+		"quarters": [{
+			"period": "Q3",
+			"active": true,
+			"notice": "64078b954da06749a8e94ea110e03275",
+			"noticeonly": false,
+			"statement": {
+				"id": "f091f399abb6b7ac2f135449291967034",
+				"timestamp": "1304204400",
+				"mimetype": "text/html",
+				"title": "CEO statement",
+				"textcontent": "<p>Royal Dutch Shell Chief Executive Officer Peter Voser commented: \"Shell is driving a long-term and consistent strategy, against a backdrop of volatile energy markets. Our profits pay for substantial investments in new energy supplies, and they pay dividends for our shareholders.</p><p>\"Our earnings were driven by lower oil and gas prices, and lower chemicals margins, which offset the benefits of our operating performance, underlying growth in oil and gas production, and higher results in Integrated Gas and Oil Products.</p><p>\"We’ve made progress with our Alaska exploration programme, commencing drilling operations in the Beaufort and Chukchi seas, as the industry continues to assess offshore potential there. This will be a multi-year exploration programme, demonstrating Shell’s commitments to high standards on sustainable development and safety.</p><p>\"We continue to refresh our portfolio, launching new oil and gas developments, making new exploration discoveries, purchasing new liquids-rich shale acreage and increasing our positions in oil and gas fields where we can add value with our innovation and scale. We are also continuing with our capital efficiency drive, selling down positions where others can add more value. We have announced around $6 billion of acquisitions and new acreage and also around $6 billion of asset sales in 2012, which will better position Shell for growth.</p><p>\"I am pleased with our progress in a difficult industry environment. There is more to come from Shell.\"</p>",
+				"description": "Quarter CEO statement  - extracted from a paragraph in \"Results announcement\"",
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www.shell.com/home/content/investor/financial_information/quarterlyresults/2012/q3/"
+			},
+			"summary": {
+				"id": "f091f399abb6b7ac2f135449291967032",
+				"timestamp": "1304204401",
+				"mimetype": "application/x-shockwave-flash",
+				"title": "CEO/CFO video",
+				"summary": "Quarter summary video",
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www.youtube.com/watch?v=FSDfC8YTDJE&feature=player_embedded"
+			},			
+			"report": {
+				"id": "ecec2cebe1e225c1810844f918842168",
+				"timestamp": "1277766000",
+				"mimetype": "application/pdf",
+				"title": "Results announcement",
+				"description": "Quarterly results announcement for the third quarter 2012.",
+				"thumbnail": {
+					"id": "28588e78820c429fb6449ca7767390ba",
+					"timestamp": "1265673600",
+					"uri": "http://www-static.shell.com/static/investor/imgs/app/quarterly_results/q3_2012.png"
+				},
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www-static.shell.com/static/investor/downloads/financial_information/quarterly_results/2012/q3/q3_2012_qra.pdf"
+			},
+			"disclosure": {
+				"id": "f091f399abb6b7ac2f135449291966932",
+				"timestamp": "1274137200",
+				"mimetype": "application/pdf",
+				"title": "Supplementary disclosure",
+				"description": "Unaudited financial statements and operating information",
+				"thumbnail": {
+					"id": "f091f399abb6b7ac2f135449291966933",
+					"timestamp": "1322179200",
+					"uri": "http://www-static.shell.com/static/investor/imgs/240_wide/2011_sustainability_report_cover.gif"
+				},
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/240-wide/2011-sustainabilityreportcover.gif"
+			},
+			"webcastmedia": {
+				"id": "ecec2cebe1e225c1810844f918842166",
+				"timestamp": "1267056000",
+				"mimetype": "text/html",
+				"title": "Webcasts",
+				"description": "Simon Henry, Chief Financial Officer of Royal Dutch Shell hosted a live audio webcast of the third quarter results 2012 on Thursday November 1 2012, 09:00 GMT",
+				"thumbnail": {
+					"id": "ecec2cebe1e225c1810844f918842173",
+					"timestamp": "1297036800",
+					"uri": "http://www-static.shell.com/static/investor/imgs/app/quarterly_results/webcast_shadow_app.png"
+				},
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://cache.cantos.com/webcast/pub/mobile/app_v01/app_lobby.html"
+			}
+		}, {
+			"period": "Q4",
+			"active": true,
+			"notice": "64078b954da06749a8e94ea110e03276",
+			"noticeonly": false,
+			"statement": {
+				"id": "f091f399abb6b7ac2f135449291967035",
+				"timestamp": "1304204400",
+				"mimetype": "text/html",
+				"title": "CEO statement",
+				"textcontent": "<p>Royal Dutch Shell Chief Executive Officer Peter Voser commented: \"Shell is driving a long-term and consistent strategy, against a backdrop of volatile energy markets. Our profits pay for substantial investments in new energy supplies, and they pay dividends for our shareholders.</p><p>\"Our earnings were driven by lower oil and gas prices, and lower chemicals margins, which offset the benefits of our operating performance, underlying growth in oil and gas production, and higher results in Integrated Gas and Oil Products.</p><p>\"We’ve made progress with our Alaska exploration programme, commencing drilling operations in the Beaufort and Chukchi seas, as the industry continues to assess offshore potential there. This will be a multi-year exploration programme, demonstrating Shell’s commitments to high standards on sustainable development and safety.</p><p>\"We continue to refresh our portfolio, launching new oil and gas developments, making new exploration discoveries, purchasing new liquids-rich shale acreage and increasing our positions in oil and gas fields where we can add value with our innovation and scale. We are also continuing with our capital efficiency drive, selling down positions where others can add more value. We have announced around $6 billion of acquisitions and new acreage and also around $6 billion of asset sales in 2012, which will better position Shell for growth.</p><p>\"I am pleased with our progress in a difficult industry environment. There is more to come from Shell.\"</p>",
+				"description": "Quarter CEO statement  - extracted from a paragraph in \"Results announcement\"",
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www.shell.com/home/content/investor/financial_information/quarterlyresults/2012/q3/"
+			},
+			"summary": {
+				"id": "f091f399abb6b7ac2f135449291967033",
+				"timestamp": "1304204401",
+				"mimetype": "application/x-shockwave-flash",
+				"title": "CEO/CFO video",
+				"summary": "Quarter summary video",
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www.youtube.com/watch?v=FSDfC8YTDJE&feature=player_embedded"
+			},			
+			"report": {
+				"id": "ecec2cebe1e225c1810844f918842169",
+				"timestamp": "1277766000",
+				"mimetype": "application/pdf",
+				"title": "Results announcement",
+				"description": "Quarterly results announcement for the fourth quarter 2012.",
+				"thumbnail": {
+					"id": "28588e78820c429fb6449ca7767390bb",
+					"timestamp": "1265673600",
+					"uri": "http://www-static.shell.com/static/investor/imgs/app/quarterly_results/q3_2012.png"
+				},
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www-static.shell.com/static/investor/downloads/financial_information/quarterly_results/2012/q3/q3_2012_qra.pdf"
+			},
+			"disclosure": {
+				"id": "f091f399abb6b7ac2f135449291966933",
+				"timestamp": "1274137200",
+				"mimetype": "application/pdf",
+				"title": "Supplementary disclosure",
+				"description": "Unaudited financial statements and operating information",
+				"thumbnail": {
+					"id": "f091f399abb6b7ac2f135449291966934",
+					"timestamp": "1322179200",
+					"uri": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/240-wide/2011-sustainabilityreportcover.gif"
+				},
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www-static.shell.com/content/dam/shell/static/investor/downloads/financial-information/quarterly-results/2012/q3/q3-2012-suppl-finandopdisclosure.pdf"
+			},
+			"webcastmedia": {
+				"id": "ecec2cebe1e225c1810844f918842167",
+				"timestamp": "1267056000",
+				"mimetype": "text/html",
+				"title": "Webcasts",
+				"description": "Simon Henry, Chief Financial Officer of Royal Dutch Shell hosted a live audio webcast of the fourth quarter results 2012 on Thursday November 1 2012, 09:00 GMT",
+				"thumbnail": {
+					"id": "ecec2cebe1e225c1810844f918842174",
+					"timestamp": "1297036800",
+					"uri": "http://www-static.shell.com/static/investor/imgs/app/quarterly_results/webcast_shadow_app.png"
+				},
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://cache.cantos.com/webcast/pub/mobile/app_v01/app_lobby.html"
+			}
+		}, {
+			"period": "Q2",
+			"active": true,
+			"notice": "64078b954da06749a8e94ea110e03277",
+			"noticeonly": false,
+			"statement": {
+				"id": "f091f399abb6b7ac2f135449291967036",
+				"timestamp": "1304204400",
+				"mimetype": "text/html",
+				"title": "CEO statement",	
+				"textcontent": "<p>Royal Dutch Shell Chief Executive Officer Peter Voser commented: \"We are moving forward in volatile times. Our profits have fallen with energy prices, but our growth strategy is delivering to the bottom line.</p><p>\"Shell’s second quarter 2012 earnings declined from year-ago levels, with weaker oil and North American gas prices offsetting the benefit of increased upstream volumes and improved refining margins. Our profits pay for Shell’s dividends and substantial investments in new projects, to ensure affordable and reliable energy supplies for our customers, adding value for our shareholders.\"</p><p>Voser continued: \"Our industry continues to see significant energy price volatility as a result of economic and political developments. Shell is implementing a long-term, consistent strategy against this volatile backdrop. Our plans for organic capital investment of around $32 billion in 2012 and medium-term financial and production growth are on track.</p><p>Shell has continuous improvement programmes in place to increase operational uptime and performance and to control costs. The new projects we’ve built in recent years are driving growth in the company today, and our investment decisions should drive oil and gas production for decades to come, with more than 20 key upstream projects under construction today.\"</p><p>\"We want leadership positions in the plays where we choose to invest, such as deepwater, integrated gas, tight gas and traditional basins, creating value for shareholders with Shell’s investment, people and innovation,\" Voser said.</p><p>\"Looking further into the future, Shell is following a deliberate strategy to bring more choice into the company’s next tranche of investment decisions, generating a larger range of new investment choices and growth pathways. Capital efficiency is an important part of Shell’s approach, with on-going actions to sell non-core positions, to form strategic partnerships and to add new growth positions.</p><p>Shell has continued to build high potential exploration acreage positions in 2012, including new liquids-rich shale and deepwater plays, and we are drilling important new wells over the next few months. In addition, Shell is assessing new integrated gas options in North America.\"</p><p>Voser concluded: \"Our strategy is focused on innovation and competitiveness. There is more to come from Shell.\"</p>",
+				"description": "Quarter CEO statement  - extracted from a paragraph in \"Results announcement\"",
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www.shell.com/home/content/investor/financial_information/quarterlyresults/2012/q2/"
+			},
+			"summary": {
+				"id": "f091f399abb6b7ac2f135449291967034",
+				"timestamp": "1304204401",
+				"mimetype": "application/x-shockwave-flash",
+				"title": "CEO/CFO video",
+				"summary": "Quarter summary video",
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www.youtube.com/watch?NR=1&v=N0Tf3micGRI&feature=player_embedded"
+			},			
+			"report": {
+				"id": "ecec2cebe1e225c1810844f918842170",
+				"timestamp": "1277766000",
+				"mimetype": "application/pdf",
+				"title": "Results announcement",
+				"description": "Quarterly results announcement for the second quarter 2012.",
+				"thumbnail": {
+					"id": "28588e78820c429fb6449ca7767390bc",
+					"timestamp": "1265673600",
+					"uri": "http://www-static.shell.com/static/investor/imgs/app/quarterly_results/q2_2012.png"
+				},
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www-static.shell.com/static/investor/downloads/financial_information/quarterly_results/2012/q2/q2_2012_qra.pdf"
+			},
+			"disclosure": {
+				"id": "f091f399abb6b7ac2f135449291966934",
+				"timestamp": "1274137200",
+				"mimetype": "application/pdf",
+				"title": "Supplementary disclosure",
+				"description": "Unaudited financial statements and operating information",
+				"thumbnail": {
+					"id": "f091f399abb6b7ac2f135449291966935",
+					"timestamp": "1322179200",
+					"uri": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/240-wide/2011-sustainabilityreportcover.gif"
+				},
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www-static.shell.com/content/dam/shell/static/investor/downloads/financial-information/quarterly-results/2012/q2/q2-2012-suppl-finandopdisclosure.pdf"
+			},
+			"webcastmedia": {
+				"id": "ecec2cebe1e225c1810844f918842168",
+				"timestamp": "1267056000",
+				"mimetype": "text/html",
+				"title": "Webcasts",
+				"description": "Simon Henry, Chief Financial Officer of Royal Dutch Shell hosted a live audio webcast of the second quarter results 2012 on Thursday November 1 2012, 09:00 GMT",
+				"thumbnail": {
+					"id": "ecec2cebe1e225c1810844f918842175",
+					"timestamp": "1297036800",
+					"uri": "http://www-static.shell.com/static/investor/imgs/app/quarterly_results/webcast_shadow_app.png"
+				},
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://cache.cantos.com/webcast/pub/mobile/app_v01/app_lobby.html"
+			}
+		}, {
+			"period": "Q1",
+			"active": true,
+			"notice": "64078b954da06749a8e94ea110e03278",
+			"noticeonly": false,
+			"statement": {
+				"id": "f091f399abb6b7ac2f135449291967037",
+				"timestamp": "1304204400",
+				"mimetype": "text/html",
+				"title": "CEO statement",	
+				"textcontent": "<p>Royal Dutch Shell Chief Executive Officer Peter Voser commented: \"We are making good progress against our targets to deliver a more competitive performance. Our profits pay for Shell’s dividends and substantial investments in new energy projects, to ensure affordable, reliable energy supplies for our customers, which create value for our shareholders.</p><p>Shell’s first quarter 2012 earnings increased from year-ago levels, through a combination of improved operating performance, increased upstream volumes and strong oil prices. Energy demand fundamentals are robust, but with near-term volatility in energy prices as a result of economic and political events. In downstream and North American natural gas we see continued challenges for our industry.\"</p><p>\"We are implementing our strategy by improving near-term performance, delivering a new wave of production growth and maturing the next generation of growth options for shareholders. Shell sold $2.4 billion of upstream and downstream positions during the quarter, enhancing our financial flexibility and capital efficiency, and unlocking new growth potential. Asset sales for 2012 are likely to be over $4 billion, compared with our earlier guidance of $2-3 billion.\"</p><p>\"During the quarter, production commenced at the Caesar/Tonga project in the Gulf of Mexico and the Pluto LNG project in Australia reached ready-for-start-up status. These two non-operated positions are expected to add a total of some 40 thousand barrels of oil equivalent per day (\"boe/d\") at peak for Shell and 0.9 million tonnes per annum (\"mtpa\") of LNG capacity. The ramp-up of Shell’s flagship Pearl GTL project in Qatar continued during the quarter, and the project is on track to reach full capacity in the middle of 2012. In the last few weeks, crude oil processing commenced at the Port Arthur refinery expansion project, creating one of the largest refineries in the United States.\"</p><p>\"This is all part of a portfolio of 26 projects that Shell is developing worldwide today,\" Voser continued. \"This industry-leading project line-up, combined with a focus on innovation and competitive performance across the company, will drive Shell to the clear targets we have set out for shareholders, namely around $175-200 billion of cash flow from operations in total for 2012-15, and a production potential of some 4 million boe/d in 2017-18.\"<i>(1)</i></p><p>Voser added: \"We continue to mature new investment options for medium-term growth, including new exploration acreage and positive results from the on-going appraisal of the Appomattox oil discovery in the Gulf of Mexico, where we see scope for some 500 million boe of resources with further upside potential. I am also very pleased to welcome new strategic partners into Shell’s Prelude Floating LNG project in Australia, as we continue to develop new international natural gas resources and markets.\"</p><p>\"The resumption of measured, affordable dividend growth we have confirmed today reflects the improving financial position of the company and delivery of our strategy,\" concluded Voser.</p>",
+				"description": "Quarter CEO statement  - extracted from a paragraph in \"Results announcement\"",
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www.shell.com/home/content/investor/financial_information/quarterlyresults/2012/q1/"
+			},
+			"summary": {
+				"id": "f091f399abb6b7ac2f135449291967035",
+				"timestamp": "1304204401",
+				"mimetype": "application/x-shockwave-flash",
+				"title": "CEO/CFO video",
+				"summary": "Quarter summary video",
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www.youtube.com/watch?NR=1&v=yczq6iU-kbU&feature=player_embedded"
+			},			
+			"report": {
+				"id": "ecec2cebe1e225c1810844f918842171",
+				"timestamp": "1277766000",
+				"mimetype": "application/pdf",
+				"title": "Results announcement",
+				"description": "Quarterly results announcement for the first quarter 2012.",
+				"thumbnail": {
+					"id": "28588e78820c429fb6449ca7767390bd",
+					"timestamp": "1265673600",
+					"uri": "http://www-static.shell.com/static/investor/imgs/app/quarterly_results/q1_2012.png"
+				},
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www-static.shell.com/static/investor/downloads/financial_information/quarterly_results/2012/q1/q1_2012_qra.pdf"
+			},
+			"disclosure": {
+				"id": "f091f399abb6b7ac2f135449291966935",
+				"timestamp": "1274137200",
+				"mimetype": "application/pdf",
+				"title": "Supplementary disclosure",
+				"description": "Unaudited financial statements and operating information",
+				"thumbnail": {
+					"id": "f091f399abb6b7ac2f135449291966936",
+					"timestamp": "1322179200",
+					"uri": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/240-wide/2011-sustainabilityreportcover.gif"
+				},
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://www-static.shell.com/content/dam/shell/static/investor/downloads/financial-information/quarterly-results/2012/q1/q1-2012-suppl-finandopdisclosure.pdf"
+			},
+			"webcastmedia": {
+				"id": "ecec2cebe1e225c1810844f918842169",
+				"timestamp": "1267056000",
+				"mimetype": "text/html",
+				"title": "Webcasts",
+				"description": "Simon Henry, Chief Financial Officer of Royal Dutch Shell hosted a live audio webcast of the first quarter results 2012 on Thursday November 1 2012, 09:00 GMT",
+				"thumbnail": {
+					"id": "ecec2cebe1e225c1810844f918842176",
+					"timestamp": "1297036800",
+					"uri": "http://www-static.shell.com/static/investor/imgs/app/quarterly_results/webcast_shadow_app.png"
+				},
+				"publicationdate": "2012-11-01T09:00:00Z",
+				"uri": "http://cache.cantos.com/webcast/pub/mobile/app_v01/app_lobby.html"
+			}
+		}],
+		"publications": [{
+			"id": "ecea2cebe1e525c9810844f918842160",
+			"timestamp": "1305414000",
+			"mimetype": "application/pdf",
+			"title": "2012 Annual report & form 20-F",
+			"description": "A comprehensive, 192-page overview of Shell in 2012, published March 15, 2012.",
+			"thumbnail": {
+				"id": "ecec2cebe1e225c9810844f918842160",
+				"timestamp": "1350601200",
+				"uri": "http://www-static.shell.com/static/investor/imgs/app/annual_publications/2012_annual_report_app.png",
+				"uri2x": "http://www-static.shell.com/static/investor/imgs/app/annual_publications/2012_annual_report_app.png"
+			},
+			"publicationdate": "2012-11-01T09:00:00Z",
+			"uri": "http://s01.static-shell.com/content/dam/shell/static/src/downloads/annual-reports/2011/annual-report-2011.pdf"
+		}],
+		"q2date": "2012-04-15T14:00:00Z",
+		"q3date": "2012-08-15T16:00:00Z",
+		"q1date": "2012-01-15T12:00:00Z",
+		"q4date": "2012-12-15T18:00:00Z"
+	}]
+}

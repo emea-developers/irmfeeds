@@ -1,0 +1,34 @@
+{
+	"data": [{
+		"summary": "Class A ordinary shares & Class B ordinary shares have identical rights, except related to the dividend access mechanism, which applies only to the Class B ordinary shares.",
+		"timestamp": "1312495200",
+		"id": "diff-a-b-shares",
+		"title": "Difference between A & B shares",
+		"maintext": "<p>Dividends paid on Class A ordinary shares have a Dutch source for tax purposes & are subject to Dutch withholding tax (see note 1 - Taxation). It is the expectation & the intention, although there can be no certainty, that holders of Class B ordinary shares will receive dividends via the dividend access mechanism (see note 2 - Dividend Access Mechanism).</p><p>Any dividends paid on the dividend access share will have a UK source for Dutch & UK tax purposes; there will be no UK or Dutch withholding tax on such dividends & certain holders (not including US holders) of Class B ordinary shares or Class B ADSs will be entitled to a UK tax credit in respect of their proportional share of such dividends.</p><h3>Note 1 - Taxation</h3><p>Royal Dutch Shell is incorporated in Engl& & Wales & tax-resident in the Netherlands. As a tax resident of the Netherlands, it is generally required by Dutch law to withhold tax at a rate of 15% on dividends with effect from January 1, 2007 (in 2006 the withholding tax rate was 25%) on its ordinary shares & ADSs, subject to the provisions of any applicable tax convention or domestic law.</p>",
+		"publicationdate": "2011-08-05T10:13:00Z",
+		"metadata": {
+			"view": "Difference between A & B shares"
+		}
+	}, {
+		"summary": "Example summary #1",
+		"timestamp": "1312495201",
+		"id": "ads-or-adr",
+		"title": "Difference between A & B shares",
+		"maintext": "<p>ADS stands for an American Depositary Share. ADSs are listed on the NYSE under the symbols RDS.A & RDS.B. Each ADS represents two ordinary shares, two A Shares in the case of RDS.A or two B Shares in the case of RDS.B. ADS ownership is evidenced by American Depositary Receipts or ADRs. ADSs are quoted & traded in U.S. dollars in the U.S. securities market. Also, the dividends are paid to investor in U.S. dollars.</p><p>ADSs were specifically designed to facilitate the purchase, holding & sale of non-U.S. securities by U.S. investors, & to provide a corporate finance vehicle for non-U.S. companies. ADSs can be held in book-entry form or as a physical certificate.</p><p>An ADR is a negotiable U.S. certificate representing ownership of the ADSs in a non-U.S. corporation.  In many cases the terms ADR & ADS are used interchangeably.</p>",
+		"publicationdate": "2011-08-05T10:13:00Z",
+		"metadata": {
+			"view": "What is an ADS or an ADR?"
+		}
+	}, {
+		"summary": "On this page information about our shares, such as exchanges, tickers, ISIN codes, identification numbers & registered offices of Shell.",
+		"timestamp": "1312495202",
+		"id": "ticker-isin",
+		"title": "Ticker & ISIN codes",
+		"maintext": "<table><tbody><tr><th> </th><th>Royal Dutch Shell plc Amsterdam</th><th>Royal Dutch Shell plc London</th><th>Royal Dutch Shell plc New York (ADS)</th></tr><tr><th>Primary Exchange</th><td>Amsterdam</td><td>London</td><td>New York</td></tr><tr><th>Ticker Codes</th><td>RDSA<br/>RDSB</td><td>RDSA<br/>RDSB</td><td>RDS.A<br/>RDS.B</td></tr><tr><th>Currency</th><td>EUR</td><td>GBP</td><td>USD</td></tr><tr><th>Par Value</th><td>€0.07</td><td>€0.07</td><td>€0.07</td></tr><tr><th>SEDOL A-share</th><td>B09CBL4</td><td>B03MLX2</td><td>B03MM62</td></tr><tr><th>SEDOL B-share</th><td>B03MM40</td><td>B09CBN6</td><td>B03MM73</td></tr><tr><th>ISIN A-share</th><td>GB00B03MLX29</td><td>GB00B03MLX29</td><td>US7802592060</td></tr><tr><th>ISIN B-share</th><td>GB00B03MM408</td><td>GB00B03MM408</td><td>US7802591070</td></tr><tr><th>CUSIP A-share</th><td>G7690A100</td><td>G7690A100</td><td>780259206</td></tr><tr><th>CUSIP B-share</th><td>G7690A118</td><td>G7690A118</td><td>780259107</td></tr><tr><th>Dividend Frequency</th><td>Quarterly</td><td>Quarterly</td><td>Quarterly</td></tr><tr><th>Registered Office</th><td>Shell Centre<br/>London<br/>SE1 7NA<br/>United Kingdom</td><td>Shell Centre<br/>London<br/>SE1 7NA<br/>United Kingdom</td><td>Shell Centre<br/>London<br/>SE1 7NA<br/>United Kingdom</td></tr><tr><th>Headquarters</th><td><p>Carel van Bylandtlaan 30<br/>2596 HR The Hague<br/>The Netherlands</p></td><td><p>Carel van Bylandtlaan 30<br/>2596 HR The Hague<br/>The Netherlands</p></td><td><p>Carel van Bylandtlaan 30<br/>2596 HR The Hague<br/>The Netherlands</p></td></tr><tr><th>Registrars</th><td>Equiniti</td><td>Equiniti</td><td>Equiniti</td></tr></tbody></table>",
+		"publicationdate": "2011-08-05T10:13:00Z",
+		"metadata": {
+			"view": "Ticker & ISIN codes"
+		}
+	}],
+	"apiversion": "2.0"
+}

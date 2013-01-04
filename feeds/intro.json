@@ -1,0 +1,14 @@
+{
+	"data": [{
+		"summary": "Example summary #1",
+		"timestamp": "1354034700",
+		"id": "intro",
+		"title": "Example title #1",
+		"textcontent": "Example text content #1",
+		"mimetype": "application/x-shockwave-flash",
+		"description": "Example description #1",
+		"publicationdate": "2012-11-01T07:00:00Z",
+		"uri": "http://www.youtube.com/embed/g-KrQ4T3DH8"
+	}],
+	"apiversion": "2.0"
+}
