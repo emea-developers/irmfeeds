@@ -22,15 +22,6 @@
 		}],
 		"title": "Example title #1",
 		"maintext": "Example maintext #1",
-		"events": [{
-			"id": "7d72baeaa17d8d67c113542734462463",
-			"title": "Example title #2",
-			"startdate": "2012-09-06T07:13:00Z",
-			"description": "Example description #1",
-			"year": "2012",
-			"period": "Autumn",
-			"enddate": "2012-09-06T07:13:00Z"
-		}],
 		"htmlimages": [{
 			"id": "b914b263da36d2b15aff4abfd53c8b42",
 			"timestamp": "0",
@@ -64,15 +55,6 @@
 		}],
 		"title": "Example title #4",
 		"maintext": "Example maintext #2",
-		"events": [{
-			"id": "7d72baeaa17d8d67c113542734462487",
-			"title": "Example title #5",
-			"startdate": "2012-09-06T07:13:00Z",
-			"description": "Example description #2",
-			"year": "2012",
-			"period": "Spring",
-			"enddate": "2012-09-06T07:13:00Z"
-		}],
 		"htmlimages": [{
 			"id": "7d72baeaa17d8d67c113542734462486",
 			"timestamp": "0",
@@ -106,15 +88,6 @@
 		}],
 		"title": "Bonds & credit ratings",
 		"maintext": "<table><tbody><tr><th> </th><th>S&amp;P    </th><th> </th><th> </th><th>Moody's</th><th> </th><th> </th></tr><tr><td> </td><td><em>Short-term rating</em></td><td><em>Long-term rating</em></td><td><em>Outlook</em></td><td><em>Short-term rating</em></td><td><em>Long-term rating</em></td><td><em>Outlook</em></td></tr><tr><td>Royal Dutch Shell plc</td><td>A-1+</td><td>AA</td><td>Stable</td><td>P-1</td><td>Aa1</td><td>Stable</td></tr><tr><td>Debt of Shell International Finance BV</td><td>A-1+</td><td>AA</td><td>Stable</td><td>P-1</td><td>Aa1</td><td>Stable</td></tr></tbody></table>",
-		"events": [{
-			"id": "7d72baeaa17d8d67c1135427344625011",
-			"title": "Example title #7",
-			"startdate": "2012-09-06T07:13:00Z",
-			"description": "Example description #3",
-			"year": "2012",
-			"period": "Autumn",
-			"enddate": "2012-09-06T07:13:00Z"
-		}],
 		"htmlimages": [{
 			"id": "7d72baeaa17d8d67c1135427344624910",
 			"timestamp": "1279321200",
