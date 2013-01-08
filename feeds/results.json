@@ -491,7 +491,7 @@
 			"period": "Q1",
 			"active": true,
 			"notice": "64078b954da06749a8e94ea110e03278",
-			"noticeonly": false,
+			"noticeonly": true,
 			"statement": {
 				"id": "f091f399abb6b7ac2f135449291967037",
 				"timestamp": "1304204400",
