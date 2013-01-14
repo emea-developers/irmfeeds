@@ -568,6 +568,36 @@
 			},
 			"publicationdate": "2012-11-01T09:00:00Z",
 			"uri": "http://s01.static-shell.com/content/dam/shell/static/src/downloads/annual-reports/2011/annual-report-2011.pdf"
+		},
+		{
+			"id": "ecea2cebe1e525c9810844f9188421603",
+			"timestamp": "1305414000",
+			"mimetype": "application/pdf",
+			"title": "2012 Annual report & form 2012",
+			"description": "A comprehensive, 12-page overview of Shell in 2012, published March 16, 2012.",
+			"thumbnail": {
+				"id": "ecec2cebe1e225c9810844f918842160e3",
+				"timestamp": "1350601200",
+				"uri": "http://www-static.shell.com/static/investor/imgs/app/annual_publications/2012_annual_report_app.png",
+				"uri2x": "http://www-static.shell.com/static/investor/imgs/app/annual_publications/2012_annual_report_app.png"
+			},
+			"publicationdate": "2012-11-01T09:00:00Z",
+			"uri": "http://cran.r-project.org/doc/manuals/R-intro.pdf"
+		},
+		{
+			"id": "ecea2cebe1e525c9810844f91884216033",
+			"timestamp": "1305414000",
+			"mimetype": "application/pdf",
+			"title": "2012 Annual report & form 2012",
+			"description": "A comprehensive, 12-page overview of Shell in 2012, published March 16, 2012.",
+			"thumbnail": {
+				"id": "ecec2cebe1e225c9810844f9188e42160e3",
+				"timestamp": "1350601200",
+				"uri": "http://www-static.shell.com/static/investor/imgs/app/annual_publications/2012_annual_report_app.png",
+				"uri2x": "http://www-static.shell.com/static/investor/imgs/app/annual_publications/2012_annual_report_app.png"
+			},
+			"publicationdate": "2012-11-01T09:00:00Z",
+			"uri": "http://www.gradsch.ohio-state.edu/Depo/ETD_Tutorial/lesson2.pdf"
 		}],
 		"q2date": "2012-04-15T14:00:00Z",
 		"q3date": "2012-08-15T16:00:00Z",
