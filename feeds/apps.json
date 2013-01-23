@@ -32,6 +32,45 @@
 		"storelink": "http://itunes.apple.com/gb/app/inside-energy/id475855445?mt=8",
 		"description": "<p>An inventive use of video, animations, photos, & sound help the user go inside energy. – Chris Hauk, Mactrast.com</p><p>INSIDE ENERGY lets you explore interactive stories on innovation & the energy powering our lives. Discover new ways of finding energy, learn about advances in technology, & meet the people involved in making it happen. New stories & interactive features are regularly added.</p><p>This Shell app opens a window onto the creative ways energy can be produced, & used. </p><p>Find out, for example, how tiny threads of glass are helping to produce energy. </p><p>Meet students who have designed a car that travels a distance equivalent to going from Paris to Moscow on a single litre of fuel.</p><p>See inside the stove that is helping millions of the world’s poorest to breathe cleaner air, & hear from some of the people whose lives have improved.</p><p>If you have questions or feedback on the INSIDE ENERGY app, then please email us at insideenergy@shell.com.</p>",
 		"publicationdate": "2012-09-06T07:13:00Z"
+	},{
+		"timestamp": "1339161714",
+		"id": "bb93ef6904456bc2e21354493648591311",
+		"os": "android",
+		"title": "Shell investor & media",
+		"thumbnail": {
+			"timestamp": "1265673600",
+			"uri2x": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments050",
+			"id": "ecec2cebe6e525c9810844f91884216411",
+			"uri": "http://raw.github.com/emea-developers/irmfeeds/android/res/img169.png"
+		},
+		"storelink": "http://play.google.com/store/apps/details?id=com.mobgen.shellir",
+		"description": "<p>Shell’s Investor & Media app gives you our latest news, tweets, share prices, information on forthcoming events, our strategy & bonds & credits information. You’ll be able to access our most recent quarterly results including live & archived webcasts, read annual publications including our sustainability report & investor fact sheet, watch.</p>",
+		"publicationdate": "2012-09-06T07:13:00Z"
+	},{
+		"timestamp": "1339161714",
+		"id": "bb93ef6904456bc2e2135449364859132",
+		"os": "android",
+		"title": "Shell Lubricants",
+		"thumbnail": {
+			"timestamp": "1265673600",
+			"uri2x": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments050",
+			"id": "ecec2cebe6e525c9810844f918842164",
+			"uri": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments050"
+		},
+        "altthumbnail": {
+			"summary": "Example summary #1",
+			"timestamp": "1310079600",
+			"id": "bb93ef6904456bc2e213544936485973",
+			"title": "Example title #2",
+			"textcontent": "Example text content #1",
+			"mimetype": "application/x-shockwave-flash",
+			"description": "Example description #1",
+			"publicationdate": "2011-2-4T00:14:08Z",
+			"uri": "http://www.youtube.com/embed/pLwQ14PCRig"
+		},
+		"storelink": "http://play.google.com/store/apps/details?id=com.shell.sitibv.lubematch",
+		"description": "<p>The Shell Lubricants app allows you to find the best lubricants for your vehicle or equipment. Features include:<p>- Shell LubeMatch lubricant recommendations<br>- Quick access to 'Last Searched' vehicles and equipment<br>- Ability to share recommendations<br>- Saving vehicles &amp; equipment to your 'Favourites'<br>- Access to the latest news and promotions<br>- Handy torch functionality for devices with LED flash</p><p>NOTE: For best user experience we recommend using the Shell Lubricants app while connected to WiFi</p></p>",
+		"publicationdate": "2012-09-06T07:13:00Z"
 	}],
 	"apiversion": "2.0"
 }
