@@ -24,7 +24,7 @@
               "title" : "CEO Statement",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "CEO Statement"
+                "view" : "statement"
               }
             },
             {
@@ -44,7 +44,7 @@
               "title" : "CEO/CFO video",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "CEO/CFO video"
+                "view" : "video"
               }
             },
             {
@@ -69,7 +69,7 @@
               "title" : "Results announcement",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Results announcement"
+                "view" : "results_announcement"
               }
             },
             {
@@ -94,7 +94,7 @@
               "title" : "Supplementary disclosure",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "Supplementary disclosure"
+                "view" : "disclosure"
               }
             },
             {
@@ -119,7 +119,7 @@
               "title" : "Webcasts",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Webcasts"
+                 "view" : "webcasts"
               }
             },
             {
@@ -147,7 +147,7 @@
               "title" : "Quarterly results presentation",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Quarterly results presentation"
+                "view" : "presentation"
               }
             },
             {
@@ -190,7 +190,7 @@
               "title" : "Dividend Announcement",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Dividend Announcement"
+                "view" : "dividend_nnouncement"
               }
             }
           ],
@@ -219,7 +219,7 @@
               "title" : "CEO Statement",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "CEO Statement"
+                "view" : "statement"
               }
             },
             {
@@ -239,7 +239,7 @@
               "title" : "CEO/CFO video",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "CEO/CFO video"
+                "view" : "video"
               }
             },
             {
@@ -264,7 +264,7 @@
               "title" : "Results announcement",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Results announcement"
+                "view" : "results_announcement"
               }
             },
             {
@@ -289,7 +289,7 @@
               "title" : "Supplementary disclosure",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "Supplementary disclosure"
+                "view" : "disclosure"
               }
             },
             {
@@ -314,7 +314,7 @@
               "title" : "Webcasts",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Webcasts"
+                 "view" : "webcasts"
               }
             },
             {
@@ -342,7 +342,7 @@
               "title" : "Quarterly results presentation",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Quarterly results presentation"
+                "view" : "presentation"
               }
             },
             {
@@ -385,7 +385,7 @@
               "title" : "Dividend Announcement",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Dividend Announcement"
+                "view" : "dividend_announcement"
               }
             }
           ],
@@ -414,7 +414,7 @@
               "title" : "CEO Statement",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "CEO Statement"
+                "view" : "statement"
               }
             },
             {
@@ -434,7 +434,7 @@
               "title" : "CEO/CFO video",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "CEO/CFO video"
+                "view" : "video"
               }
             },
             {
@@ -459,7 +459,7 @@
               "title" : "Results announcement",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Results announcement"
+                "view" : "results_announcement"
               }
             },
             {
@@ -484,7 +484,7 @@
               "title" : "Supplementary disclosure",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "Supplementary disclosure"
+                "view" : "disclosure"
               }
             },
             {
@@ -509,7 +509,7 @@
               "title" : "Webcasts",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Webcasts"
+                 "view" : "webcasts"
               }
             },
             {
@@ -537,7 +537,7 @@
               "title" : "Quarterly results presentation",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Quarterly results presentation"
+                "view" : "presentation"
               }
             },
             {
@@ -580,7 +580,7 @@
               "title" : "Dividend Announcement",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Dividend Announcement"
+                "view" : "dividend_announcement"
               }
             }
           ],
@@ -629,7 +629,7 @@
               "title" : "CEO/CFO video",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "CEO/CFO video"
+                "view" : "video"
               }
             },
             {
@@ -654,7 +654,7 @@
               "title" : "Results announcement",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Results announcement"
+                "view" : "results_announcement"
               }
             },
             {
@@ -679,7 +679,7 @@
               "title" : "Supplementary disclosure",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "Supplementary disclosure"
+                "view" : "disclosure"
               }
             },
             {
@@ -704,7 +704,7 @@
               "title" : "Webcasts",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Webcasts"
+                 "view" : "webcasts"
               }
             },
             {
@@ -732,7 +732,7 @@
               "title" : "Quarterly results presentation",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Quarterly results presentation"
+                "view" : "presentation"
               }
             },
             {
@@ -775,7 +775,7 @@
               "title" : "Dividend Announcement",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Dividend Announcement"
+                "view" : "dividend_announcement"
               }
             }
           ],
@@ -830,7 +830,7 @@
               "title" : "CEO Statement",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "CEO Statement"
+                "view" : "ceo_statement"
               }
             },
             {
@@ -850,7 +850,7 @@
               "title" : "CEO/CFO video",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "CEO/CFO video"
+                "view" : "ceo_video"
               }
             },
             {
@@ -875,7 +875,7 @@
               "title" : "Results announcement",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Results announcement"
+                "view" : "results_announcement"
               }
             },
             {
@@ -900,7 +900,7 @@
               "title" : "Supplementary disclosure",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "Supplementary disclosure"
+                "view" : "disclosure"
               }
             },
             {
@@ -925,7 +925,7 @@
               "title" : "Webcasts",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Webcasts"
+                 "view" : "webcasts"
               }
             },
             {
@@ -953,7 +953,7 @@
               "title" : "Quarterly results presentation",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Quarterly results presentation"
+                "view" : "presentation"
               }
             },
             {
@@ -996,7 +996,7 @@
               "title" : "Dividend Announcement",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Dividend Announcement"
+                "view" : "announcement"
               }
             }
           ],
@@ -1025,7 +1025,7 @@
               "title" : "CEO Statement",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "CEO Statement"
+                "view" : "statement"
               }
             },
             {
@@ -1042,10 +1042,10 @@
                   "uri" : "http://www.youtube.com/embed/FSDfC8YTDJE"
                 }
               ],
-              "title" : "CEO/CFO video",
+              "title" : "video",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "CEO/CFO video"
+                "view" : "video"
               }
             },
             {
@@ -1070,7 +1070,7 @@
               "title" : "Results announcement",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Results announcement"
+                "view" : "results_announcement"
               }
             },
             {
@@ -1095,7 +1095,7 @@
               "title" : "Supplementary disclosure",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "Supplementary disclosure"
+                "view" : "disclosure"
               }
             },
             {
@@ -1120,7 +1120,7 @@
               "title" : "Webcasts",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Webcasts"
+                 "view" : "webcasts"
               }
             },
             {
@@ -1148,7 +1148,7 @@
               "title" : "Quarterly results presentation",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Quarterly results presentation"
+                "view" : "presentation"
               }
             },
             {
@@ -1191,7 +1191,7 @@
               "title" : "Dividend Announcement",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Dividend Announcement"
+                "view" : "dividend_announcement"
               }
             }
           ],
@@ -1240,7 +1240,7 @@
               "title" : "CEO/CFO video",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "CEO/CFO video"
+                "view" : "video"
               }
             },
             {
@@ -1265,7 +1265,7 @@
               "title" : "Results announcement",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Results announcement"
+                "view" : "results_announcement"
               }
             },
             {
@@ -1290,7 +1290,7 @@
               "title" : "Supplementary disclosure",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "Supplementary disclosure"
+                "view" : "disclosure"
               }
             },
             {
@@ -1315,7 +1315,7 @@
               "title" : "Webcasts",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Webcasts"
+                 "view" : "webcasts"
               }
             },
             {
@@ -1343,7 +1343,7 @@
               "title" : "Quarterly results presentation",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Quarterly results presentation"
+                "view" : "presentation"
               }
             },
             {
@@ -1386,7 +1386,7 @@
               "title" : "Dividend Announcement",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Dividend Announcement"
+                "view" : "dividend_announcement"
               }
             }
           ],
@@ -1435,7 +1435,7 @@
               "title" : "CEO/CFO video",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "CEO/CFO video"
+                "view" : "video"
               }
             },
             {
@@ -1460,7 +1460,7 @@
               "title" : "Results announcement",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Results announcement"
+                "view" : "results_announcement"
               }
             },
             {
@@ -1485,7 +1485,7 @@
               "title" : "Supplementary disclosure",
               "publicationdate" : "2012-11-01T09:00:00Z",
               "metadata" : {
-                "view" : "Supplementary disclosure"
+                "view" : "disclosure"
               }
             },
             {
@@ -1510,7 +1510,7 @@
               "title" : "Webcasts",
               "publicationdate" : "2013-01-01T00:00:00Z",
               "metadata" : {
-                "view" : "Webcasts"
+                 "view" : "webcasts"
               }
             },
             {
@@ -1538,7 +1538,7 @@
               "title" : "Quarterly results presentation",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Quarterly results presentation"
+                "view" : "presentation"
               }
             },
             {
@@ -1581,7 +1581,7 @@
               "title" : "Dividend Announcement",
               "publicationdate" : "2012-09-25T13:30:00Z",
               "metadata" : {
-                "view" : "Dividend Announcement"
+                "view" : "dividend_announcement"
               }
             }
           ],
