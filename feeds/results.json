@@ -788,19 +788,6 @@
       ],
       "publications" : [
         {
-          "id" : "1ecea2cebe1e525c9810844842160",
-          "timestamp" : "1305414000",
-          "mimetype" : "application/pdf",
-          "title" : "2012 Annual report & form 20-F",
-          "description" : "A comprehensive, 192-page overview of Shell in 2012, published March 15, 2012.",
-          "thumbnail" : {
-            "id" : "1ecec2cebe1e225c9810848842160",
-            "timestamp" : "1350601200",
-            "uri" : "http://www-static.shell.com/static/investor/imgs/app/annual_publications/2012_annual_report_app.png",
-            "uri2x" : "http://www-static.shell.com/static/investor/imgs/app/annual_publications/2012_annual_report_app.png"
-          },
-          "publicationdate" : "2012-11-01T09:00:00Z",
-          "uri" : "http://s01.static-shell.com/content/dam/shell/static/src/downloads/annual-reports/2011/annual-report-2011.pdf"
         }
       ],
       "q2date" : "2012-04-15T14:00:00Z",
