@@ -786,10 +786,7 @@
           "noticeonly" : false
         }
       ],
-      "publications" : [
-        {
-        }
-      ],
+      "publications" : [ ],
       "q2date" : "2012-04-15T14:00:00Z",
       "q3date" : "2012-08-15T16:00:00Z",
       "q1date" : "2012-01-15T12:00:00Z",
