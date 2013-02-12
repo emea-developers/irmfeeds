@@ -391,9 +391,9 @@
             }
           ],
           "period" : "Q3",
-          "active" : true,
+          "active" : false,
           "notice" : "64078b954da06749a8e94ea110e03275",
-          "noticeonly" : false
+          "noticeonly" : true
         },
         {
           "sections" : [
@@ -586,7 +586,7 @@
             }
           ],
           "period" : "Q4",
-          "active" : true,
+          "active" : false,
           "notice" : "164078b954da06749a234xc8e94ea110e03276",
           "noticeonly" : false
         },
