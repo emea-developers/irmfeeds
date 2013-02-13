@@ -6,13 +6,13 @@
       "resources" : [
         {
           "timestamp" : "1309734000",
-          "id" : "db1585e7ef15ab3d3c13544921968793",
+          "id" : "1db1585e7ef15ab3d3c13544921968793",
           "title" : "Maturity bond profile graph",
           "mimetype" : "text/plain",
           "thumbnail" : {
             "uri2x" : "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif",
             "timestamp" : "1345244400",
-            "id" : "db1585e7ef15ab3d3c13544921968894",
+            "id" : "2db1585e7ef15ab3d3c13544921968894",
             "uri" : "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
           },
           "publicationdate" : "2011-07-31T23:49:56Z",
@@ -32,13 +32,13 @@
       "resources" : [
         {
           "timestamp" : "1351638000",
-          "id" : "88d2a1cb7c8261e32f9049a2a98749df",
+          "id" : "388d2a1cb7c8261e32f9049a2a98749df",
           "title" : "Latest announcement",
           "mimetype" : "text/html",
           "thumbnail" : {
             "uri2x" : "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif",
             "timestamp" : "1264377600",
-            "id" : "db1585e7ef15ab3d3c13544921968907",
+            "id" : "4db1585e7ef15ab3d3c13544921968907",
             "uri" : "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
           },
           "publicationdate" : "2012-11-01T07:00:00Z",
@@ -91,13 +91,13 @@
       "resources" : [
         {
           "timestamp" : "1351724400",
-          "id" : "56daf8cb49345b12700c80ee97dcc400",
+          "id" : "456daf8cb49345b12700c80ee97dcc400",
           "title" : "3rd quarter 2012",
           "mimetype" : "text/html",
           "thumbnail" : {
             "uri2x" : "http://www-static.shell.com/static/investor/imgs/240_wide/peter_voser.jpg",
             "timestamp" : "1352160000",
-            "id" : "db1585e7ef15ab3d3c135449219689110",
+            "id" : "5db1585e7ef15ab3d3c135449219689110",
             "uri" : "http://www-static.shell.com/static/investor/imgs/240_wide/peter_voser.jpg"
           },
           "publicationdate" : "2011-10-27T06:00:00Z",
@@ -254,13 +254,13 @@
       "resources" : [
         {
           "timestamp" : "1284640345",
-          "id" : "ecec2cebe6e525c9810844f918842163",
+          "id" : "6ecec2cebe6e525c9810844f918842163",
           "title" : "Letter to shareholders in english",
           "mimetype" : "application/pdf",
           "thumbnail" : {
             "uri2x" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_english.png",
             "timestamp" : "1284640345",
-            "id" : "b6e23d55c25c0efcab6bb0c47b860745",
+            "id" : "7b6e23d55c25c0efcab6bb0c47b860745",
             "uri" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_english.png"
           },
           "description" : "Letter to shareholders from chairman Jorma Ollila about the scrip dividend programme.",
@@ -269,13 +269,13 @@
         },
         {
           "timestamp" : "1284640345",
-          "id" : "b6e23d55c25c0efcab6bb0c47b860745",
+          "id" : "8b6e23d55c25c0efcab6bb0c47b860745",
           "title" : "Letter to shareholders in dutch",
           "mimetype" : "application/pdf",
           "thumbnail" : {
             "uri2x" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_dutch.png",
             "timestamp" : "1284640345",
-            "id" : "b6e23d55c25c0efcab6bb0c47b860745",
+            "id" : "9b6e23d55c25c0efcab6bb0c47b860745",
             "uri" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_dutch.png"
           },
           "description" : "Letter to shareholders from chairman Jorma Ollila about the scrip dividend programme.",
@@ -284,13 +284,13 @@
         },
         {
           "timestamp" : "1284640345",
-          "id" : "ae082962a29a921ff442003fbaa8d7d2",
+          "id" : "10ae082962a29a921ff442003fbaa8d7d2",
           "title" : "Letter to shareholders in german",
           "mimetype" : "application/pdf",
           "thumbnail" : {
             "uri2x" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_german.png",
             "timestamp" : "1284640345",
-            "id" : "b6e23d55c25c0efcab6bb0c47b860745",
+            "id" : "11b6e23d55c25c0efcab6bb0c47b860745",
             "uri" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_german.png"
           },
           "description" : "Letter to shareholders from chairman Jorma Ollila about the scrip dividend programme.",
@@ -299,13 +299,13 @@
         },
         {
           "timestamp" : "1284640345",
-          "id" : "79ece8acde905804849452e7ee3fdbd0",
+          "id" : "1279ece8acde905804849452e7ee3fdbd0",
           "title" : "Letter to shareholders in french",
           "mimetype" : "application/pdf",
           "thumbnail" : {
             "uri2x" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_french.png",
             "timestamp" : "1284640345",
-            "id" : "b6e23d55c25c0efcab6bb0c47b860745",
+            "id" : "13b6e23d55c25c0efcab6bb0c47b860745",
             "uri" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_french.png"
           },
           "description" : "Letter to shareholders from chairman Jorma Ollila about the scrip dividend programme.",
