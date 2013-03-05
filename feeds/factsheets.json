@@ -13,6 +13,7 @@
 		},
 		"publicationdate": "2011-07-31T23:49:56Z",
 		"uri": "http://www-static.shell.com/static/investor/downloads/shell_at_a_glance/shell_2012_ir_factsheetenglish.pdf",
+		"filesize" : 2052936,
 		"description":"English"
 	}, {
 		"summary": "Chinese version of the 2012 investor factsheet, providing an overview of the business, strategy & investment highlights of Royal Dutch Shell plc.",
@@ -28,6 +29,7 @@
 		},
 		"publicationdate": "2011-06-28T00:21:35Z",
 		"uri": "http://www-static.shell.com/static/investor/downloads/shell_at_a_glance/shell_2012_ir_factsheetchinese.pdf",
+		"filesize" : 1972094,
 		"description":"Chinese"
 	}, {
 		"summary": "German version of the 2012 investor factsheet, providing an overview of the business, strategy & investment highlights of Royal Dutch Shell plc.",
@@ -44,6 +46,7 @@
 		},
 		"publicationdate": "2012-08-24T00:21:35Z",
 		"uri": "http://www-static.shell.com/static/investor/downloads/shell_at_a_glance/shell_2012_ir_factsheetgerman.pdf",
+		"filesize" : 1635009,
 		"description":"German"
 
 	}, {
@@ -62,6 +65,7 @@
 		},
 		"publicationdate": "2012-06-03T00:21:35Z",
 		"uri": "http://www-static.shell.com/static/investor/downloads/shell_at_a_glance/shell_2012_ir_factsheetjapanese.pdf",
+		"filesize" : 1931979,
 		"description":"Japanese"
 
 	}, {
@@ -79,6 +83,7 @@
 		},
 		"publicationdate": "2011-07-11T00:21:35Z",
 		"uri": "http://www-static.shell.com/static/investor/downloads/shell_at_a_glance/shell_2012_ir_factsheetspanish.pdf",
+		"filesize" : 1780751,
 		"description":"Spanish"
 
 	}],
