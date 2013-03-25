@@ -164,7 +164,7 @@
         {
           "id" : "ab1585e7ef15ab3d3c13544921968923",
           "title" : "Announcement date",
-          "startdate" : "2013-05-02T07:00:00Z",
+          "startdate" : "2013-04-02T07:00:00Z",
           "description" : "Announcement date description",
           "year" : "2013",
           "enddate" : "2013-04-03T07:00:00Z",
@@ -173,7 +173,7 @@
         {
           "id" : "ab1585e7ef15ab3d3c13544921968924",
           "title" : "Ex-dividend date",
-          "startdate" : "2013-05-15T07:00:00Z",
+          "startdate" : "2013-04-15T07:00:00Z",
           "description" : "Ex-dividend date description",
           "year" : "2013",
           "enddate" : "2013-04-16T07:00:00Z",
