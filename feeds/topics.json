@@ -48,7 +48,68 @@
 			"description": "Example description #6",
 			"publicationdate": "2011-10-19T00:35:09Z",
 			"uri": "http://www.shell.com/home/content/media/news_and_media_releases/2012/spdc_sale_nigerian_oil_mining_lease_03092012.html"
-		}],
+		},{
+          "timestamp" : "1284640345",
+          "id" : "6ecec2cebe6e525c9810844f918842163",
+          "title" : "Letter to shareholders in english",
+          "mimetype" : "application/pdf",
+          "thumbnail" : {
+            "uri2x" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_english.png",
+            "timestamp" : "1284640345",
+            "id" : "7b6e23d55c25c0efcab6bb0c47b860745",
+            "uri" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_english.png"
+          },
+          "description" : "Letter to shareholders from chairman Jorma Ollila about the scrip dividend programme.",
+          "publicationdate" : "2012-06-27T23:49:56Z",
+          "uri" : "http://www-static.shell.com/static/investor/downloads/scrip/scrip_charimans_letterenglish.pdf"
+        },
+        {
+          "timestamp" : "1284640345",
+          "id" : "8b6e23d55c25c0efcab6bb0c47b860745",
+          "title" : "Letter to shareholders in dutch",
+          "mimetype" : "application/pdf",
+          "thumbnail" : {
+            "uri2x" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_dutch.png",
+            "timestamp" : "1284640345",
+            "id" : "9b6e23d55c25c0efcab6bb0c47b860745",
+            "uri" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_dutch.png"
+          },
+          "description" : "Letter to shareholders from chairman Jorma Ollila about the scrip dividend programme.",
+          "publicationdate" : "2011-09-25T23:49:56Z",
+          "uri" : "http://www-static.shell.com/static/investor/downloads/scrip/scrip_charimans_letterdutch.pdf"
+        },
+        {
+          "timestamp" : "1284640345",
+          "id" : "10ae082962a29a921ff442003fbaa8d7d2",
+          "title" : "Letter to shareholders in german",
+          "mimetype" : "application/pdf",
+          "thumbnail" : {
+            "uri2x" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_german.png",
+            "timestamp" : "1284640345",
+            "id" : "11b6e23d55c25c0efcab6bb0c47b860745",
+            "uri" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_german.png"
+          },
+          "description" : "Letter to shareholders from chairman Jorma Ollila about the scrip dividend programme.",
+          "publicationdate" : "2011-05-05T23:49:56Z",
+          "uri" : "http://www-static.shell.com/static/investor/downloads/scrip/scrip_charimans_lettergerman.pdf"
+        },
+        {
+          "timestamp" : "1284640345",
+          "id" : "1279ece8acde905804849452e7ee3fdbd0",
+          "title" : "Letter to shareholders in french",
+          "mimetype" : "application/pdf",
+          "thumbnail" : {
+            "uri2x" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_french.png",
+            "timestamp" : "1284640345",
+            "id" : "13b6e23d55c25c0efcab6bb0c47b860745",
+            "uri" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_french.png"
+          },
+          "description" : "Letter to shareholders from chairman Jorma Ollila about the scrip dividend programme.",
+          "publicationdate" : "2011-06-02T23:49:56Z",
+          "uri" : "http://www-static.shell.com/static/investor/downloads/scrip/scrip_charimans_letterfrench.pdf"
+        }
+
+		],
 		"smallheader": {
 			"timestamp": "1316646000",
 			"uri2x": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif",
