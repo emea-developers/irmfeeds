@@ -1,5 +1,43 @@
 {
 	"data": [{
+		"summary": "updated summary",
+		"timestamp": "1351724400",
+		"id": "700d67d6e047a23e60a288d31447badfxxx",
+		"editornotes": "Example editor notes #1",
+		"resources": [{
+			"timestamp": "1309042800",
+			"summary": "Example summary #1",
+			"id": "d8e5b759511afa5f2713544949092162",
+			"title": "Example title #1",
+			"textcontent": "Example text content #1",
+			"mimetype": "text/html",
+			"description": "Example description #1",
+			"publicationdate": "22012-12-05T01:01:01Z",
+			"uri": "http://www.shell.com/home/content/media/news_and_media_releases/2012/q3_2012_results_newsitem_01112012.html"
+		}],
+		"smallheader": {
+			"timestamp": "1324857600",
+			"uri2x": "http://www-static.shell.com/static/investor/imgs/240_wide/peter_voser.jpg",
+			"id": "d8e5b759511afa5f2713544949092263",
+			"uri": "http://www-static.shell.com/static/investor/imgs/240_wide/peter_voser.jpg"
+		},
+		"title": "Third quarter 2012 results & interim dividend announcement",
+		"maintext": "<p><strong>+4493948039454 Royal Dutch Shell Chief Executive Officer Peter Voser commented:</strong></p><p><img src=\"peter_voser.jpg\" alt=\"Peter Voser\"/>\"Shell is driving a long-term & consistent strategy, against a backdrop of volatile energy markets. Our profits pay for substantial investments in new energy supplies, & they pay dividends for our shareholders.</p><p>\"Our earnings were driven by lower oil & gas prices, & lower chemicals margins, which offset the benefits of our operating performance, underlying growth in oil & gas production, & higher results in Integrated Gas & Oil Products.</p><p>\"We've made progress with our Alaska exploration programme, commencing drilling operations in the Beaufort & Chukchi seas, as the industry continues to assess offshore potential there. This will be a multi-year exploration programme, demonstrating Shell's commitments to high standards on sustainable development & safety. ...\"; [<a href=\"http://www.shell.com/home/content/investor/financial_information/quarterlyresults/2012/q3/index.html#voser\">read the full comment in the Quarterly Results Announcement</a>]</p><h3>Third quarter 2012 results video comment</h3><p><a href=\"http://www.shell.com/home/content/investor/financial_information/quarterlyresults/2012/q3/video/index.html\">Watch Simon Henry, Chief Financial Officer of Royal Dutch Shell plc, comment on the 2012 third quarter results</a></p><h3>Third quarter 2012 results documents</h3><p><a href=\"http://www.shell.com/home/content/investor/financial_information/quarterlyresults/2012/q3/index.html\">Quarterly Results Announcement (results in full)</a><br/><a href=\"http://www-static.shell.com/static/investor/downloads/financial_information/quarterly_results/2012/q3/q3_2012_qra.pdf\">Quarterly Results Announcement (results in full)</a><br/><br/><a href=\"http://www-static.shell.com/static/investor/downloads/financial_information/quarterly_results/2012/q3/q3_2012_suppl_fin_&_op_disclosure.pdf\",Supplementary financial & operational disclosure</a><br/><a href=\"http://www-static.shell.com/static/investor/downloads/financial_information/quarterly_results/2012/q3/q3_2012_suppl_fin_&_op_disclosure.xls\">Supplementary financial & operational disclosure</a></p><h3>Third quarter 2012 results webcast</h3><p>Simon Henry, Chief Financial Officer, will host a live webcast of the third quarter results 2012.</p><p><a href=\"http://cache.cantos.com/webcast/static/ec2/4000/5275/5343/10501/Lobby/default.htm\">Analyst webcast*  - 13:30 GMT / 14:30 CET / 9:30 EST</a></p><p><br/><sup>* If you are accessing this page on an iPad or iPhone, please download & install our </sup><a href=\"http://www.shell.com/home/content/investor/news_&_library/follow_us/app/index.html\"><sup>Investor &amp; Media app</sup></a><sup> & go to the Results section to listen to these webcasts.<br/></sup></p><h3>Third quarter 2012 dividend announcement & timetable</h3><p><a href=\"http://www.shell.com/home/content/investor/dividend_information/historical_payments/2012/q3/index.html\">Third quarter 2012 interim dividend announcement</a><br/><br/><a href=\"http://www.shell.com/home/content/investor/dividend_information/timetable/index.html\">Royal Dutch Shell plc 2013 interim dividend timetable</a></p>",
+		"htmlimages": [{
+			"uri2x": "http://www-static.shell.com/static/investor/imgs/240_wide/peter_voser.jpg",
+			"timestamp": "1351724400",
+			"id": "700d67d6e047a23e60a288d31447badf",
+			"uri": "http://www-static.shell.com/static/investor/imgs/240_wide/peter_voser.jpg"
+		}],
+		"publicationdate": "2012-12-05T01:01:01Z",
+		"header": {
+			"timestamp": "1304982000",
+			"uri2x": "http://www-static.shell.com/static/investor/imgs/240_wide/2011_sustainabilityreportcover.gif",
+			"id": "d8e5b759511afa5f2713544949092101",
+			"uri": "http://www-static.shell.com/static/investor/imgs/240_wide/2011_sustainabilityreportcover.gif"
+		}
+	},
+	{
 		"summary": "At 07.00 GMT (08.00 CET & 03.00 EST) on Thursday, November 1, 2012 Royal Dutch Shell plc released its third quarter results & third quarter interim dividend announcement for 2012.",
 		"timestamp": "1351724400",
 		"id": "700d67d6e047a23e60a288d31447badf",
