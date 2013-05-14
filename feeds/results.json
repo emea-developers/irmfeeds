@@ -277,15 +277,15 @@
               },
 
               {
-                metadata: {
-                  view: "Test item"
+                "metadata": {
+                  "view": "Test item"
                   },
-                  publicationdate: "2013-05-13T14:02:00Z",
-                  title: "Test item",
-                  summary: "This is a test item",
-                  maintext: "<p>We're checking sub menu behaviour on Android especially. Please ignore this page.<br /> </p>",
-                  id: "/content/shell/corporate/global/en/apps/irm/jcr:content/results/24_1360939819646/quarters/fourth_quarter_and_f/3_1368453983914",
-                  timestamp: "1368453983"
+                  "publicationdate": "2013-05-13T14:02:00Z",
+                  "title": "Test item",
+                  "summary": "This is a test item",
+                  "maintext": "<p>We're checking sub menu behaviour on Android especially. Please ignore this page.<br /> </p>",
+                  "id": "/content/shell/corporate/global/en/apps/irm/jcr:content/results/24_1360939819646/quarters/fourth_quarter_and_f/3_1368453983914",
+                  "timestamp": "1368453983"
                 }
           ],
           "id": "/content/shell/corporate/global/en/apps/irm/jcr:content/results/24_1360939819646/quarters/first_quarter_result",
