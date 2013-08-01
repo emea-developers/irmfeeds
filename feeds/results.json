@@ -274,7 +274,7 @@
           "period": "Q2",
           "date": "2013-08-01T00:00:00Z",
           "description": "Royal Dutch Shell plc - Second quarter and half year 2013 results",
-          "noticeonly": false,
+          "noticeonly": true,
           "notice": "0000000",
           "active": true,
           "sections": [
