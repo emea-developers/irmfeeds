@@ -1,34 +1,201 @@
+    
+
+
+
+
 {
-	"data": [{
-		"summary": "Example summary #1",
-		"timestamp": "1322956800",
-		"id": "strategy-overview",
-		"title": "Strategy overview",
-		"maintext": "<p><strong>Our strategy seeks to reinforce our position as a leader in the oil & gas industry in order to provide a competitive shareholder return while helping to meet global energy demand in a responsible way. Safety & corporate responsibility are at the heart of our activities.</strong></p><p>Intense competition exists for access to upstream resources & to new downstream markets. But we believe our technology, project-delivery capability & operational excellence will remain key differentiators for our businesses.We expect around 75% of our capital investment in 2011 to be in our Upstream projects.</p><p>Meeting the growing demand for energy worldwide in ways that minimise environmental & social impact is a major challenge for the global energy industry. We are committed to improving energy efficiency in our own operations, supporting customers in managing their energy demands, & continuing to research & develop technologies that increase efficiency & reduce emissions in oil & gas production.</p><p>Our commitment to technology & innovation continues to be at the core of our strategy. As energy projects become more complex & more technically demanding, we believe our engineering expertise will be a deciding factor in the growth of our businesses. Our key strengths include the development & application of technology, the financial & project-management skills that allow us to deliver large oil & gas projects, & the management of integrated value chains. We leverage our diverse & global business portfolio & customer-focused businesses built around the strength of the Shell brand.</p>",
-		"publicationdate": "2011-03-02T00:07:09Z",
-		"metadata": {
-			"view": "Overview"
-		}
-	}, {
-		"summary": "Example summary #4",
-		"timestamp": "1282086000",
-		"id": "upstream-strategy",
-		"title": "Upstream strategy",
-		"maintext": "<ul><li>Profitable growth; price upside</li><li>&gt;80% of total capital spending</li><li>Sustained exploration investment</li></ul><p> <a href=\"http://www.shell.com/global/aboutshell/investor/strategy/upstream.html\">More about our Upstream strategy</a>.",
-		"publicationdate": "2012-02-25T00:07:09Z",
-		"metadata": {
-			"view": "Upstream"
-		}
-	}, {
-		"summary": "Example summary #5",
-		"timestamp": "1301526000",
-		"id": "downstream-strategy",
-		"title": "Downstream strategy",
-		"maintext": "<ul><li>Stable capital employed</li><li>Fewer refineries; upgrade chemicals assets</li><li>More concentrated marketing positions</li></ul><p>&gt; <a href=\"http://www.shell.com/global/aboutshell/investor/strategy/downstream.html\">More about our Downstream strategy</a> <br/><br/><br/><strong>Financial outlook</strong></p><ul><li>Generating surplus cashflow through cycle</li><li>Investing for growth; competitive payout</li><li>Substantial cashflow growth<br/> </li></ul><h3>02 Feb 2012 - Royal Dutch Shell sets out new growth agenda</h3><ul><li><a href=\"http://www.shell.com/home/content/investor/news_and_library/2012_media_releases/shell_sets_out_new_growth_agenda_02022012.html\">Read the release</a></li></ul>",
-		"publicationdate": "2010-05-03T00:07:09Z",
-		"metadata": {
-			"view": "Downstream"
-		}
-	}],
-	"apiversion": "2.0"
+  "apiversion": "2.0",
+  "data": [
+    {
+      "metadata": {
+        "view": "Strategy summary"
+      },
+      "publicationdate": "2013-01-31T20:14:00Z",
+      "title": "Strategy summary",
+      "summary": "<p>Our strategy seeks to reinforce our position as a leader in the oil and gas industry while helping to meet global energy demand in a responsible way. We strive to create competitive returns for shareholders. Safety, environmental and social responsibility are at the heart of our activities.</p>\n",
+      "maintext": "<p>Intense competition exists for access to upstream resources and to new downstream markets. But we believe our technology, project-delivery capability and operational excellence will remain key differentiators for our businesses. We expect around 80% of our capital investment in 2013 to be in our Upstream businesses.</p> \n<p>In Upstream we focus on exploration for new liquids and natural gas reserves and on developing major new projects where our technology and know-how add value to the resource holders.</p> \n<p>We focus on a series of strategic themes, each requiring distinctive technologies and risk management:</p> \n<ul> \n <li>Our upstream and downstream ‘engines’ are strongly cash generative, mature businesses, which will underpin our financial performance to at least the end of this decade.&nbsp; Here we only make investments in selective growth positions and we apply Shell’s distinctive technology and operating performance to extend the productive lives of our assets and to enhance their profitability.<br /> <br /> </li> \n <li>Our growth priorities are in three strategic themes, namely integrated gas, deep water and resources plays such as shale oil and gas (“unconventionals”). These will provide our medium-term growth, and we expect them to become core engines in the future. Here, we use the advantages of Shell’s technological know-how and global scale to unlock highly competitive resource positions.<br /> <br /> </li> \n <li>Our future opportunities include the Arctic, Iraq, Kazakhstan, Nigeria, and heavy oil, where there are large reserves positions potentially available, with the pace of development driven by market and local operating conditions.</li> \n</ul> \n<p>Meeting the growing demand for energy worldwide in ways that minimise environmental and social impact is a major challenge for the global energy industry. We aim to improve energy efficiency in our own operations, supporting customers in managing their energy demands, and continuing to research and develop technologies that increase efficiency and reduce emissions in liquids and natural gas production.</p> \n<p>Our commitment to technology and innovation continues to be at the core of our strategy. As energy projects become more complex and more technically demanding, we believe our engineering expertise will be a deciding factor in the growth of our businesses. Our key strengths include the development and application of technology, the financial and project-management skills that allow us to deliver large field development projects, and the management of integrated value chains. We aim to leverage our diverse and global business portfolio and customer-focused businesses built around the strength of the Shell brand.</p> \n<p>See how this strategy fits in with Shell’s energy strategy.</p><ul><li><a href=\"http://s01.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/strategy/royal-dutch-shell-plc-energy-strategy-2013.pdf\">Shell's energy strategy</a></li></ul><h2>Strategy summary</h2><p><b>UPSTREAM</b></p> \n<p>- growth strategy, price upside&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> \n<p>- priority: deep-water, integrated gas, resources plays</p><img src=\"http://s04.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/240-wide/perdido-spar-240.jpg\" alt=\"Perdido spar lying horizontal in Gulf of Mexico\"/><p><b>DOWNSTREAM</b></p> \n<p>- optimise re-shaped portfolio</p> \n<p>- selective growth</p><img src=\"http://s00.static-shell.com/content/dam/shell/static/environment-society/imgs/240-wide/pernis-refinery.jpg\" alt=\"Pernis refinery, Netherlands\"/><p><b>CLIMATE CHANGE</b></p> \n<p>- grow gas and biofuels</p> \n<p>- CCS and energy efficiency</p><img src=\"http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/240-wide/sugar-cane-240.jpg\" alt=\"Organic fertiliser for sugar cane\"/><p><b>FINANCIAL OUTLOOK</b></p> \n<p>- Investing for growth and competitive payout</p> \n<p>- Through-cycle returns and risk management</p><img src=\"http://s01.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/240-wide/affinity-nanuq-240.jpg\" alt=\"Affinity followed by Nanuq and escorted by Tor Viking\"/>",
+      "uri": "http://www.shell.com/global/aboutshell/investor/strategy/strategy.html",
+      "htmlimages": [
+        {
+          "uri": "http://s04.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/240-wide/perdido-spar-240.jpg",
+          "uri2x": "http://s04.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/240-wide/perdido-spar-240.jpg",
+          "id": "/content/dam/shell-new/local/corporate/corporate/images-text/240-wide/perdido-spar-240.jpg",
+          "timestamp": "1364246967"
+        },
+        {
+          "uri": "http://s00.static-shell.com/content/dam/shell/static/environment-society/imgs/240-wide/pernis-refinery.jpg",
+          "uri2x": "http://s00.static-shell.com/content/dam/shell/static/environment-society/imgs/240-wide/pernis-refinery.jpg",
+          "id": "/content/dam/shell/static/environment-society/imgs/240-wide/pernis-refinery.jpg",
+          "timestamp": "1354058255"
+        },
+        {
+          "uri": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/240-wide/sugar-cane-240.jpg",
+          "uri2x": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/240-wide/sugar-cane-240.jpg",
+          "id": "/content/dam/shell-new/local/corporate/corporate/images-text/240-wide/sugar-cane-240.jpg",
+          "timestamp": "1364247280"
+        },
+        {
+          "uri": "http://s01.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/240-wide/affinity-nanuq-240.jpg",
+          "uri2x": "http://s01.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/240-wide/affinity-nanuq-240.jpg",
+          "id": "/content/dam/shell-new/local/corporate/corporate/images-text/240-wide/affinity-nanuq-240.jpg",
+          "timestamp": "1364247280"
+        }
+      ],
+      "id": "/content/shell/corporate/global/en/aboutshell/investor/strategy/strategy",
+      "timestamp": "1373453852"
+    },
+    {
+      "metadata": {
+        "view": "Outlook"
+      },
+      "publicationdate": "2013-01-31T20:38:00Z",
+      "title": "Outlook",
+      "summary": "<p>We continuously seek to improve our operating performance, with an emphasis on health, safety and environment, asset performance and operating costs. Asset sales are a key element of our strategy – improving our capital efficiency by focusing investment on the most attractive growth opportunities. Sale of non-core assets in 2010-2012 generated some $21 billion in divestment proceeds. Exits from further positions in 2013 are expected to generate up to $3 billion in divestment proceeds.</p>\n",
+      "maintext": "<p>We have initiatives underway that are expected to improve Shell’s integrated Downstream business, focusing on the profitability of our portfolio and growth potential.</p> \n<p>&nbsp;In early 2012, Shell set out a new growth agenda, to deliver $175-200 billion of cash flow from operations excluding working capital movements for 2012-2015 in aggregate, some 30-50% higher than in 2008-2011. This assumes that the Brent oil price is in the range of $80-100 per barrel and conditions for North American natural gas and downstream margins improve relative to 2012. This cash flow is to finance a 2012-2015 expected net capital investment programme of $120-130 billion, an increase of some 10-20% compared with the 2008-2011 level, and funding a competitive dividend for shareholders. Shell is on track to deliver these targets.</p> \n<p>In Upstream we have the potential to reach an average production of some 4.0 million boe/d in 2017-2018, compared with 3.3 million boe/d in 2012. Shell’s strategy in Upstream is designed to drive financial growth, with production growth regarded as a proxy for this over the long term.&nbsp; Our 2017-2018 production potential will be driven by the timing of investment decisions and the near-term macroeconomic outlook, and assumes some 250 thousand boe/d of expected asset sales and licence expiries from 2011 to 2017-2018. In Downstream we evaluate selective growth opportunities in chemicals, biofuels and growth markets.</p> \n<p>Shell has built up a substantial portfolio of options for a new wave of growth. This portfolio has been designed to capture energy price upside and manage Shell’s exposure to industry challenges from cost inflation and political risk. Key elements of this opportunity set are in global exploration, and in established provinces in the Gulf of Mexico, North American tight gas, liquids-rich shales and Australian LNG. These projects are part of a portfolio that has the potential to underpin production growth to the end of this decade. Shell is working to mature these projects, with an emphasis on financial returns.</p> \n<p>The statements in this strategy and outlook section do not take into account the impact of the recently announced <a class=\"shell\" href=\"http://www.shell.com/global/aboutshell/investor/news-and-library/2013/shell-repsol-260213.html\">agreement to acquire part of Repsol S.A.’s LNG portfolio</a>.<br /> </p> \n<p>The statements in this Strategy and Outlook section, including those related to our growth strategies and our expected or potential future cash flow from operations, net capital investment and production, are based on management’s current expectations and certain material assumptions and, accordingly, involve risk and uncertainties that could cause actual results, performance and outcomes to differ materially from those expressed herein.</p>",
+      "uri": "http://www.shell.com/global/aboutshell/investor/strategy/outlook.html",
+      "id": "/content/shell/corporate/global/en/aboutshell/investor/strategy/outlook",
+      "timestamp": "1373455322"
+    },
+    {
+      "metadata": {
+        "view": "Investment priorities"
+      },
+      "publicationdate": "2013-01-31T20:14:00Z",
+      "title": "Investment priorities",
+      "summary": "<p>Our company is driven through a series of strategic themes, each requiring distinctive technologies and risk management.</p>\n",
+      "maintext": "<ul> \n <li>Our ‘engines’ in heartland upstream and downstream are strongly cash generative, mature businesses, which will underpin our financial performance to at least the end of this decade, and beyond.&nbsp; Here, we apply Shell’s distinctive technology and operating performance to extend the productive lives of our assets and to enhance their profitability, and we make investments in selective growth positions. </li> \n</ul><ul> \n <li>Our growth priorities are in three strategic themes, namely deep water, integrated gas and resources plays such as shale gas (“unconventionals”). These will provide our medium term growth, and we expect them to become core engines in the future. Here, we use the advantages of Shell’s technological know-how and global scale to unlock highly competitive resources positions.<br /> </li> \n</ul><ul> \n <li>Our future opportunities include Arctic, Nigeria, Kazakhstan, Iraq and heavy oil, where there are large reserves positions potentially available, with the pace of development driven by market and local operating conditions.<br /> </li> \n</ul><h2>Investment priorities</h2><img src=\"http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/investment-priorities-544.gif\" alt=\"Investment priorities\"/><h2>Strategic themes</h2><p>Read more about each of the strategic theme: </p><table> \n <tbody>\n  <tr>\n   <td>&nbsp;</td> \n   <td>&nbsp;</td> \n  </tr>\n  <tr>\n   <td><img src=\"http://www.shell.com/content/dam/shell-new/local/corporate/corporate/images-text/96x48/downstream-engine-theme-96.gif\" /></td> \n   <td><b> <a href=\"http://www.shell.com/global/aboutshell/investor/strategy/investment-priorities/downstream-engine.html\">Downstream engine</a></b><br /> In our Downstream businesses, our emphasis remains on sustained cash generation from our existing assets and selective growth investments.</td> \n  </tr>\n  <tr>\n   <td><img src=\"http://www.shell.com/content/dam/shell-new/local/corporate/corporate/images-text/96x48/upstream-engine-theme-96.gif\" /></td> \n   <td><b> <a href=\"http://www.shell.com/global/aboutshell/investor/strategy/investment-priorities/upstream-engine.html\">Upstream engine</a></b><br /> Shell’s upstream engine focuses on cash generation from some of our mature basins.</td> \n  </tr>\n  <tr>\n   <td><img src=\"http://www.shell.com/content/dam/shell-new/local/corporate/corporate/images-text/96x48/integrated-gas-theme-96.gif\" /></td> \n   <td><b> <a href=\"http://www.shell.com/global/aboutshell/investor/strategy/investment-priorities/integrated-gas.html\">Integrated gas</a></b><br /> Shell is the leading IOC for integrated gas, which is LNG and Gas to Liquids.<br /> </td> \n  </tr>\n  <tr>\n   <td><img src=\"http://www.shell.com/content/dam/shell-new/local/corporate/corporate/images-text/96x48/deep-water-theme-96.gif\" /></td> \n   <td><b> <a href=\"http://www.shell.com/global/aboutshell/investor/strategy/investment-priorities/deep-water.html\">Deep water</a></b><br /> Shell is one of the industry’s pioneers in deep water oil and gas business with some 330 thousand barrels per day of production in 2012 with a strong growth outlook.<br /> </td> \n  </tr>\n  <tr>\n   <td><img src=\"http://www.shell.com/content/dam/shell-new/local/corporate/corporate/images-text/96x48/resources-plays-theme-96.gif\" /></td> \n   <td><b> <a href=\"http://www.shell.com/global/aboutshell/investor/strategy/investment-priorities/resources-plays.html\">Resources plays</a></b><br /> Fraccing technologies have opened up a very exciting new resources base for the industry and we want Shell to be a leading player here.<br /> </td> \n  </tr>\n  <tr>\n   <td><img src=\"http://www.shell.com/content/dam/shell-new/local/corporate/corporate/images-text/96x48/future-opportunities-theme-96.gif\" /></td> \n   <td><b> <a href=\"http://www.shell.com/global/aboutshell/investor/strategy/investment-priorities/future-opportunities.html\">Future opportunities</a></b><br /> This strategic theme covers countries and plays where Shell has access to very large resources positions – typically in oil – but where there are surface issues that can slow down the development pace, such as community and government relations, security of our staff and evolving local fiscal and environmental regulations.<br /> </td> \n  </tr>\n </tbody>\n</table><h2>Related releases</h2><ul><li><a href=\"http://www.shell.com/global/aboutshell/media/news-and-media-releases/2013/competitive-and-innovative-strategy-31012013.html\">31 January 2013 - Shell delivering a competitive and innovative strategy</a></li><li><a href=\"http://www.shell.com/global/aboutshell/media/news-and-media-releases/2012/shell-sets-out-new-growth-agenda-02022012.html\">02 February 2012 - Royal Dutch Shell sets out new growth agenda</a></li></ul>",
+      "uri": "http://www.shell.com/global/aboutshell/investor/strategy/investment-priorities.html",
+      "htmlimages": [
+        {
+          "uri": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/investment-priorities-544.gif",
+          "uri2x": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/investment-priorities-544.gif",
+          "id": "/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/investment-priorities-544.gif",
+          "timestamp": "1365157079"
+        }
+      ],
+      "id": "/content/shell/corporate/global/en/aboutshell/investor/strategy/investment-priorities",
+      "timestamp": "1373464858"
+    },
+    {
+      "metadata": {
+        "view": "Downstream engine"
+      },
+      "publicationdate": "2013-01-31T20:14:00Z",
+      "title": "Downstream engine",
+      "summary": "<p>In our Downstream businesses, our emphasis remains on sustained cash generation from our existing assets and selective growth investments.</p>\n",
+      "maintext": "<p>The implementation of our strategy will see us actively manage our assets around three themes in Downstream:</p> \n<ul> \n <li>operational excellence and cost efficiency, to maximise the uptime and operating performance of our asset base, and to reduce costs and complexity;<br /> <br /> <br /> </li> \n <li>optimise profitability of our portfolio of refineries that best integrate with crude supplies, marketing outlets and local petrochemical plants; and<br /> <br /> <br /> </li> \n <li>selective growth in countries such as Brazil, China and India, which have high growth potential, while maintaining or increasing our margins in our core countries. This includes researching, developing and marketing biofuels.</li> \n</ul><img src=\"http://s00.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/downstream-engine-544.gif\" alt=\"Downstream engine\"/><ul><li><a href=\"http://s05.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/strategy/shell-downstream-engine-slide.pdf\">Download this slide about the Downstream engine</a></li></ul>",
+      "uri": "http://www.shell.com/global/aboutshell/investor/strategy/investment-priorities/downstream-engine.html",
+      "htmlimages": [
+        {
+          "uri": "http://s00.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/downstream-engine-544.gif",
+          "uri2x": "http://s00.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/downstream-engine-544.gif",
+          "id": "/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/downstream-engine-544.gif",
+          "timestamp": "1366031035"
+        }
+      ],
+      "id": "/content/shell/corporate/global/en/aboutshell/investor/strategy/investment-priorities/downstream-engine",
+      "timestamp": "1373464919"
+    },
+    {
+      "metadata": {
+        "view": "Upstream engine"
+      },
+      "publicationdate": "2013-01-31T20:14:00Z",
+      "title": "Upstream engine",
+      "summary": "<p>Shell’s upstream engine focuses on cash generation from some of our mature basins. Focused exploration, license renewals and the application of Shell’s advanced technology all will contribute to extending the life of these assets in a safe and responsible manner.&nbsp; Through new field developments and commercial options, selective growth will occur in these assets to contribute to offsetting natural field decline.</p>\n",
+      "maintext": "<p>Our positions in Europe, South East Asia and some of the Middle East are included in the upstream engine and should underpin the financial performance of the upstream business up to the end of the decade and beyond.</p><img src=\"http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/upstream-engine-544.gif\" alt=\"Upstream engine\"/><ul><li><a href=\"http://s02.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/strategy/shell-upstream-engine-slide.pdf\">Download this slide about the Upstream engine</a></li></ul>",
+      "uri": "http://www.shell.com/global/aboutshell/investor/strategy/investment-priorities/upstream-engine.html",
+      "htmlimages": [
+        {
+          "uri": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/upstream-engine-544.gif",
+          "uri2x": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/upstream-engine-544.gif",
+          "id": "/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/upstream-engine-544.gif",
+          "timestamp": "1366021235"
+        }
+      ],
+      "id": "/content/shell/corporate/global/en/aboutshell/investor/strategy/investment-priorities/upstream-engine",
+      "timestamp": "1373465051"
+    },
+    {
+      "metadata": {
+        "view": "Integrated gas"
+      },
+      "publicationdate": "2013-01-31T20:14:00Z",
+      "title": "Integrated gas",
+      "summary": "<p>Shell is the leading IOC for integrated gas, which is LNG and Gas to Liquids. Integrated gas earned over $9 billion in 2012, which is around 40% of our bottom line, and generated $ 12 billion of cash flow or over 20% of our total CFFO.</p>\n",
+      "maintext": "<p>We have 22 mtpa of LNG capacity on stream today, with 7% growth in 2012. The next tranche of LNG growth for Shell is coming from Australia, with 7 mtpa under construction, which will lift our capacity by over 30% to 2017. We have worked to diversify Shell’s integrated gas optionality, so that we can go ahead with the most attractive projects for the next tranche of growth. We have more than 20 mtpa of new LNG options under study…potentially another 70% uplift to capacity after 2017.</p><img src=\"http://s04.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/integrated-gas-544.gif\" alt=\"Integrated gas\"/><ul><li><a href=\"http://s03.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/strategy/shell-integrated-gas-slide.pdf\">Download this slide about integrated gas</a></li></ul>",
+      "uri": "http://www.shell.com/global/aboutshell/investor/strategy/investment-priorities/integrated-gas.html",
+      "htmlimages": [
+        {
+          "uri": "http://s04.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/integrated-gas-544.gif",
+          "uri2x": "http://s04.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/integrated-gas-544.gif",
+          "id": "/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/integrated-gas-544.gif",
+          "timestamp": "1366021228"
+        }
+      ],
+      "id": "/content/shell/corporate/global/en/aboutshell/investor/strategy/investment-priorities/integrated-gas",
+      "timestamp": "1373465178"
+    },
+    {
+      "metadata": {
+        "view": "Deep water"
+      },
+      "publicationdate": "2013-01-31T20:14:00Z",
+      "title": "Deep water",
+      "summary": "<p>Shell is one of the industry’s pioneers in deep water oil and gas business with some 330 thousand barrels per day of production in 2012 with a strong growth outlook.</p>\n",
+      "maintext": "<p>We have 9 new fields under construction, in the Gulf of Mexico, Brazil and South East Asia. The key here is to standardise the development concepts, to control costs and speed up the development pace.</p> \n<p>Shell has expanded its deep water potential with new “frontier” exploration positions in several countries, where we intend to drill large prospects.</p><img src=\"http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/deepwater-544.gif\" alt=\"Deep water\"/><ul><li><a href=\"http://s02.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/strategy/shell-deep-water-slide.pdf\">Download this slide about Deep water</a></li></ul>",
+      "uri": "http://www.shell.com/global/aboutshell/investor/strategy/investment-priorities/deep-water.html",
+      "htmlimages": [
+        {
+          "uri": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/deepwater-544.gif",
+          "uri2x": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/deepwater-544.gif",
+          "id": "/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/deepwater-544.gif",
+          "timestamp": "1366022046"
+        }
+      ],
+      "id": "/content/shell/corporate/global/en/aboutshell/investor/strategy/investment-priorities/deep-water",
+      "timestamp": "1373465218"
+    },
+    {
+      "metadata": {
+        "view": "Resources plays"
+      },
+      "publicationdate": "2013-01-31T20:14:00Z",
+      "title": "Resources plays",
+      "summary": "<p>Fraccing technologies have opened up a very exciting new resources base for the industry and we want Shell to be a leading player here. </p>\n",
+      "maintext": "<p>We currently have resources plays positions in 13 countries in tight gas and shales (“unconventionals”). Our production today is predominantly in North America gas and liquids-rich plays, with exploration and appraisal underway around the world. We are building up our operating capabilities by working to reduce costs in the supply chain, for example the Sirius joint venture in China, where we are joint owners of drilling rigs with PetroChina’s service company Greatwall Drilling Company. We have published <a class=\"shell\" href=\"http://www.shell.com/global/future-energy/natural-gas/gas/shell-operating-principles.html\">global principles for fraccing operations</a>, covering water use and community relations amongst others.</p><img src=\"http://s02.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/resources-plays-544.gif\" alt=\"Resources plays\"/><ul><li><a href=\"http://s05.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/strategy/shell-resources-plays-slide.pdf\">Download this slide about Resources plays</a></li></ul>",
+      "uri": "http://www.shell.com/global/aboutshell/investor/strategy/investment-priorities/resources-plays.html",
+      "htmlimages": [
+        {
+          "uri": "http://s02.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/resources-plays-544.gif",
+          "uri2x": "http://s02.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/resources-plays-544.gif",
+          "id": "/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/resources-plays-544.gif",
+          "timestamp": "1366021230"
+        }
+      ],
+      "id": "/content/shell/corporate/global/en/aboutshell/investor/strategy/investment-priorities/resources-plays",
+      "timestamp": "1373465451"
+    },
+    {
+      "metadata": {
+        "view": "Future opportunities"
+      },
+      "publicationdate": "2013-01-31T20:14:00Z",
+      "title": "Future opportunities",
+      "summary": "<p>This strategic theme covers countries and plays where Shell has access to very large resources positions – typically in oil – but where there are surface issues that can slow down the development pace, such as community and government relations, security of our staff and evolving local fiscal and environmental regulations.</p>\n",
+      "maintext": "<p>In Canada oil sands, we are investing in debottlenecking opportunities and carbon capture and storage to improve the efficiency and environmental footprint of this asset. We are permitting for further larger expansions but there are no immediate plans for an final investment decision – this is for the longer term.</p> \n<p>We also have growth projects underway in Kazakhstan, Iraq and Nigeria all of which have significant resource positions but each has its unique challenges which require a measured investment pace.&nbsp;</p> \n<p>Shell is a leader in an industry expansion into offshore arctic regions.&nbsp; In 2012 we drilled top holes off the north coast of Alaska, resuming activity there after a 10 year industry absence. &nbsp;This is a high potential exploration province, however any potential development is at least a decade away from fruition.</p><img src=\"http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/future-opportunities-544.gif\" alt=\"Future opportunities\"/><ul><li><a href=\"http://s04.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/strategy/shell-future-opportunities-slide.pdf\">Download this slide about Future opportunities</a></li></ul>",
+      "uri": "http://www.shell.com/global/aboutshell/investor/strategy/investment-priorities/future-opportunities.html",
+      "htmlimages": [
+        {
+          "uri": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/future-opportunities-544.gif",
+          "uri2x": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/future-opportunities-544.gif",
+          "id": "/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/future-opportunities-544.gif",
+          "timestamp": "1366021220"
+        }
+      ],
+      "id": "/content/shell/corporate/global/en/aboutshell/investor/strategy/investment-priorities/future-opportunities",
+      "timestamp": "1373465516"
+    }
+  ],
+  "timestamp": "0"
 }

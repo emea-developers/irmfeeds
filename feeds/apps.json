@@ -1,76 +1,101 @@
+
+
+
+
+
 {
-	"data": [{
-		"timestamp": "1339161714",
-		"id": "bb93ef6904456bc2e213544936485911",
-		"os": "ios",
-		"title": "Shell investor & media",
-		"thumbnail": {
-			"timestamp": "1265673600",
-			"uri2x": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments050",
-			"id": "ecec2cebe6e525c9810844f918842164",
-			"uri": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments050"
-		},
-		"storelink": "http://itunes.apple.com/us/app/shell-investor-media/id422969150?mt=8",
-		"description": "<p>Shell’s Investor & Media app gives you our latest news, tweets, share prices, information on forthcoming events, our strategy & bonds & credits information. You’ll be able to access our most recent quarterly results including live & archived webcasts, read annual publications including our sustainability report & investor fact sheet, watch.</p>",
-		"publicationdate": "2012-09-06T07:13:00Z"
-	}, {
-		"timestamp": "1339161715",
-		"id": "bb93ef6904456bc2e213544936485919",
-		"os": "ios",
-		"title": "Example title #1",
-		"altthumbnail": {
-			"summary": "Example summary #1",
-			"timestamp": "1310079600",
-			"id": "bb93ef6904456bc2e213544936485972",
-			"title": "Example title #2",
-			"textcontent": "Example text content #1",
-			"mimetype": "application/x-shockwave-flash",
-			"description": "Example description #1",
-			"publicationdate": "2011-2-4T00:14:08Z",
-			"uri": "http://www.youtube.com/embed/pLwQ14PCRig"
-		},
-		"storelink": "http://itunes.apple.com/gb/app/inside-energy/id475855445?mt=8",
-		"description": "<p>An inventive use of video, animations, photos, & sound help the user go inside energy. – Chris Hauk, Mactrast.com</p><p>INSIDE ENERGY lets you explore interactive stories on innovation & the energy powering our lives. Discover new ways of finding energy, learn about advances in technology, & meet the people involved in making it happen. New stories & interactive features are regularly added.</p><p>This Shell app opens a window onto the creative ways energy can be produced, & used. </p><p>Find out, for example, how tiny threads of glass are helping to produce energy. </p><p>Meet students who have designed a car that travels a distance equivalent to going from Paris to Moscow on a single litre of fuel.</p><p>See inside the stove that is helping millions of the world’s poorest to breathe cleaner air, & hear from some of the people whose lives have improved.</p><p>If you have questions or feedback on the INSIDE ENERGY app, then please email us at insideenergy@shell.com.</p>",
-		"publicationdate": "2012-09-06T07:13:00Z"
-	},{
-		"timestamp": "1339161714",
-		"id": "bb93ef6904456bc2e21354493648591311",
-		"os": "android",
-		"title": "Shell investor & media",
-		"thumbnail": {
-			"timestamp": "1265673600",
-			"uri2x": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments050",
-			"id": "ecec2cebe6e525c9810844f91884216411",
-			"uri": "http://raw.github.com/emea-developers/irmfeeds/android/res/img169.png"
-		},
-		"storelink": "http://play.google.com/store/apps/details?id=com.mobgen.shellir",
-		"description": "<p>Shell’s Investor & Media app gives you our latest news, tweets, share prices, information on forthcoming events, our strategy & bonds & credits information. You’ll be able to access our most recent quarterly results including live & archived webcasts, read annual publications including our sustainability report & investor fact sheet, watch.</p>",
-		"publicationdate": "2012-09-06T07:13:00Z"
-	},{
-		"timestamp": "1339161714",
-		"id": "bb93ef6904456bc2e2135449364859132",
-		"os": "android",
-		"title": "Shell Lubricants",
-		"thumbnail": {
-			"timestamp": "1265673600",
-			"uri2x": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments050",
-			"id": "ecec2cebe6e525c9810844f918842164",
-			"uri": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments050"
-		},
-        "altthumbnail": {
-			"summary": "Example summary #1",
-			"timestamp": "1310079600",
-			"id": "bb93ef6904456bc2e213544936485973",
-			"title": "Example title #2",
-			"textcontent": "Example text content #1",
-			"mimetype": "application/x-shockwave-flash",
-			"description": "Example description #1",
-			"publicationdate": "2011-2-4T00:14:08Z",
-			"uri": "http://www.youtube.com/embed/pLwQ14PCRig"
-		},
-		"storelink": "http://play.google.com/store/apps/details?id=com.shell.sitibv.lubematch",
-		"description": "<p>The Shell Lubricants app allows you to find the best lubricants for your vehicle or equipment. Features include:<p>- Shell LubeMatch lubricant recommendations<br>- Quick access to 'Last Searched' vehicles and equipment<br>- Ability to share recommendations<br>- Saving vehicles &amp; equipment to your 'Favourites'<br>- Access to the latest news and promotions<br>- Handy torch functionality for devices with LED flash</p><p>NOTE: For best user experience we recommend using the Shell Lubricants app while connected to WiFi</p></p>",
-		"publicationdate": "2012-09-06T07:13:00Z"
-	}],
-	"apiversion": "2.0"
+  "apiversion": "2.0",
+  "data": [
+    {
+      "publicationdate": "2013-03-27T23:51:28Z",
+      "title": "Inside Energy",
+      "description": "<p>INSIDE ENERGY lets you explore interactive stories on innovation and the energy powering our lives. Discover new ways of finding energy, learn about advances in technology, and meet the people involved in making it happen. New stories and interactive features are regularly added.</p>\n<p>This Shell app opens a window onto the creative ways energy can be produced, and used.</p>\n<p>Find out, for example, how tiny threads of glass are helping to produce energy.</p>\n<p>Meet students who have designed a car that travels a distance equivalent to going from Paris to Moscow on a single litre of fuel.</p>\n<p>See inside the stove that is helping millions of the world’s poorest to breathe cleaner air, and hear from some of the people whose lives have improved.</p>\n",
+      "os": "ios",
+      "storelink": "http://itunes.apple.com/app/inside-energy/id475855445?mt=8",
+      "thumbnail": {
+        "uri": "http://s05.static-shell.com/content/dam/shell-new/local/country/are/images-notext/first-impression/photo/inside_energy_homepage_banner.jpg",
+        "uri2x": "http://s05.static-shell.com/content/dam/shell-new/local/country/are/images-notext/first-impression/photo/inside_energy_homepage_banner.jpg",
+        "id": "/content/dam/shell-new/local/country/are/images-notext/first-impression/photo/inside_energy_homepage_banner.jpg",
+        "timestamp": "1354627147"
+      },
+      "althumbnail": {
+        "mimetype": "video/x-youtube",
+        "publicationdate": "2011-10-28T13:47:34Z",
+        "title": "INSIDE ENERGY: exploring innovation in energy",
+        "summary": "Shell's app for iPad explores the role innovation plays in producing energy to power and sustain our lives. Discover new ways of finding energy, learn about advances in technology, and meet the people involved in making it happen. New stories and interactive features will be added regularly. Find out about your free download at http://www.shell.com/home/content/innovation/inside_energy/index.html",
+        "uri": "http://www.youtube.com/embed/pLwQ14PCRig?rel=0",
+        "thumbnail": {
+          "uri": "http://s05.static-shell.com/content/dam/shell-new/local/country/are/images-notext/first-impression/photo/inside_energy_homepage_banner.jpg",
+          "uri2x": "http://s05.static-shell.com/content/dam/shell-new/local/country/are/images-notext/first-impression/photo/inside_energy_homepage_banner.jpg",
+          "id": "/content/dam/shell-new/local/country/are/images-notext/first-impression/photo/inside_energy_homepage_banner.jpg",
+          "timestamp": "1354627147"
+        },
+        "id": "/content/shell/corporate/global/en/apps/irm/apps/jcr:content/apps/inside_energy_innova/1_1362408341220",
+        "timestamp": "1374059360"
+      },
+      "id": "/content/shell/corporate/global/en/apps/irm/apps/jcr:content/apps/inside_energy_innova",
+      "timestamp": "1364428288"
+    },
+    {
+      "publicationdate": "2013-03-22T11:52:51Z",
+      "title": "New Lens Scenarios",
+      "description": "<p>What could the world look like 50 years from now, or even in the year 2100?</p>\n<p>Shell  has been developing scenarios to explore the future since the early  1970s. Scenarios are stories that consider these “what if?” questions.  Whereas forecasts focus on probabilities, scenarios consider a range of  plausible futures and how these could emerge from the realities of  today. </p>\n<p>New Lens Scenarios is the latest publication from the  Scenarios team. Within this publication we explore a new set of lenses  that give perspective, enabling us to explore two future worlds and  bring into sharper focus the possible outcomes of today’s choices.\n</p>\n",
+      "os": "ios",
+      "storelink": "https://itunes.apple.com/us/app/scenarios/id605820338?mt=8",
+      "thumbnail": {
+        "uri": "http://s03.static-shell.com/content/dam/shell-new/local/corporate/corporate/inside-energy-app-images/NewLensScenarios/903979_cx_scenarios_coverpage_l.jpg",
+        "uri2x": "http://s03.static-shell.com/content/dam/shell-new/local/corporate/corporate/inside-energy-app-images/NewLensScenarios/903979_cx_scenarios_coverpage_l.jpg",
+        "id": "/content/dam/shell-new/local/corporate/corporate/inside-energy-app-images/NewLensScenarios/903979_cx_scenarios_coverpage_l.jpg",
+        "timestamp": "1361810395"
+      },
+      "id": "/content/shell/corporate/global/en/apps/irm/apps/jcr:content/apps/app_0",
+      "timestamp": "1363953171"
+    },
+    {
+      "publicationdate": "2013-03-22T11:54:00Z",
+      "title": "New Lens Scenarios",
+      "description": "<p>What could the world look like 50 years from now, or even in the year 2100?</p>\n<p>Shell has been developing scenarios to explore the future since the early 1970s. Scenarios are stories that consider these “what if?” questions. Whereas forecasts focus on probabilities, scenarios consider a range of plausible futures and how these could emerge from the realities of today.</p>\n<p>New Lens Scenarios is the latest publication from the Scenarios team. Within this publication we explore a new set of lenses that give perspective, enabling us to explore two future worlds and bring into sharper focus the possible outcomes of today’s choices.</p>\n",
+      "os": "android",
+      "storelink": "https://play.google.com/store/apps/details?id=com.shell.sitibv.dpp.nls",
+      "thumbnail": {
+        "uri": "http://s03.static-shell.com/content/dam/shell-new/local/corporate/corporate/inside-energy-app-images/NewLensScenarios/903979_cx_scenarios_coverpage_l.jpg",
+        "uri2x": "http://s03.static-shell.com/content/dam/shell-new/local/corporate/corporate/inside-energy-app-images/NewLensScenarios/903979_cx_scenarios_coverpage_l.jpg",
+        "id": "/content/dam/shell-new/local/corporate/corporate/inside-energy-app-images/NewLensScenarios/903979_cx_scenarios_coverpage_l.jpg",
+        "timestamp": "1361810395"
+      },
+      "id": "/content/shell/corporate/global/en/apps/irm/apps/jcr:content/apps/shell_investor_media",
+      "timestamp": "1363953240"
+    },
+    {
+      "publicationdate": "2013-06-07T15:23:23Z",
+      "title": "Shell Motorist app",
+      "description": "<p>The new Shell Motorist app is designed to help you to get more out of driving, and to give you Shell information at your fingertips:</p>\n<ul>\n<li>It can help keep you on top of your vehicle’s maintenance -use the reminder service to receive alerts when your vehicle’s tax, servicing, insurance or annual check-up are due.</li>\n<li>Our route planner is designed to help you find the best way to your destination and to estimate the cost of your journey.</li>\n<li>The station locator shows your nearest Shell service stations to help you fill up with ease once out on the road.<br>\n</li>\n<li>You can also see information on Shell highlights and products.<br>\n</li>\n</ul>\n",
+      "os": "ios",
+      "storelink": "https://itunes.apple.com/app/shell-motorist/id484782414",
+      "thumbnail": {
+        "uri": "http://s03.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/topics/publications/Publications-5-large.jpg",
+        "uri2x": "http://s03.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/topics/publications/Publications-5-large.jpg",
+        "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/topics/publications/Publications-5-large.jpg",
+        "timestamp": "1363622760"
+      },
+      "id": "/content/shell/corporate/global/en/apps/irm/apps/jcr:content/apps/app",
+      "timestamp": "1370615003"
+    },
+    {
+      "publicationdate": "2013-06-07T15:23:36Z",
+      "title": "Shell Motorist app",
+      "description": "<p>The new Shell Motorist app is designed to help you to get more out of driving, and to give you Shell information at your fingertips:</p>\n<ul>\n<li>It can help keep you on top of your vehicle’s maintenance -use the reminder service to receive alerts when your vehicle’s tax, servicing, insurance or annual check-up are due.</li>\n<li>Our route planner is designed to help you find the best way to your destination and to estimate the cost of your journey.</li>\n<li>The station locator shows your nearest Shell service stations to help you fill up with ease once out on the road.<br>\n</li>\n<li>You can also see information on Shell highlights and products.<br>\n</li>\n</ul>\n",
+      "os": "android",
+      "storelink": "https://play.google.com/store/apps/details?id=com.shell.sitibv.motorist",
+      "thumbnail": {
+        "uri": "http://s03.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/topics/publications/Publications-5-large.jpg",
+        "uri2x": "http://s03.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/topics/publications/Publications-5-large.jpg",
+        "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/topics/publications/Publications-5-large.jpg",
+        "timestamp": "1363622760"
+      },
+      "id": "/content/shell/corporate/global/en/apps/irm/apps/jcr:content/apps/app_1",
+      "timestamp": "1370615016"
+    }
+  ],
+  "timestamp": "0"
 }

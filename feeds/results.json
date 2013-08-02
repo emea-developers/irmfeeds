@@ -274,8 +274,8 @@
           "period": "Q2",
           "date": "2013-08-01T00:00:00Z",
           "description": "Royal Dutch Shell plc - Second quarter and half year 2013 results",
-          "noticeonly": true,
-          "notice": "700d67d6e047a23e60a288d31447badf",
+          "notice": "/content/shell/corporate/global/en/aboutshell/investor/financial-information/quarterlyresults/latest",
+          "noticeonly": false,
           "active": true,
           "sections": [
             {
@@ -312,7 +312,7 @@
                     "timestamp": "1354121908"
                   },
                   "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/seconf_quarter_and_h/article_4/assets/5_1362491855535",
-                  "timestamp": "1375338310"
+                  "timestamp": "1375390068"
                 }
               ],
               "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/seconf_quarter_and_h/article_4",
@@ -392,6 +392,79 @@
             },
             {
               "metadata": {
+                "view": "Presentation slides"
+              },
+              "publicationdate": "2013-08-01T11:00:00Z",
+              "title": "Presentation slides",
+              "summary": "Download the presentation slides and the transcript for the analyst and media webcasts for the 2nd quarter 2013 in PDF.",
+              "maintext": "<p>&nbsp;<br /> </p>",
+              "resources": [
+                {
+                  "mimetype": "application/pdf",
+                  "publicationdate": "2013-08-01T16:48:41Z",
+                  "title": "Q2 2013 media webcast presentation slides",
+                  "summary": "The 2nd quarter 2013 media webcast presentation slides.",
+                  "uri": "http://s03.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q2/q2-2013-media-presentation-slides.pdf",
+                  "thumbnail": {
+                    "uri": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
+                    "uri2x": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
+                    "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
+                    "timestamp": "1364216620"
+                  },
+                  "id": "/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q2/q2-2013-media-presentation-slides.pdf",
+                  "timestamp": "1375372121"
+                },
+                {
+                  "mimetype": "application/pdf",
+                  "publicationdate": "2013-08-01T15:42:21Z",
+                  "title": "Q2 2013 transcript of presentation to media",
+                  "summary": "The 2nd quarter 2013 transcript of presentation to media.",
+                  "uri": "http://s05.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q2/q2-2013-media-presentation-transcript.pdf",
+                  "thumbnail": {
+                    "uri": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
+                    "uri2x": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
+                    "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
+                    "timestamp": "1364216620"
+                  },
+                  "id": "/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q2/q2-2013-media-presentation-transcript.pdf",
+                  "timestamp": "1375368141"
+                },
+                {
+                  "mimetype": "application/pdf",
+                  "publicationdate": "2013-08-01T15:42:46Z",
+                  "title": "Q2 2013 analyst webcast presentation slides",
+                  "summary": "The 2nd quarter 2013 analyst webcast presentation slides.",
+                  "uri": "http://s03.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q2/q2-2013-analyst-presentation-slides.pdf",
+                  "thumbnail": {
+                    "uri": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
+                    "uri2x": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
+                    "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
+                    "timestamp": "1364216620"
+                  },
+                  "id": "/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q2/q2-2013-analyst-presentation-slides.pdf",
+                  "timestamp": "1375368166"
+                },
+                {
+                  "mimetype": "application/pdf",
+                  "publicationdate": "2013-08-01T15:43:00Z",
+                  "title": "Q2 2013 transcript of presentation to analysts",
+                  "summary": "The 2nd quarter 2013 transcript of presentation to analysts.",
+                  "uri": "http://s04.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q2/q2-2013-analyst-presentation-transcript.pdf",
+                  "thumbnail": {
+                    "uri": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
+                    "uri2x": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
+                    "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
+                    "timestamp": "1364216620"
+                  },
+                  "id": "/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q2/q2-2013-analyst-presentation-transcript.pdf",
+                  "timestamp": "1375368180"
+                }
+              ],
+              "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/seconf_quarter_and_h/article_5",
+              "timestamp": "1375371925"
+            },
+            {
+              "metadata": {
                 "view": "Dividend announcement"
               },
               "publicationdate": "2013-08-01T11:00:00Z",
@@ -414,7 +487,7 @@
             }
           ],
           "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/seconf_quarter_and_h",
-          "timestamp": "1375342493"
+          "timestamp": "1375353301"
         },
         {
           "period": "Q3",
@@ -2224,7 +2297,7 @@
                     "timestamp": "0"
                   },
                   "id": "/content/shell/corporate/global/en/apps/irm/results/48_1364903913057/jcr:content/quarters/fourth_quarter_resul/article_0/assets/5_1362491855535",
-                  "timestamp": "1374059360"
+                  "timestamp": "1375371104"
                 }
               ],
               "id": "/content/shell/corporate/global/en/apps/irm/results/48_1364903913057/jcr:content/quarters/fourth_quarter_resul/article_0",

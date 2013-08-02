@@ -1,333 +1,306 @@
+    
+
+
+
+
 {
-  "data" : [
+  "apiversion": "2.0",
+  "data": [
     {
-      "id" : "ab1585e7ef15ab3d3c13544921968903w1",
-      "timestamp" : "1351776275",
-      "resources" : [
-        {
-          "timestamp" : "1309734000",
-          "id" : "1db1585e7ef15ab3d3c13544921968793",
-          "title" : "Maturity bond profile graph",
-          "mimetype" : "text/plain",
-          "thumbnail" : {
-            "uri2x" : "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif",
-            "timestamp" : "1345244400",
-            "id" : "2db1585e7ef15ab3d3c13544921968894",
-            "uri" : "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
-          },
-          "publicationdate" : "2011-07-31T23:49:56Z",
-          "uri" : "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
-        }
-      ],
-      "title" : "Dividend policy",
-      "maintext" : "<p>Our policy of growing the US dollar dividend at least in line with inflation changed at the beginning of 2010. The new policy is to grow the US dollar dividend in line with our view of the underlying earnings & cash flow of Shell.</p>",
-      "publicationdate" : "2012-11-01T14:24:35Z",
-      "metadata" : {
-        "view" : "Dividend policy"
-      }
+      "metadata": {
+        "view": "Dividend policy"
+      },
+      "publicationdate": "2013-05-02T11:00:00Z",
+      "title": "Dividend policy",
+      "summary": "<p>Our policy of growing the US dollar dividend at least in line with inflation changed at the beginning of 2010. The new policy is to grow the US dollar dividend in line with our view of the underlying earnings and cash flow of Shell.</p>",
+      "maintext": "<p>When setting the dividend, the Board of Directors looks at a range of factors, including the macro environment, the current balance sheet and future investment plans. In addition, we may choose to return cash to shareholders through share buybacks, subject to the capital requirements of Shell. It is our intention that dividends will be declared and paid quarterly.</p><ul> \n <li> Dividends are declared in US dollars and we announce the euro and sterling equivalent amounts at a later date.&nbsp; </li> \n <li> Dividends declared on Class A shares are paid by default in Euros, although holders of Class A shares are able to elect to receive dividends in sterling.&nbsp; </li> \n <li> Dividends declared on Class B shares are paid by default in sterling, although holders of Class B shares are able to elect to receive dividends in Euros.&nbsp; </li> \n <li> Dividends declared on ADSs are paid in US dollars. </li> \n</ul><p>In September 2010, Shell introduced a Scrip Dividend Programme that enables shareholders to increase their shareholding by choosing to receive any dividends declared by the Board in the form of new shares instead of cash. Under the Scrip Dividend Programme, shareholders can increase their shareholding in Shell by choosing to receive new shares instead of cash dividends if declared by Shell.</p> \n<p>Shareholders who do not join the Scrip Dividend Programme will continue to receive in cash any dividends declared by Shell.</p> \n<p>For further information on the Scrip Dividend Programme please refer to <a href=\"http://www.shell.com/global/aboutshell/investor/dividend-information/scrip.html\" standard_icon=\"inactive_icon\">www.shell.com/scrip</a>.</p> \n<p>Please refer to the <a href=\"http://www.shell.com/global/aboutshell/investor/dividend-information/timetable.html\" standard_icon=\"inactive_icon\">dividend timetable</a>&nbsp;dividend timetable for dates relevant to Shell’s dividend and Shell’s Scrip Dividend Programme.</p>",
+      "uri": "http://www.shell.com/global/aboutshell/investor/dividend-information/dividend-policy.html",
+      "id": "/content/shell/corporate/global/en/aboutshell/investor/dividend-information/dividend-policy",
+      "timestamp": "1373530351"
     },
     {
-      "id" : "xab1585e7ef15ab3d3c13544921968901",
-      "timestamp" : "1351638000",
-      "resources" : [
+      "metadata": {
+        "view": "Scrip Dividend Programme"
+      },
+      "publicationdate": "2013-05-02T11:00:00Z",
+      "title": "Scrip Dividend Programme",
+      "summary": "<p>Royal Dutch Shell plc (&#8220;Shell&#8221;)&#160; provides eligible shareholders with a choice to receive dividends in cash or in shares via a Scrip Dividend Programme (&#8220;the Programme&#8221;).</p>",
+      "maintext": "",
+      "uri": "http://www.shell.com/global/aboutshell/investor/dividend-information/scrip.html",
+      "tabs": [
         {
-          "timestamp" : "1351638000",
-          "id" : "388d2a1cb7c8261e32f9049a2a98749df",
-          "title" : "Latest announcement",
-          "mimetype" : "text/html",
-          "thumbnail" : {
-            "uri2x" : "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif",
-            "timestamp" : "1264377600",
-            "id" : "4db1585e7ef15ab3d3c13544921968907",
-            "uri" : "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
-          },
-          "publicationdate" : "2012-11-01T07:00:00Z",
-          "uri" : "http://www.shell.com/global/aboutshell/investor/dividend-information/latest-announcement.html"
+          "publicationdate": "2013-05-02T11:00:00Z",
+          "title": "Documents",
+          "summary": "Documents",
+          "maintext": "<em><strong><em>May 16, 2012. </em>The Scrip dividend documents will be updated shortly to reflect recent changes with respect to SDRT, affecting only the ADS holders.<br /><br /></strong></em>Shell&nbsp;provides shareholders with a choice to receive dividends in cash or in shares via a Scrip Dividend Programme (the “Programme”). \n<p>Under the Programme shareholders can increase their shareholding in Shell&nbsp;by choosing to receive new shares instead of cash dividends if declared by the Board.&nbsp;Only new A Shares will be issued under the Programme, including to shareholders who currently hold B Shares.</p> \n<p>Joining the Programme may offer a tax advantage in some countries compared with receiving cash dividends. In particular, dividends paid out as shares will not be subject to Dutch dividend withholding tax (currently 15 per cent) and will not generally be taxed on receipt by a UK shareholder or a Dutch corporate shareholder.</p> \n<p>Shareholders who elect to join the Programme will increase the number of shares held in Shell without having to buy existing shares in the market, thereby avoiding associated dealing costs.</p> \n<p>Shareholders who do not join the Programme will continue to receive in cash any dividends declared by Shell. For further information on the Programme please refer to the document(s) below that is/are relevant to the way in which you hold your shares or contact the applicable institution listed on the second tab.</p><table> \n <tbody>\n  <tr>\n   <th><p><b>TITLE</b></p> </th> \n   <th><b>THE DOCUMENTS ARE INTENDED FOR AND SHOULD BE READ ONLY BY THOSE HOLDING SHARES IN THE FOLLOWING WAYS</b></th> \n  </tr>\n  <tr>\n   <td><p><b>Chairman's letter to Shareholders</b></p> <p><a href=\"http://s06.static-shell.com/content/dam/shell/static/investor/downloads/scrip/scrip-charimans-letterenglish.pdf\">English</a><a href=\"http://s06.static-shell.com/content/dam/shell/static/investor/downloads/scrip/scrip-charimans-letterdutch.pdf\"><br /> <br /> Dutch/Nederlands</a></p> <p><a href=\"http://s00.static-shell.com/content/dam/shell/static/investor/downloads/scrip/scrip-charimans-lettergerman.pdf\">German/Deutsch</a></p> <p><a href=\"http://s04.static-shell.com/content/dam/shell/static/investor/downloads/scrip/scrip-charimans-letterfrench.pdf\">French/Francais</a></p> <p>&nbsp;</p> </td> \n   <td>\n    <ul> \n     <li>Holders of share certificates and CREST shareholders</li> \n     <li>Shares held through the RDS Corporate Nominee Service</li> \n     <li>Shares held through a securities account with a bank or another financial institution holding ultimately through Euroclear Nederland</li> \n     <li>Registered ADS holders</li> \n    </ul> </td> \n  </tr>\n  <tr>\n   <td><b></b><p><a href=\"http://s08.static-shell.com/content/dam/shell/static/investor/downloads/scrip/scrip-terms-and-conditions.pdf\"><b>Full Terms and Conditions</b></a></p> &nbsp;</td> \n   <td>\n    <ul> \n     <li>Holders of share certificates and CREST Shareholders</li> \n     <li>Other shareholders may review the summary tax information in this document only if directed to do so by the Q&amp;A Booklet applicable to them.</li> \n    </ul> </td> \n  </tr>\n  <tr>\n   <td><b></b><p><a href=\"http://s01.static-shell.com/content/dam/shell/static/investor/downloads/scrip/scrip-qanda-certificatesandcrest.pdf\"><b>Q&amp;A Booklet for Shareholders with share certificates and CREST Shareholders</b></a></p> <p>&nbsp;</p> &nbsp;</td> \n   <td>\n    <ul> \n     <li>Holders of share certificates and CREST Shareholders</li> \n    </ul> </td> \n  </tr>\n  <tr>\n   <td><b></b><p><a href=\"https://www.shareview.co.uk/tasks/equiniti/common/Scrip/ScripWebApp/Login.aspx?Client=1\"><b>Online Election Form for Shareholders with share certificates and RDS Corporate Nominee Participants</b></a></p> <p>&nbsp;</p> &nbsp;</td> \n   <td><p>As applicable:</p> \n    <ul> \n     <li>Holders of share certificates</li> \n     <li>Shares held through the RDS Corporate Nominee Service</li> \n    </ul> </td> \n  </tr>\n  <tr>\n   <td><b></b><p><a href=\"http://s05.static-shell.com/content/dam/shell/static/investor/downloads/scrip/scrip-qanda-corpnom.pdf\"><b>Q&amp;A Booklet for RDS Corporate Nominee Participants</b></a></p> <p>&nbsp;</p> &nbsp;</td> \n   <td>\n    <ul> \n     <li>Shares held through the RDS Corporate Nominee Service</li> \n    </ul> </td> \n  </tr>\n  <tr>\n   <td><b></b><p><b><a href=\"http://s03.static-shell.com/content/dam/shell/static/investor/downloads/scrip/scrip-qanda-euroclear.pdf\"><b>Q&amp;A Booklet for Shareholders holding Shares in a securities account with a bank or financial<br /> institution holding through Euroclear Nederland</b></a></b></p> <p>&nbsp;</p> &nbsp;</td> \n   <td>\n    <ul> \n     <li>Shares held through a securities account with a bank or another financial institution holding ultimately through Euroclear Nederland</li> \n    </ul> </td> \n  </tr>\n  <tr>\n   <td><p><b><a href=\"http://s05.static-shell.com/content/dam/shell/static/investor/downloads/scrip/scrip-qanda-ads.pdf\"><b>Q&amp;A Booklet for ADS Holders</b></a></b></p> <p>&nbsp;</p> </td> \n   <td>\n    <ul> \n     <li>Registered ADS holders and beneficial ADS holders</li> \n    </ul> </td> \n  </tr>\n  <tr>\n   <td><b></b><p><a href=\"http://www.shell.com/global/aboutshell/investor/dividend-information/timetable.html\"><b>Dividend Timetable</b></a></p> <p>&nbsp;</p> &nbsp;</td> \n   <td>\n    <ul> \n     <li>All shareholders</li> \n    </ul> </td> \n  </tr>\n </tbody>\n</table>",
+          "id": "/content/shell/corporate/global/en/aboutshell/investor/dividend-information/scrip/jcr:content/par/columncontrol/column_1/accordion_1/accordionsection_1",
+          "timestamp": "1373530412"
+        },
+        {
+          "publicationdate": "2013-05-02T11:00:00Z",
+          "title": "Contact details",
+          "summary": "Contact details",
+          "maintext": "<p>Shareholders who wish to speak to someone about the Programme, please see below:</p><table> \n <tbody>\n  <tr>\n   <th>Ways of holding shares</th> \n   <th>Who to contact for help</th> \n   <th>How to contact them</th> \n  </tr>\n  <tr>\n   <td><p>Holders of share certificates, holders of shares held through CREST or the RDS Corporate Nominee</p> </td> \n   <td><p>Company’s registrar, Equiniti</p> <p>&nbsp;</p> </td> \n   <td><p>Phone:<br /> 0800 169 1679<br /> (from within the UK)<br /> <br /> Phone:<br /> +44 (0) 121 415 7073<br /> (from outside the UK)</p> </td> \n  </tr>\n  <tr>\n   <td><p>Registered ADS holders</p> <p>&nbsp;</p> </td> \n   <td><p>The Bank of New York Mellon</p> <p>&nbsp;</p> </td> \n   <td><p>Phone:<br /> 888 737 2377<br /> (from within the US)<br /> <br /> Phone:<br /> +1 201 680 6825<br /> (from outside the US)</p> </td> \n  </tr>\n  <tr>\n   <td><p>Holders of shares through a securities account with a bank or another financial institution holding ultimately through Euroclear Nederland</p> <p>&nbsp;</p> </td> \n   <td><p>Your bank or financial institution using their usual contact details or alternatively contact our Agent, ABN AMRO Bank N.V.<br /> </p> <p>&nbsp;</p> </td> \n   <td>ANB AMRO Bank N.V.<br /> <br /> Phone:<br /> +800 222 62676<br /> (toll free, Europe only)<br /> <br /> Phone:<br /> &nbsp;+31 20 343 2000<br /> (not toll free)<br /> </td> \n  </tr>\n  <tr>\n   <td><p>Beneficial ADS holders</p> <p>&nbsp;</p> </td> \n   <td><p>Your bank, broker or financial intermediary through which you hold your ADSs.</p> </td> \n   <td><p>Usual contact details</p> <p>&nbsp;</p> </td> \n  </tr>\n  <tr>\n   <td><p>Shareholders who hold their shares by any other method please contact your bank, broker or financial institution using their usual contact details</p> <p>&nbsp;</p> </td> \n   <td><p>Your bank, broker or financial institution</p> <p>&nbsp;</p> </td> \n   <td><p>Usual contact details</p> <p>&nbsp;</p> </td> \n  </tr>\n  <tr>\n   <td><p>If you are not sure how you hold your shares or who you should contact from the institutions listed</p> <p>&nbsp;</p> </td> \n   <td><p>Company’s registrar, Equiniti</p> <p>&nbsp;</p> </td> \n   <td><p>Phone:<br /> 0800 169 1679<br /> (from within the UK)<br /> <br /> Phone:<br /> +44 (0) 121 415 7073<br /> (from outside the UK)</p> </td> \n  </tr>\n </tbody>\n</table>",
+          "id": "/content/shell/corporate/global/en/aboutshell/investor/dividend-information/scrip/jcr:content/par/columncontrol/column_1/accordion_1/accordionsection_2",
+          "timestamp": "1373530412"
+        },
+        {
+          "publicationdate": "2013-05-02T11:00:00Z",
+          "title": "UK & US Tax basis",
+          "summary": "UK & US Tax basis",
+          "maintext": "<p>The following information relates to tax basis for shares or ADSs issued under the scrip dividend programme.</p> \n<p><b>UK</b><br /> The Market price of RDSA and RDSB on the London Stock Exchange on the dividend payment date as calculated in accordance with S272 (3)(b) of the Taxation of Chargeable Gains Act 1992 is shown in the table below. </p> \n<p><b>US</b><br /> Under Shell’s Scrip Dividend Program, holders of A ADSs and B ADSs can elect to receive a dividend in cash or in A ADSs.&nbsp; In accordance with IRS rules, Shell reports the U.S. tax basis of A ADSs distributed as part of the scrip program. The table below summarizes that U.S. tax basis information. Additional information (as described in Internal Revenue Code Sec. 6045B)&nbsp; is contained in the attached files following the summary table.</p><table> \n <tbody>\n  <tr>\n   <th><b>Payment date</b></th> \n   <th><b>UK Tax basis RDSA </b></th> \n   <th><b>UK Tax basis RDSB<a href=\"/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/rds-scrip-div-taxbasisq42012.pdf\"></a></b></th> \n   <th><b>US Tax Basis<br /> </b></th> \n   <th><b>US Tax Basis <br /> </b></th> \n  </tr>\n  <tr>\n   <td>&nbsp;</td> \n   <td><b>GBpence </b></td> \n   <td><b>GBpence </b></td> \n   <td><b>USD ($)</b></td> \n   <td><b>Supporting Documentation</b>&nbsp;</td> \n  </tr>\n  <tr>\n   <td>Q1 2013<br /> 27 June 2013</td> \n   <td>2,104.60</td> \n   <td>2,185.60</td> \n   <td>64.12</td> \n   <td><a href=\"http://s03.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/rds-scrip-div-taxbasisq12013.pdf\">Q1 2013</a></td> \n  </tr>\n  <tr>\n   <td>Q4 2012<br /> 28 Mar 2013<br /> </td> \n   <td>2,128.80<br /> </td> \n   <td>2,184.80<br /> </td> \n   <td>64.59<br /> </td> \n   <td><a href=\"http://s03.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/rds-scrip-div-taxbasisq42012.pdf\">Q4 2012</a><br /> </td> \n  </tr>\n  <tr>\n   <td>Q3 2012<br /> 20 Dec 2012</td> \n   <td>2139.80</td> \n   <td>2199.80</td> \n   <td>69.70</td> \n   <td><a href=\"http://s06.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/rds-scrip-div-taxbasisq32012.pdf\">Q3 2012</a></td> \n  </tr>\n  <tr>\n   <td>Q2 2012<br /> 20 Sept 2012</td> \n   <td>2,196.00</td> \n   <td>2,259.50</td> \n   <td>71.18</td> \n   <td><a href=\"http://s02.static-shell.com/content/dam/shell/static/investor/downloads/scrip/rds-scrip-div-taxbasisq22012.pdf\">Q2 2012</a></td> \n  </tr>\n  <tr>\n   <td>Q1 2012<br /> 21 Jun 2012</td> \n   <td>2,130.80</td> \n   <td>2,210.8</td> \n   <td>66.52</td> \n   <td><a href=\"http://s05.static-shell.com/content/dam/shell/static/investor/downloads/scrip/rds-scrip-div-taxbasisq12012.pdf\">Q1 2012</a></td> \n  </tr>\n  <tr>\n   <td>Q4 2011<br /> 22 Mar 2012</td> \n   <td>2,220.80</td> \n   <td>2,243.8</td> \n   <td>71.51</td> \n   <td><a href=\"http://s00.static-shell.com/content/dam/shell/static/investor/downloads/scrip/rds-scrip-div-taxbasis22032012.pdf\">Q4 2011</a></td> \n  </tr>\n  <tr>\n   <td>Q3 2011<br /> 16 Dec 2011</td> \n   <td>2,275.30</td> \n   <td>2,342.80</td> \n   <td>71.75</td> \n   <td><a href=\"http://s02.static-shell.com/content/dam/shell/static/investor/downloads/scrip/rds-scrip-div-taxbasis16122011.pdf\">Q3 2011</a></td> \n  </tr>\n  <tr>\n   <td>Q2 2011<br /> 19 Sep 2011</td> \n   <td>2,057.30</td> \n   <td>2,081.30</td> \n   <td>65.39</td> \n   <td><a href=\"http://s03.static-shell.com/content/dam/shell/static/investor/downloads/scrip/rds-scrip-div-taxbasis19092011.pdf\">Q2 2011</a></td> \n  </tr>\n  <tr>\n   <td>Q1 2011<br /> 27 Jun 2011</td> \n   <td>2,125.30</td> \n   <td>2,126.30</td> \n   <td>68.99</td> \n   <td><a href=\"http://s08.static-shell.com/content/dam/shell/static/investor/downloads/scrip/rds-scrip-div-taxbasis27062011.pdf\">Q1 2011</a></td> \n  </tr>\n  <tr>\n   <td>Q4 2010<br /> 25 Mar 2011</td> \n   <td>2,257.80</td> \n   <td>2,257.80</td> \n   <td>73.51</td> \n   <td><a href=\"http://s02.static-shell.com/content/dam/shell/static/investor/downloads/scrip/rds-scrip-div-taxbasis25032011.pdf\">Q4 2010</a></td> \n  </tr>\n  <tr>\n   <td>Q3 2010<br /> 17 Dec 2010</td> \n   <td>2,070.80</td> \n   <td>2,069.30</td> \n   <td>65.30</td> \n   <td><a href=\"http://s06.static-shell.com/content/dam/shell/static/investor/downloads/scrip/rds-scrip-div-taxbasis17122010.pdf\">Q3 2010</a></td> \n  </tr>\n </tbody>\n</table>",
+          "id": "/content/shell/corporate/global/en/aboutshell/investor/dividend-information/scrip/jcr:content/par/columncontrol/column_1/accordion_1/accordionsection_3",
+          "timestamp": "1373530412"
         }
       ],
-      "title" : "Dividend announcement",
-      "publicationdate" : "2012-11-01T07:00:00Z",
-      "tabs" : [
-        {
-          "summary" : "Dividend announcement",
-          "timestamp" : "1351724400",
-          "id" : "a3dcb4d229de6fde0dbnvb5686dee47145d",
-          "title" : "Dividend announcement",
-          "maintext" : "<p><strong>The Board of Royal Dutch Shell plc (“RDS”) today announced an interim dividend in respect of the third quarter of 2012 of US$0.43 per A ordinary share (“A Share”) and B ordinary share (“B Share”), an increase of US$ 0.01 on the equivalent US dollar dividend for the same quarter last year.</strong></p> <p>RDS provides eligible shareholders with a choice to receive dividends in cash or in shares via a Scrip Dividend Programme (“the Programme”). For further details please see below.</p> <p><strong><br/>Details relating to the third quarter 2012 interim dividend</strong></p> <p>It is expected that cash dividends on the B Shares will be paid via the Dividend Access Mechanism from UK-sourced income of the Shell Group.</p> <p><table><tbody><tr><th>Per ordinary share</th><th>Q3 2012</th> </tr> <tr><td>RDS A shares (US$)</td> <td>0.43</td> </tr> <tr><td>RDS B shares (US$)</td> <td>0.43</td> </tr> </tbody> </table> </p> <p>Cash dividends on A Shares will be paid, by default, in euro, although holders of A Shares will be able to elect to receive dividends in pounds sterling.</p> <p>Cash dividends on B Shares will be paid, by default, in pounds sterling, although holders of B Shares will be able to elect to receive dividends in euro.</p> <p>The pounds sterling and euro equivalent dividend payments will be announced on December 7, 2012.</p> <p><table><tbody><tr><th>Per ADS</th><th>Q3 2012</th> </tr> <tr><td>RDS A ADSs (US$)</td> <td>0.86</td> </tr> <tr><td>RDS B ADSs (US$)</td> <td>0.86</td> </tr> </tbody> </table> </p> <p>Cash dividends on American Depository Shares (“ADSs”) will be paid, by default, in US dollars.</p> <p>ADS stands for an American Depositary Share. ADR stands for an American Depositary Receipt. An ADR is a certificate that evidences ADSs. ADSs are listed on the NYSE under the symbols RDS.A and RDS.B. Each ADS represents two ordinary shares, two A Shares in the case of RDS.A or two B Shares in the case of RDS.B. In many cases the terms ADR and ADS are used interchangeably.</p> <p><strong><br/>Scrip Dividend Programme </strong></p> <p>RDS provides shareholders with a choice to receive dividends in cash or in shares via a Scrip Dividend Programme.</p> <p>Under the Programme shareholders can increase their shareholding in RDS by choosing to receive new shares instead of cash dividends, if approved by the Board. Only new A Shares will be issued under the Programme, including to shareholders who currently hold B Shares.</p> <p>Joining the Programme may offer a tax advantage in some countries compared with receiving cash dividends. In particular, dividends paid out as shares will not be subject to Dutch dividend withholding tax (currently 15 per cent) and will not generally be taxed on receipt by a UK shareholder or a Dutch corporate shareholder.</p> <p>Shareholders who elect to join the Programme will increase the number of shares held in RDS without having to buy existing shares in the market, thereby avoiding associated dealing costs.</p> <p>Shareholders who do not join the Programme will continue to receive in cash any dividends approved by the Board.</p> <p>Shareholders who held only B Shares and joined the Scrip Dividend Programme are reminded they will need to make a Scrip Dividend Election in respect of their new A Shares if they wish to join the Programme in respect of such new shares. However, this is only necessary if the shareholder has not previously made a Scrip Dividend Election in respect of any new A Shares issued.</p> <p>For further information on the Programme, including how to join if you are eligible, please refer to the appropriate publication available on <a href=\"http://www.shell.com/scrip\">www.shell.com/scrip</a>.</p> <p><strong><br/>Dividend timetable for the third quarter 2012 interim dividend</strong><strong><br/></strong></p> <p><strong><br/></strong></p> <p><table><tbody><tr><th> </th><th> <p>3rd quarter 2012</p> </th> </tr> <tr><th>Announcement date</th> <td>November 1, 2012</td> </tr> <tr><th>Ex-dividend date</th> <td>November 14, 2012</td> </tr> <tr><th>Record date </th> <td>November 16, 2012</td> </tr> <tr><th>Scrip reference share price announcement date</th> <td>November 21, 2012</td> </tr> <tr><th>Closing of scrip election and currency election <sup><strong><em>(*)</em></strong></sup></th> <td>November 30, 2012</td> </tr> <tr><th>Pounds sterling and euro equivalents announcement date</th> <td>December 7, 2012</td> </tr> <tr><th>Payment date</th> <td>December 20, 2012</td> </tr> </tbody> </table> </p> <p><em>* A different scrip election date may apply to registered and non registered ADS holders. <br/>Registered ADS holders can contact The Bank of New York Mellon for the election deadline that applies. Non registered ADS holders can contact their broker, financial intermediary, bank or financial institution for the election deadline that applies. </em></p> <p><em>Both a different scrip and currency election date may apply to shareholders holding shares in a securities account with a bank or financial institution ultimately holding through Euroclear Nederland.  Please contact your broker, financial intermediary, bank or financial institution where you hold your securities account for the election deadline that applies</em><em>.</em></p> <p><strong><br/><br/>Taxation cash dividends</strong></p> <p>Cash dividends on A Shares will be subject to the deduction of Netherlands dividend withholding tax at the rate of 15%, which may be reduced in certain circumstances. Provided certain conditions are met, shareholders in receipt of A Share cash dividends may also be entitled to a non-payable dividend tax credit in the United Kingdom.</p> <p>Shareholders resident in the United Kingdom, receiving cash dividends on B Shares through the Dividend Access Mechanism, are entitled to a tax credit. This tax credit is not repayable. Non-residents may also be entitled to a tax credit, if double tax arrangements between the United Kingdom and their country of residence so provide, or if they are eligible for relief given to non-residents with certain special connections with the United Kingdom or to nationals of states in the European Economic Area.</p> <p>The amount of tax credit is 10/90ths of the cash dividend, the tax credit referable to the third quarter 2012 interim dividend of US$0.43 is US$0.05 per ordinary share and the dividend and tax credit together amount to US$0.48. The pounds sterling and euro equivalents will be announced on December 7, 2012.</p> <p><strong>Royal Dutch Shell plc</strong></p> <p><strong>The Hague, November 1, 2012</strong></p>",
-          "publicationdate" : "2012-12-05T01:01:01Z"
-        },
-        {
-          "summary" : "Scrip reference price",
-          "timestamp" : "1351724400",
-          "id" : "dcf447941ec022c62422b0ae444c6802",
-          "title" : "Scrip reference price",
-          "maintext" : "<p><strong>The Board of Royal Dutch Shell plc (“RDS”) today announced the Reference Share Price in respect of the third quarter interim dividend of 2012, which was announced on November 1st, 2012 at $0.43 per A ordinary share (“A Share”) and B ordinary share (“B Share”) and $0.86 per American Depository Share (“ADS”).<br/></strong></p> <p><strong>Reference Share Price<br/></strong>The Reference Share price is used for calculating a Participating Shareholder’s entitlement under the Scrip Dividend Programme, as defined below.</p> <p><table><tbody><tr><th> </th><th>Q3 2012</th> </tr> <tr><td>Reference share price (US$)</td> <td>32.906</td> </tr> </tbody> </table> </p> <p>The Reference Share Price is the US dollar equivalent of the average of the closing price for the Company’s A Shares listed on Euronext Amsterdam for the five dealing days commencing on (and including) the date on which the Shares are first quoted ex-dividend in respect of the relevant dividend.<br/><br/>The Reference Share Price is calculated by reference to the Euronext Amsterdam closing price in euro. The US dollar equivalent of the closing price on each of the dealing days referred to above is calculated using a market currency exchange rate prevailing at the time.<br/><br/><strong>Reference ADS Price<br/></strong>ADS stands for “American Depositary Share”. ADR stands for “American Depositary Receipt”. An  ADR is a certificate that evidences ADSs (though the terms ADR and ADS are often used interchangeably).  ADSs are listed on the NYSE under the symbols RDS.A and RDS.B.  Each ADS represents two ordinary shares, two ordinary A Shares in the case of RDS.A or two ordinary B Shares in the case of RDS.B.</p> <p><table><tbody><tr><th> </th><th>Q3 2012</th> </tr> <tr><td>Reference ADS price (US$)</td> <td>65.812</td> </tr> </tbody> </table> </p> <p>The Reference ADS Price equals the Reference Share Price of the two A Shares underlying each new A ADS.  A recent court ruling has established that Stamp Duty Reserve Tax (SDRT) is not due on the issue of shares to a US depositary. Therefore, the Reference ADS price no longer includes an adjustment for the deduction of SDRT (or the Dutch withholding tax associated with the payment of SDRT). Given these changes, there is no longer a need to have an Alternative Reference ADS Price.  The Reference ADS Price will instead apply to all A ADSs and B ADSs.<br/><br/>Royal Dutch Shell plc is currently exploring together with the Depository how ADS holders might reclaim SDRT amounts deducted on previous issues under the Scrip Dividend Programme.  Details will be made available as soon as possible on the dividend section of the Royal Dutch Shell plc website:  <a href=\"http://www.shell.com/dividend\">www.shell.com/dividend</a>.<br/><br/><strong>Scrip dividend programme <br/></strong>RDS provides shareholders with a choice to receive dividends in cash or in shares via a Scrip Dividend Programme. Under the Programme shareholders can increase their shareholding in RDS by choosing to receive new shares instead of cash dividends if declared by RDS.  Only new A Shares will be issued under the Programme, including to shareholders who currently hold B Shares.<br/><br/>Joining the Programme may offer a tax advantage in some countries compared with receiving cash dividends. In particular, dividends paid out as shares will not be subject to Dutch dividend withholding tax (currently 15 per cent) and will not generally be taxed on receipt by a UK shareholder or a Dutch corporate shareholder.<br/><br/>Shareholders who elect to join the Programme will increase the number of shares held in RDS without having to buy existing shares in the market, thereby avoiding associated dealing costs.<br/><br/>Shareholders who do not join the Programme will continue to receive in cash any dividends declared by RDS.<br/><br/>Shareholders who held only B shares and joined the Scrip Dividend Programme are reminded they will need to make a Scrip Dividend Election in respect of their new A shares if they wish to join the Programme in respect of such new shares.  However, this is only necessary if the shareholder has not previously made a Scrip Dividend Election in respect of any new A shares issued.<br/><br/>For further information on the Programme, including how to join if you are eligible, please refer to the appropriate publication available on <a href=\"http://www.shell.com/scrip\">www.shell.com/scrip</a>.</p> <p><br/><strong>Royal Dutch Shell plc<br/>The Hague, November 21st, 2012</strong></p>",
-          "publicationdate" : "2012-12-05T01:01:01Z"
-        },
-        {
-          "summary" : "GBP &amp; EUR announcement",
-          "timestamp" : "1351724400",
-          "id" : "b288e5ecb127fd20f78972ba95aa41b9",
-          "title" : "GBP &amp; EUR announcement",
-          "maintext" : "<p><strong>The Board of Royal Dutch Shell plc (“RDS”) today announced the pounds sterling and euro equivalent dividend payments in respect of the third quarter 2012 interim dividend, which was announced on November 1, 2012 at US$0.43 per A ordinary share (“A Share”) and B ordinary share (“B Share”). </strong></p> <p>Dividends on A Shares will be paid, by default, in euro at the rate of €0.3333 per A Share. Holders of A Shares who have validly submitted pounds sterling currency elections by November 30, 2012 will be entitled to a dividend of 26.86p per A Share.</p> <p>Dividends on B Shares will be paid, by default, in pounds sterling at the rate of 26.86p per B Share. Holders of B Shares who have validly submitted euro currency elections by November 30, 2012 will be entitled to a dividend of €0.3333 per B Share.</p> <p>This dividend will be payable on December 20, 2012 to those members whose names were on the Register of Members on November 16, 2012.</p> <p><p><br/><strong>Taxation cash dividends </strong></p> </p> <p><p>Dividends on A Shares will be subject to the deduction of Netherlands dividend withholding tax at the rate of 15%, which may be reduced in certain circumstances. Provided certain conditions are met, shareholders in receipt of A Share dividends may also be entitled to a non-payable dividend tax credit in the United Kingdom.</p> <p>Shareholders resident in the United Kingdom, receiving dividends on B Shares through the Dividend Access Mechanism, are entitled to a tax credit. This tax credit is not repayable. Non-residents may also be entitled to a tax credit, if double tax arrangements between the United Kingdom and their country of residence so provide, or if they are eligible for relief given to non-residents with certain special connections with the United Kingdom or to nationals of states in the European Economic Area.</p> <p>The amount of tax credit is 10/90ths of the cash dividend, the tax credit referable to the third quarter 2012 interim dividend of US$0.43 (26.86p or €0.3333) is US$0.05 (2.98p or €0.0370) per ordinary share and the dividend and tax credit together amount to US$0.48 (29.84p or €0.3703).</p> <p><strong>Royal Dutch Shell<br/>The Hague, December 7th, 2012</strong></p> </p>",
-          "publicationdate" : "2012-12-05T01:01:01Z"
-        },
-        {
-          "summary" : "Scrip issuance",
-          "timestamp" : "1351724400",
-          "id" : "05a5f50462b4622c165fd5620ceb7881",
-          "title" : "Scrip issuance",
-          "maintext" : "<p><strong>Royal Dutch Shell plc announces that it has today issued 34,249,652 A Ordinary shares in relation to the scrip dividend programme for the third quarter 2012 interim dividend.</strong><br> <br> Following this issue, the total number of A shares in issuance is 3,772,388,687 and the total number of B shares is 2,617,715,189.&amp;nbsp; Royal Dutch Shell plc holds no ordinary shares in Treasury.<br> <br> <strong>Royal Dutch Shell plc<br> The Hague, December 20, 2012</strong></p>",
-          "publicationdate" : "2012-12-05T01:01:01Z"
-        }
-      ],
-      "metadata" : {
-        "view" : "Dividend announcement"
-      }
+      "id": "/content/shell/corporate/global/en/aboutshell/investor/dividend-information/scrip",
+      "timestamp": "1373530412"
     },
     {
-      "id" : "56daf8cb49345b12700c80ee97dcc400",
-      "timestamp" : "1351724400",
-      "resources" : [
+      "metadata": {
+        "view": "Interim dividend timetable"
+      },
+      "publicationdate": "2013-05-02T11:15:00Z",
+      "title": "Interim dividend timetable",
+      "maintext": "<p>&nbsp;<br /> </p>",
+      "uri": "http://www.shell.com/global/aboutshell/investor/dividend-information/timetable.html",
+      "events": [
         {
-          "timestamp" : "1351724400",
-          "id" : "456daf8cb49345b12700c80ee97dcc400",
-          "title" : "3rd quarter 2012",
-          "mimetype" : "text/html",
-          "thumbnail" : {
-            "uri2x" : "http://www-static.shell.com/static/investor/imgs/240_wide/peter_voser.jpg",
-            "timestamp" : "1352160000",
-            "id" : "5db1585e7ef15ab3d3c135449219689110",
-            "uri" : "http://www-static.shell.com/static/investor/imgs/240_wide/peter_voser.jpg"
-          },
-          "publicationdate" : "2011-10-27T06:00:00Z",
-          "uri" : "http://www.shell.com/global/aboutshell/investor/dividend-information/timetable.html"
+          "startdate": "2013-05-02T11:00:00Z",
+          "enddate": "2013-05-02T11:00:00Z",
+          "period": "Q1",
+          "year": "2013",
+          "title": "Q1 2013 Announcement date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/announcement_date",
+          "timestamp": "1368695242"
+        },
+        {
+          "startdate": "2013-05-15T11:00:00Z",
+          "enddate": "2013-05-15T11:00:00Z",
+          "period": "Q1",
+          "year": "2013",
+          "title": "Q1 2013 Ex-dividend date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/q1_2013_ex_dividend_",
+          "timestamp": "1368695260"
+        },
+        {
+          "startdate": "2013-05-17T11:00:00Z",
+          "enddate": "2013-05-17T11:00:00Z",
+          "period": "Q1",
+          "year": "2013",
+          "title": "Q1 2013 Record date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/q1_2013_record_date",
+          "timestamp": "1368695279"
+        },
+        {
+          "startdate": "2013-05-22T11:00:00Z",
+          "enddate": "2013-05-22T11:00:00Z",
+          "period": "Q1",
+          "year": "2013",
+          "title": "Q1 2013 Scrip reference share price announcement date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/q1_2013_scrip_refere",
+          "timestamp": "1368695291"
+        },
+        {
+          "startdate": "2013-06-03T11:00:00Z",
+          "enddate": "2013-06-03T11:00:00Z",
+          "period": "Q1",
+          "year": "2013",
+          "title": "Q1 2013 Closing of scrip election and currency election",
+          "description": "A different scrip election date may apply to registered and non registered ADR holders.",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/q1_2013_closing_of_s",
+          "timestamp": "1368695310"
+        },
+        {
+          "startdate": "2013-06-10T11:00:00Z",
+          "enddate": "2013-06-10T11:00:00Z",
+          "period": "Q1",
+          "year": "2013",
+          "title": "Q1 2013 Pounds sterling and euro equivalents announcement date",
+          "description": "The Pounds sterling and euro equivalents announcement will be after the close of markets on the day indicated, all other announcements are before market opens on the day indicated.",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/q1_2013_pounds_sterl",
+          "timestamp": "1368695324"
+        },
+        {
+          "startdate": "2013-06-27T11:00:00Z",
+          "enddate": "2013-06-27T11:00:00Z",
+          "period": "Q1",
+          "year": "2013",
+          "title": "Q1 2013 Payment date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/q1_2013_payment_date",
+          "timestamp": "1368695333"
+        },
+        {
+          "startdate": "2013-08-01T07:00:00Z",
+          "enddate": "2013-08-01T07:00:00Z",
+          "period": "Q2",
+          "year": "2013",
+          "title": "Q2 2013 Announcement date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/event",
+          "timestamp": "1375343171"
+        },
+        {
+          "startdate": "2013-08-14T11:00:00Z",
+          "enddate": "2013-08-14T11:00:00Z",
+          "period": "Q2",
+          "year": "2013",
+          "title": "Q2 2013 Ex-dividend date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/event_0",
+          "timestamp": "1368695359"
+        },
+        {
+          "startdate": "2013-08-16T11:00:00Z",
+          "enddate": "2013-08-16T11:00:00Z",
+          "period": "Q2",
+          "year": "2013",
+          "title": "Q2 2013 Record date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/event_1",
+          "timestamp": "1368695538"
+        },
+        {
+          "startdate": "2013-08-21T11:00:00Z",
+          "enddate": "2013-08-21T11:00:00Z",
+          "period": "Q2",
+          "year": "2013",
+          "title": "Q2 2013 Scrip reference share price announcement date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/event_2",
+          "timestamp": "1368695555"
+        },
+        {
+          "startdate": "2013-09-02T11:00:00Z",
+          "enddate": "2013-09-02T11:00:00Z",
+          "period": "Q2",
+          "year": "2013",
+          "title": "Q2 2013 Closing of scrip election and currency election",
+          "description": "A different scrip election date may apply to registered and non registered ADR holders.",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/event_3",
+          "timestamp": "1368695568"
+        },
+        {
+          "startdate": "2013-09-09T11:00:00Z",
+          "enddate": "2013-09-09T11:00:00Z",
+          "period": "Q2",
+          "year": "2013",
+          "title": "Q2 2013 Pounds sterling and euro equivalents announcement date",
+          "description": "The Pounds sterling and euro equivalents announcement will be after the close of markets on the day indicated, all other announcements are before market opens on the day indicated.",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/event_4",
+          "timestamp": "1368695585"
+        },
+        {
+          "startdate": "2013-09-26T11:00:00Z",
+          "enddate": "2013-09-26T11:00:00Z",
+          "period": "Q2",
+          "year": "2013",
+          "title": "Q2 2013 Payment date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/event_5",
+          "timestamp": "1368695595"
+        },
+        {
+          "startdate": "2013-10-31T11:00:00Z",
+          "enddate": "2013-10-31T11:00:00Z",
+          "period": "Q3",
+          "year": "2013",
+          "title": "Q3 2013 Announcement date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/event_6",
+          "timestamp": "1368695605"
+        },
+        {
+          "startdate": "2013-11-13T11:00:00Z",
+          "enddate": "2013-11-13T11:00:00Z",
+          "period": "Q3",
+          "year": "2013",
+          "title": "Q3 2013 Ex-dividend date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/event_7",
+          "timestamp": "1368695620"
+        },
+        {
+          "startdate": "2013-11-15T11:00:00Z",
+          "enddate": "2013-11-15T11:00:00Z",
+          "period": "Q3",
+          "year": "2013",
+          "title": "Q3 2013 Record date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/event_8",
+          "timestamp": "1368695630"
+        },
+        {
+          "startdate": "2013-11-20T11:00:00Z",
+          "enddate": "2013-11-20T11:00:00Z",
+          "period": "Q3",
+          "year": "2013",
+          "title": "Q3 2013 Scrip reference share price announcement date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/event_9",
+          "timestamp": "1368695645"
+        },
+        {
+          "startdate": "2013-11-29T11:00:00Z",
+          "enddate": "2013-11-29T11:00:00Z",
+          "period": "Q3",
+          "year": "2013",
+          "title": "Q3 2013 Closing of scrip election and currency election",
+          "description": "A different scrip election date may apply to registered and non registered ADR holders.",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/event_10",
+          "timestamp": "1368695655"
+        },
+        {
+          "startdate": "2013-11-06T11:00:00Z",
+          "enddate": "2013-12-06T11:00:00Z",
+          "period": "Q3",
+          "year": "2013",
+          "title": "Q3 2013 Pounds sterling and euro equivalents announcement date",
+          "description": "The Pounds sterling and euro equivalents announcement will be after the close of markets on the day indicated, all other announcements are before market opens on the day indicated.",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/event_11",
+          "timestamp": "1368695667"
+        },
+        {
+          "startdate": "2013-12-23T11:00:00Z",
+          "enddate": "2013-12-23T11:00:00Z",
+          "period": "Q3",
+          "year": "2013",
+          "title": "Q3 2013 Payment date",
+          "description": " ",
+          "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038/events/event_12",
+          "timestamp": "1368695677"
         }
       ],
-      "title" : "Dividend timetable",
-      "maintext" : "<p><table><tbody><tr><th> </th><th>3rd quarter 2012</th> </tr> <tr><th>Announcement date</th> <td>November 1, 2012</td> </tr> <tr><th>Ex-dividend date</th> <td>November 14, 2012</td> </tr> <tr><th>Record date </th> <td>November 16, 2012</td> </tr> <tr><th>Scrip reference share price announcement date</th> <td>November 21, 2012</td> </tr> <tr><th>Closing of scrip election & currency election <em><sup>(*)</sup></em></th> <td>November 30, 2012</td> </tr> <tr><th>Pounds sterling & euro equivalents announcement date <em><sup>(**)</sup></em></th> <td>December 7, 2012</td> </tr> <tr><th>Payment date</th> <td>December 20, 2012</td> </tr> </tbody> </table> </p> <p><sup>* A different scrip election date may apply to registered & non registered ADR holders.<br/>** The Pounds sterling & euro equivalents announcement will be after the close of markets on the day indicated, all other announcements are before market opens on the day indicated.</sup></p> <p><sup>Registered ADR holders can contact The Bank of New York Mellon for the election deadline that applies. Non registered ADR holders can contact their broker, financial intermediary, bank or financial institution for the election deadline that applies.</sup></p> <p><sup>Both a different scrip & currency election date may apply to shareholders holding shares in a securities account with a bank or financial institution ultimately holding through Euroclear Netherland. Please contact your broker, financial intermediary, bank or financial institution where you hold your securities account for the election deadline that applies.</sup></p> <p><br/>View the <a href=\"http://www.shell.com/global/aboutshell/investor/dividend-information/timetable.html\">2012 interim dividend timetable announcement</a>.</p> <p><br/><br/><strong>Disclaimer</strong></p> <p>Reserves: Our use of the term \"reserves\" in this presentation means SEC proved oil & gas reserves for all 2009 & 2010 data, & includes both SEC proved oil & gas reserves & SEC proven mining reserves for 2008 data. <br/>Resources:  Our use of the term \"resources\" in this presentation includes quantities of oil & gas not yet classified as SEC proved oil & gas reserves or SEC proven mining reserves.  resourcesare consistent with the Society of Petroleum Engineers 2P & 2C definitions.<br/>Organic: Our use of the term Organic includes SEC proved oil & gas reserves & SEC proven mining reserves (for 2008) excluding changes resulting from acquisitions, divestments & year-average pricing impact.</p> <p>The companies in which Royal Dutch Shell plc directly & indirectly owns investments are separate entities. In this presentation \"Shell\", \"Shell group\" & \"Royal Dutch Shell\" are sometimes used for convenience where references are made to Royal Dutch Shell plc & its subsidiaries in general. Likewise, the words \"we\", \"us\" & \"our\" are also used to refer to subsidiaries in general or to those who work for them. These expressions are also used where no useful purpose is served by identifying the particular company or companies. \"Subsidiaries\", \"Shell subsidiaries\" & \"Shell companies\" as used in this presentation refer to companies in which Royal Dutch Shell either directly or indirectly has control, by having either a majority of the voting rights or the right to exercise a controlling influence. The companies in which Shell has significant influence but not control are referred to as \"associated companies\" or \"associates\" & companies in which Shell has joint control are referred to as \"jointly controlled entities\". In this presentation, associates & jointly controlled entities are also referred to as \"equity-accounted investments\". The term \"Shell interest\" is used for convenience to indicate the direct &/or indirect (for example, through our 24% shareholding in Woodside Petroleum Ltd.) ownership interest held by Shell in a venture, partnership or company, after exclusion of all third-party interest. <br/> <br/>This presentation contains forward-looking statements concerning the financial condition, results of operations & businesses of Royal Dutch Shell. All statements other than statements of historical fact are, or may be deemed to be, forward-looking statements. Forward-looking statements are statements of future expectations that are based on management's current expectations & assumptions & involve known & unknown risks & uncertainties that could cause actual results, performance or events to differ materially from those expressed or implied in these statements. Forward-looking statements include, among other things, statements concerning the potential exposure of Royal Dutch Shell to market risks & statements expressing management's expectations, beliefs, estimates, forecasts, projections & assumptions. These forward-looking statements are identified by their use of terms and phrases such as \"anticipate\", \"believe\", \"could\", \"estimate\", \"expect\", \"intend\", \"may\", \"plan\", \"objectives\", \"outlook\", \"probably\", \"project\", \"will\", \"seek\", \"target\", \"risks\", \"goals\", \"should\" and similar terms and phrases. There are a number of factors that could affect the future operations of Royal Dutch Shell & could cause those results to differ materially from those expressed in the forward-looking statements included in this presentation, including (without limitation): (a) price fluctuations in crude oil & natural gas; (b) changes in demand for Shell's products; (c) currency fluctuations; (d) drilling & production results; (e) reserves estimates; (f) loss of market share & industry competition; (g) environmental & physical risks; (h) risks associated with the identification of suitable potential acquisition properties & targets, & successful negotiation & completion of such transactions; (i) the risk of doing business in developing countries & countries subject to international sanctions; (j) legislative, fiscal & regulatory developments including potential litigation & regulatory measures as a result of climate changes; (k) economic & financial market conditions in various countries & regions; (l) political risks, including the risks of expropriation & renegotiation of the terms of contracts with governmental entities, delays or advancements in the approval of projects & delays in the reimbursement for shared costs; & (m) changes in trading conditions. All forward-looking statements contained in this presentation are expressly qualified in their entirety by the cautionary statements contained or referred to in this section. Readers should not place undue reliance on forward-looking statements. Additional factors that may affect future results are contained in Royal Dutch Shell's 20-F for the year ended 31 December, 2010 (available at www.shell.com/investor & www.sec.gov.). These factors also should be considered by the reader.  Each forward-looking statement speaks only as of the date of this presentation, 27 October 2011. Neither Royal Dutch Shell nor any of its subsidiaries undertake any obligation to publicly update or revise any forward-looking statement as a result of new information, future events or other information. In light of these risks, results could differ materially from those stated, implied or inferred from the forward-looking statements contained in this presentation. There can be no assurance that dividend payments will match or exceed those set out in this presentation in the future, or that they will be made at all.<br/> <br/>We may use certain terms in this presentation, such as resources & oil in place, that the United States Securities & Exchange Commission (SEC) guidelines strictly prohibit us from including in filings with the SEC.  U.S. Investors are urged to consider closely the disclosure in our Form 20-F, File No 1-32575, available on the SEC website www.sec.gov. You can also obtain these forms from the SEC by calling 1-800-SEC-0330.</p>",
-      "events" : [
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968917",
-          "title" : "Announcement date",
-          "startdate" : "2012-11-01T07:00:00Z",
-          "description" : "Announcement date description",
-          "year" : "2012",
-          "enddate" : "2012-11-02T07:00:00Z",
-          "period" : "Q3"
-        },
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968918",
-          "title" : "Ex-dividend date",
-          "startdate" : "2012-11-14T07:00:00Z",
-          "description" : "Ex-dividend date description",
-          "year" : "2012",
-          "enddate" : "2012-11-15T07:00:00Z",
-          "period" : "Q3"
-        },
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968919",
-          "title" : "Record date",
-          "startdate" : "2012-11-16T07:00:00Z",
-          "description" : "Record date description",
-          "year" : "2012",
-          "enddate" : "2012-11-17T07:00:00Z",
-          "period" : "Q3"
-        },
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968920",
-          "title" : "Announcement date",
-          "startdate" : "2013-01-31T07:00:00Z",
-          "description" : "Announcement date description",
-          "year" : "2013",
-          "enddate" : "2013-02-01T07:00:00Z",
-          "period" : "Q4"
-        },
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968921",
-          "title" : "Ex-dividend date",
-          "startdate" : "2013-02-13T07:00:00Z",
-          "description" : "Ex-dividend date description",
-          "year" : "2013",
-          "enddate" : "2013-02-14T07:00:00Z",
-          "period" : "Q4"
-        },
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968922",
-          "title" : "Record date",
-          "startdate" : "2013-02-15T07:00:00Z",
-          "description" : "Record date description",
-          "year" : "2013",
-          "enddate" : "2013-02-16T07:00:00Z",
-          "period" : "Q4"
-        },
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968923",
-          "title" : "Announcement date",
-          "startdate" : "2013-04-02T07:00:00Z",
-          "description" : "Announcement date description",
-          "year" : "2013",
-          "enddate" : "2013-04-03T07:00:00Z",
-          "period" : "Q1"
-        },
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968924",
-          "title" : "Ex-dividend date",
-          "startdate" : "2013-04-15T07:00:00Z",
-          "description" : "Ex-dividend date description",
-          "year" : "2013",
-          "enddate" : "2013-04-16T07:00:00Z",
-          "period" : "Q1"
-        },
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968925",
-          "title" : "Record date",
-          "startdate" : "2013-05-17T07:00:00Z",
-          "description" : "Record date description",
-          "year" : "2013",
-          "enddate" : "2013-05-18T07:00:00Z",
-          "period" : "Q1"
-        },
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968926",
-          "title" : "Announcement date",
-          "startdate" : "2013-08-01T07:00:00Z",
-          "description" : "Announcement date description",
-          "year" : "2013",
-          "enddate" : "2013-08-02T07:00:00Z",
-          "period" : "Q2"
-        },
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968927",
-          "title" : "Ex-dividend date",
-          "startdate" : "2013-08-14T07:00:00Z",
-          "description" : "Ex-dividend date description",
-          "year" : "2013",
-          "enddate" : "2013-08-15T07:00:00Z",
-          "period" : "Q2"
-        },
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968928",
-          "title" : "Record date",
-          "startdate" : "2013-08-16T07:00:00Z",
-          "description" : "Record date description",
-          "year" : "2013",
-          "enddate" : "2013-08-17T07:00:00Z",
-          "period" : "Q2"
-        },
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968929",
-          "title" : "Announcement date",
-          "startdate" : "2013-10-31T07:00:00Z",
-          "description" : "Announcement date description",
-          "year" : "2013",
-          "enddate" : "2013-11-01T07:00:00Z",
-          "period" : "Q3"
-        },
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968930",
-          "title" : "Ex-dividend date",
-          "startdate" : "2013-11-13T07:00:00Z",
-          "description" : "Ex-dividend date description",
-          "year" : "2013",
-          "enddate" : "2012-11-14T07:00:00Z",
-          "period" : "Q3"
-        },
-        {
-          "id" : "ab1585e7ef15ab3d3c13544921968931",
-          "title" : "Record date",
-          "startdate" : "2013-11-15T07:00:00Z",
-          "description" : "Record date description",
-          "year" : "2013",
-          "enddate" : "2013-11-16T07:00:00Z",
-          "period" : "Q3"
-        }
-      ],
-      "publicationdate" : "2011-10-27T06:00:00Z",
-      "metadata" : {
-        "view" : "Dividend timetable"
-      }
+      "id": "/content/shell/corporate/global/en/apps/irm/dividend/jcr:content/dividend/120_1359982751038",
+      "timestamp": "1373472931"
     },
     {
-      "timestamp" : "1351776275",
-      "id" : "ab1585e7ef15ab3d3c13544921968903",
-      "resources" : [
+      "metadata": {
+        "view": "Latest dividend announcement"
+      },
+      "publicationdate": "2013-08-01T11:00:00Z",
+      "title": "Royal Dutch Shell plc second quarter 2013 interim dividend",
+      "summary": "<p>Read the second quarter 2013 dividend announcement.<br>\n</p>\n",
+      "maintext": "",
+      "uri": "http://www.shell.com/global/aboutshell/investor/dividend-information/latest-announcement.html",
+      "tabs": [
         {
-          "timestamp" : "1284640345",
-          "id" : "6ecec2cebe6e525c9810844f918842163",
-          "title" : "Letter to shareholders in english",
-          "mimetype" : "application/pdf",
-          "thumbnail" : {
-            "uri2x" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_english.png",
-            "timestamp" : "1284640345",
-            "id" : "7b6e23d55c25c0efcab6bb0c47b860745",
-            "uri" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_english.png"
-          },
-          "description" : "Letter to shareholders from chairman Jorma Ollila about the scrip dividend programme.",
-          "publicationdate" : "2012-06-27T23:49:56Z",
-          "uri" : "http://www-static.shell.com/static/investor/downloads/scrip/scrip_charimans_letterenglish.pdf"
-        },
-        {
-          "timestamp" : "1284640345",
-          "id" : "8b6e23d55c25c0efcab6bb0c47b860745",
-          "title" : "Letter to shareholders in dutch",
-          "mimetype" : "application/pdf",
-          "thumbnail" : {
-            "uri2x" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_dutch.png",
-            "timestamp" : "1284640345",
-            "id" : "9b6e23d55c25c0efcab6bb0c47b860745",
-            "uri" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_dutch.png"
-          },
-          "description" : "Letter to shareholders from chairman Jorma Ollila about the scrip dividend programme.",
-          "publicationdate" : "2011-09-25T23:49:56Z",
-          "uri" : "http://www-static.shell.com/static/investor/downloads/scrip/scrip_charimans_letterdutch.pdf"
-        },
-        {
-          "timestamp" : "1284640345",
-          "id" : "10ae082962a29a921ff442003fbaa8d7d2",
-          "title" : "Letter to shareholders in german",
-          "mimetype" : "application/pdf",
-          "thumbnail" : {
-            "uri2x" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_german.png",
-            "timestamp" : "1284640345",
-            "id" : "11b6e23d55c25c0efcab6bb0c47b860745",
-            "uri" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_german.png"
-          },
-          "description" : "Letter to shareholders from chairman Jorma Ollila about the scrip dividend programme.",
-          "publicationdate" : "2011-05-05T23:49:56Z",
-          "uri" : "http://www-static.shell.com/static/investor/downloads/scrip/scrip_charimans_lettergerman.pdf"
-        },
-        {
-          "timestamp" : "1284640345",
-          "id" : "1279ece8acde905804849452e7ee3fdbd0",
-          "title" : "Letter to shareholders in french",
-          "mimetype" : "application/pdf",
-          "thumbnail" : {
-            "uri2x" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_french.png",
-            "timestamp" : "1284640345",
-            "id" : "13b6e23d55c25c0efcab6bb0c47b860745",
-            "uri" : "http://www-static.shell.com/static/investor/imgs/app/scrip_dividend/scrip_letter_french.png"
-          },
-          "description" : "Letter to shareholders from chairman Jorma Ollila about the scrip dividend programme.",
-          "publicationdate" : "2011-06-02T23:49:56Z",
-          "uri" : "http://www-static.shell.com/static/investor/downloads/scrip/scrip_charimans_letterfrench.pdf"
+          "publicationdate": "2013-08-01T11:00:00Z",
+          "title": "Dividend announcement",
+          "summary": "Dividend announcement",
+          "maintext": "<p><b>The Board of Royal Dutch Shell plc (“RDS”) today announced an interim dividend in respect of the second quarter of 2013 of US$0.45 per A ordinary share (“A Share”) and B ordinary share (“B Share”), an increase of US$ 0.02 on the equivalent US dollar dividend for the same quarter last year.</b></p>    \n<p>RDS provides eligible shareholders with a choice to receive dividends in cash or in shares via a Scrip Dividend Programme (“the Programme”).&nbsp; For further details please see below.</p><h2>Details relating to the second quarter 2013 interim dividend</h2><p>It is expected that cash dividends on the B Shares will be paid via the Dividend Access Mechanism from UK-sourced income of the Shell Group.</p><table> \n <tbody>\n  <tr>\n   <th>Per ordinary share</th> \n   <th>Q2 2013</th> \n  </tr>\n  <tr>\n   <td>RDS A shares (US$)</td> \n   <td>0.45</td> \n  </tr>\n  <tr>\n   <td>RDS&nbsp;B shares (US$)</td> \n   <td>0.45</td> \n  </tr>\n </tbody>\n</table><p>Cash dividends on A Shares will be paid, by default, in euro, although holders of A Shares will be able to elect to receive dividends in pounds sterling.</p> \n<p>Cash dividends on B Shares will be paid, by default, in pounds sterling, although holders of B Shares will be able to elect to receive dividends in euro.</p> \n<p>The pounds sterling and euro equivalent dividend payments will be announced on September 9, 2013.</p><table> \n <tbody>\n  <tr>\n   <th>Per ADS</th> \n   <th>Q2 2013</th> \n  </tr>\n  <tr>\n   <td>RDS A&nbsp;ADSs (US$)</td> \n   <td>0.90</td> \n  </tr>\n  <tr>\n   <td>RDS&nbsp;B&nbsp;ADSs (US$)</td> \n   <td>0.90</td> \n  </tr>\n </tbody>\n</table><p>Cash dividends on American Depository Shares (“ADSs”) will be paid, by default, in US dollars.</p> \n<p>ADS stands for an American Depositary Share. ADR stands for an American Depositary Receipt. An ADR is a certificate that evidences ADSs. ADSs are listed on the NYSE under the symbols RDS.A and RDS.B. Each ADS represents two ordinary shares, two A Shares in the case of RDS.A or two B Shares in the case of RDS.B. In many cases the terms ADR and ADS are used interchangeably.</p><h2>Scrip Dividend Programme</h2><p>RDS provides shareholders with a choice to receive dividends in cash or in shares via a Scrip Dividend Programme.</p> \n<p>Under the Programme shareholders can increase their shareholding in RDS by choosing to receive new shares instead of cash dividends if declared by RDS.&nbsp; Only new A Shares will be issued under the Programme, including to shareholders who currently hold B Shares.</p> \n<p>Joining the Programme may offer a tax advantage in some countries compared with receiving cash dividends. In particular, dividends paid out as shares will not be subject to Dutch dividend withholding tax (currently 15 per cent) and will not generally be taxed on receipt by a UK shareholder or a Dutch corporate shareholder.</p> \n<p>Shareholders who elect to join the Programme will increase the number of shares held in RDS without having to buy existing shares in the market, thereby avoiding associated dealing costs.</p> \n<p>Shareholders who do not join the Programme will continue to receive in cash any dividends declared by RDS.</p> \n<p>Shareholders who held only B Shares and joined the Scrip Dividend Programme are reminded they will need to make a Scrip Dividend Election in respect of their new A Shares if they wish to join the Programme in respect of such new shares.&nbsp; However, this is only necessary if the shareholder has not previously made a Scrip Dividend Election in respect of any new A Shares issued.</p> \n<p>For further information on the Programme, including how to join if you are eligible, please refer to the appropriate publication available on www.shell.com/scrip.</p><h2>Dividend timetable for the second quarter 2013 interim dividend</h2><table> \n <tbody>\n  <tr>\n   <th>&nbsp;</th> \n   <th><p>2nd quarter 2013</p> </th> \n  </tr>\n  <tr>\n   <th>Announcement date</th> \n   <td>August 1, 2013<br /> </td> \n  </tr>\n  <tr>\n   <th>Ex-dividend date</th> \n   <td>August 14, 2013<br /> </td> \n  </tr>\n  <tr>\n   <th>Record date&nbsp;</th> \n   <td>August 16, 2013<br /> </td> \n  </tr>\n  <tr>\n   <th>Scrip reference share price announcement date</th> \n   <td>August 21, 2013<br /> </td> \n  </tr>\n  <tr>\n   <th>Closing of scrip election and currency election <sup><i><b>(*)</b></i></sup></th> \n   <td>September 2, 2013<br /> </td> \n  </tr>\n  <tr>\n   <th>Pounds sterling and euro equivalents announcement date</th> \n   <td>September 9, 2013<br /> </td> \n  </tr>\n  <tr>\n   <th>Payment date</th> \n   <td>September 26, 2013<br /> </td> \n  </tr>\n </tbody>\n</table><p><i>* A different scrip election date may apply to registered and non registered ADS holders.<br /> Registered ADS holders can contact The Bank of New York Mellon for the election deadline that applies. Non registered ADS holders can contact their broker, financial intermediary, bank or financial institution for the election deadline that applies.<br /> <br /> Both a different scrip and currency election date may apply to shareholders holding shares in a securities account with a bank or financial institution ultimately holding through Euroclear Nederland. Please contact your broker, financial intermediary, bank or financial institution where you hold your securities account for the election deadline that applies.</i><br /> <br /> </p><h2>Taxation cash dividends</h2><p>Cash dividends on A Shares will be subject to the deduction of Netherlands dividend withholding tax at the rate of 15%, which may be reduced in certain circumstances. Provided certain conditions are met, shareholders in receipt of A Share cash dividends may also be entitled to a non-payable dividend tax credit in the United Kingdom.</p> \n<p>Shareholders resident in the United Kingdom, receiving cash dividends on B Shares through the Dividend Access Mechanism, are entitled to a tax credit. This tax credit is not repayable. Non-residents may also be entitled to a tax credit, if double tax arrangements between the United Kingdom and their country of residence so provide, or if they are eligible for relief given to non-residents with certain special connections with the United Kingdom or to nationals of states in the European Economic Area.</p> \n<p>The amount of tax credit is 10/90ths of the cash dividend, the tax credit referable to the second quarter 2013 interim dividend of US$0.45 is US$0.05 per ordinary share and the dividend and tax credit together amount to US$0.50. The pounds sterling and euro equivalents will be announced on September 9, 2013.<br /> </p> \n<p><b>Royal Dutch Shell plc<br /> The Hague, August 1st, 2013</b></p><h2>Contacts</h2><p><b>Investor Relations&nbsp;&nbsp;<br /> </b>Europe: &nbsp;+ 31 70 377 4540<br /> USA: +1 713 241 1042</p> \n<p><b><br /> Media<br /> </b>International&nbsp; +44 207 934 5550<br /> USA&nbsp; +1 713 241 4544<br /> </p> \n<p><br /> <br /> <b>Cautionary note<br /> </b>The companies in which Royal Dutch Shell plc directly and indirectly owns investments are separate entities. In this release “Shell”, “Shell group” and “Royal Dutch Shell” are sometimes used for convenience where references are made to Royal Dutch Shell plc and its subsidiaries in general. Likewise, the words “we”, “us” and “our” are also used to refer to subsidiaries in general or to those who work for them. These expressions are also used where no useful purpose is served by identifying the particular company or companies. ‘‘Subsidiaries’’, “Shell subsidiaries” and “Shell companies” as used in this release refer to companies in which Royal Dutch Shell either directly or indirectly has control, by having either a majority of the voting rights or the right to exercise a controlling influence. The companies in which Shell has significant influence but not control are referred to as “associated companies” or “associates” and companies in which Shell has joint control are referred to as “jointly controlled entities”. In this release, associates and jointly controlled entities are also referred to as “equity-accounted investments”. The term “Shell interest” is used for convenience to indicate the direct and/or indirect (for example, through our 23% shareholding in Woodside Petroleum Ltd.) ownership interest held by Shell in a venture, partnership or company, after exclusion of all third-party interest.<br /> <br /> This release contains forward-looking statements concerning the financial condition, results of operations and businesses of Royal Dutch Shell. All statements other than statements of historical fact are, or may be deemed to be, forward-looking statements. Forward-looking statements are statements of future expectations that are based on management’s current expectations and assumptions and involve known and unknown risks and uncertainties that could cause actual results, performance or events to differ materially from those expressed or implied in these statements. Forward-looking statements include, among other things, statements concerning the potential exposure of Royal Dutch Shell to market risks and statements expressing management’s expectations, beliefs, estimates, forecasts, projections and assumptions. These forward-looking statements are identified by their use of terms and phrases such as ‘‘anticipate’’, ‘‘believe’’, ‘‘could’’, ‘‘estimate’’, ‘‘expect’’, ‘‘intend’’, ‘‘may’’, ‘‘plan’’, ‘‘objectives’’, ‘‘outlook’’, ‘‘probably’’, ‘‘project’’, ‘‘will’’, ‘‘seek’’, ‘‘target’’, ‘‘risks’’, ‘‘goals’’, ‘‘should’’ and similar terms and phrases. There are a number of factors that could affect the future operations of Royal Dutch Shell and could cause those results to differ materially from those expressed in the forward-looking statements included in this release, including (without limitation): (a) price fluctuations in crude oil and natural gas; (b) changes in demand for Shell’s products; (c) currency fluctuations; (d) drilling and production results; (e) reserves estimates; (f) loss of market share and industry competition; (g) environmental and physical risks; (h) risks associated with the identification of suitable potential acquisition properties and targets, and successful negotiation and completion of such transactions; (i) the risk of doing business in developing countries and countries subject to international sanctions; (j) legislative, fiscal and regulatory developments including potential litigation and regulatory measures as a result of climate changes; (k) economic and financial market conditions in various countries and regions; (l) political risks, including the risks of expropriation and renegotiation of the terms of contracts with governmental entities, delays or advancements in the approval of projects and delays in the reimbursement for shared costs; and (m) changes in trading conditions. All forward-looking statements contained in this release are expressly qualified in their entirety by the cautionary statements contained or referred to in this section. Readers should not place undue reliance on forward-looking statements. Additional factors that may affect future results are contained in Royal Dutch Shell’s 20-F for the year ended 31 December, 2012 (available at www.shell.com/investor and www.sec.gov). These factors also should be considered by the reader.&nbsp; Each forward-looking statement speaks only as of the date of this release, 1 August 2013. Neither Royal Dutch Shell nor any of its subsidiaries undertake any obligation to publicly update or revise any forward-looking statement as a result of new information, future events or other information. In light of these risks, results could differ materially from those stated, implied or inferred from the forward-looking statements contained in this release. There can be no assurance that dividend payments will match or exceed those set out in this release in the future, or that they will be made at all.</p>",
+          "id": "/content/shell/corporate/global/en/aboutshell/investor/dividend-information/latest-announcement/jcr:content/par/accordion/accordionsection",
+          "timestamp": "1375311559"
         }
       ],
-      "title" : "Dividend scrip",
-      "maintext" : "<p><img src=\"jorma_ollila.jpg\" alt=\"Jorma Ollila\"/>In September 2010, Shell introduced its <a href=\"http://www.shell.com/global/aboutshell/investor/dividend-information/scrip.html\">Scrip Dividend Programme</a>.</p> <p>Under the Scrip Dividend Programme, shareholders can increase their shareholding in Shell by choosing to receive new shares instead of cash dividends if declared by Shell.</p> <p>Shareholders who do not join the Scrip Dividend Programme will continue to receive in cash any dividends declared by Shell.</p> <p>To find out about the features of the Scrip Dividend Programme, how to join & who to contact for questions, read the Letter to Shareholders from Chairman Jorma Ollila in your preferred language.</p>",
-      "htmlimages" : [
-        {
-          "uri2x" : "http://www-static.shell.com/static/media/imgs/240_wide/jorma_ollila.jpg",
-          "timestamp" : "0",
-          "id" : "db1585e7ef15ab3d3c135449219689623",
-          "uri" : "http://www-static.shell.com/static/media/imgs/240_wide/jorma_ollila.jpg"
-        }
-      ],
-      "publicationdate" : "2012-11-01T14:24:35Z",
-      "metadata" : {
-        "view" : "Dividend scrip"
-      }
+      "id": "/content/shell/corporate/global/en/aboutshell/investor/dividend-information/latest-announcement",
+      "timestamp": "1375311559"
     }
   ],
-  "apiversion" : "2.0"
+  "timestamp": "0"
 }

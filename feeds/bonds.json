@@ -1,103 +1,31 @@
+    
+
+
+
+
 {
-	"data": [{
-		"timestamp": "1321056000",
-		"id": "7d72baeaa17d8d67c113542734462312",
-		"summary": "Example summary #1",
-		"resources": [{
-			"id": "7d72baeaa17d8d67c113542734462474",
-			"timestamp": "1316991600",
-			"summary": "Example summary #2",
-			"textcontent": "Example text content #1",
-			"mimetype": "text/html",
-			"title": "Example title #3",
-			"thumbnail": {
-				"id": "7d72baeaa17d8d67c113542734462475",
-				"timestamp": "1311289200",
-				"uri2x": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif",
-				"uri": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
-			},
-			"description": "Example description #1",
-			"publicationdate": "2012-09-06T07:13:00Z",
-			"uri": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
-		}],
-		"title": "Example title #1",
-		"maintext": "Example maintext #1",
-		"htmlimages": [{
-			"id": "b914b263da36d2b15aff4abfd53c8b42",
-			"timestamp": "0",
-			"uri2x": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/544-wide/spdc-mining-leasedivestments05092012.gif",
-			"uri": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/544-wide/spdc-mining-leasedivestments05092012.gif"
-		}],
-		"publicationdate": "2011-04-14T11:04:06Z",
-		"metadata": {
-			"view": "Bonds"
-		}
-	}, {
-		"timestamp": "1345413600",
-		"id": "app_bonds_credit_rating",
-		"summary": "Example summary #3",
-		"resources": [{
-			"id": "7d72baeaa17d8d67c113542734462488",
-			"timestamp": "1281740400",
-			"summary": "Example summary #4",
-			"textcontent": "Example text content #2",
-			"mimetype": "text/html",
-			"title": "Example title #6",
-			"thumbnail": {
-				"id": "7d72baeaa17d8d67c113542734462499",
-				"timestamp": "1310770800",
-				"uri2x": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif",
-				"uri": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
-			},
-			"description": "Example description #2",
-			"publicationdate": "2011-06-19T11:04:06Z",
-			"uri": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
-		}],
-		"title": "Example title #4",
-		"maintext": "Example maintext #2",
-		"htmlimages": [{
-			"id": "7d72baeaa17d8d67c113542734462486",
-			"timestamp": "0",
-			"uri2x": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/544-wide/maturity-bond-profilegraph21082012.gif",
-			"uri": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/544-wide/maturity-bond-profilegraph21082012.gif"
-		}],
-		"publicationdate": "2012-08-20T08:56:00Z",
-		"metadata": {
-			"view": "Bonds"
-		}
-	}, {
-		"timestamp": "1341525600",
-		"id": "credit-ratings",
-		"summary": "Example summary #5",
-		"resources": [{
-			"id": "7d72baeaa17d8d67c1135427344625012",
-			"timestamp": "1316300400",
-			"summary": "Example summary #1",
-			"textcontent": "Example text content #3",
-			"mimetype": "text/plain",
-			"title": "Example title #8",
-			"thumbnail": {
-				"id": "7d72baeaa17d8d67c1135427344625013",
-				"timestamp": "1324166400",
-				"uri2x": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/544-wide/maturity-bond-profilegraph21082012.gif",
-				"uri": "http://www-static.shell.com/content/dam/shell/static/investor/imgs/544-wide/maturity-bond-profilegraph21082012.gif"
-			},
-			"description": "Example description #3",
-			"publicationdate": "2010-05-09T11:04:06Z",
-			"uri": "http://www-static.shell.com/static/investor/imgs/544_wide/spdc_mining_leasedivestments05092012.gif"
-		}],
-		"title": "Bonds & credit ratings",
-		"maintext": "<table><tbody><tr><th> </th><th>S&amp;P    </th><th> </th><th> </th><th>Moody's</th><th> </th><th> </th></tr><tr><td> </td><td><em>Short-term rating</em></td><td><em>Long-term rating</em></td><td><em>Outlook</em></td><td><em>Short-term rating</em></td><td><em>Long-term rating</em></td><td><em>Outlook</em></td></tr><tr><td>Royal Dutch Shell plc</td><td>A-1+</td><td>AA</td><td>Stable</td><td>P-1</td><td>Aa1</td><td>Stable</td></tr><tr><td>Debt of Shell International Finance BV</td><td>A-1+</td><td>AA</td><td>Stable</td><td>P-1</td><td>Aa1</td><td>Stable</td></tr></tbody></table>",
-		"htmlimages": [{
-			"id": "7d72baeaa17d8d67c1135427344624910",
-			"timestamp": "1279321200",
-			"uri2x": "http://www-static.shell.com/static/investor/imgs/240_wide/peter_voser.jpg",
-			"uri": "http://www-static.shell.com/static/investor/imgs/240_wide/peter_voser.jpg"
-		}],
-		"publicationdate": "2012-09-06T07:13:00Z",
-		"metadata": {
-			"view": "Credit Ratings"
-		}
-	}],
-	"apiversion": "2.0"
+  "apiversion": "2.0",
+  "data": [
+    {
+      "metadata": {
+        "view": "Bonds and credit ratings"
+      },
+      "publicationdate": "2013-07-11T11:00:00Z",
+      "title": "Royal Dutch Shell plc bonds and credit ratings information",
+      "summary": "<p>On this page our current outstanding publicly traded bonds and&#160;our credit ratings. These bonds were issued by Shell International Finance BV and guaranteed by Royal Dutch Shell plc. Shell International Finance BV is a 100% subsidiary of Royal Dutch Shell plc and the issuing vehicle for the Group.</p>",
+      "maintext": "<h2>Publicly traded bonds</h2><p>Our current outstanding bonds issue is provided in the following table.</p><table> \n <tbody>\n  <tr>\n   <th><b>Settlement</b></th> \n   <th><b>Maturity</b></th> \n   <th><b>Currency</b></th> \n   <th><b>Amount (M)</b></th> \n   <th><b>Coupon</b></th> \n   <th><b>Listing</b></th> \n   <th><b>ISIN</b></th> \n  </tr>\n  <tr>\n   <td>22/3/2007</td> \n   <td>22/3/2017</td> \n   <td>USD</td> \n   <td>750</td> \n   <td>5.200%</td> \n   <td>New York</td> \n   <td>US822582AC66</td> \n  </tr>\n  <tr>\n   <td>22/5/2007</td> \n   <td>22/5/2017</td> \n   <td>EUR</td> \n   <td>1,500</td> \n   <td>4.625%</td> \n   <td>London</td> \n   <td>XSO301945860</td> \n  </tr>\n  <tr>\n   <td>11/12/2008</td> \n   <td>15/12/2038</td> \n   <td>USD</td> \n   <td>2,750</td> \n   <td>6.375%</td> \n   <td>New York</td> \n   <td>US822582AD40</td> \n  </tr>\n  <tr>\n   <td>9/2/2009</td> \n   <td>9/2/2016</td> \n   <td>EUR</td> \n   <td>1,250</td> \n   <td>4.500%</td> \n   <td>London</td> \n   <td>XS0412968876</td> \n  </tr>\n  <tr>\n   <td>23/3/2009</td> \n   <td>21/3/2014</td> \n   <td>USD</td> \n   <td>2,500</td> \n   <td>4.000%</td> \n   <td>New York</td> \n   <td>US822582AF97</td> \n  </tr>\n  <tr>\n   <td>13/5/2009</td> \n   <td>14/5/2018</td> \n   <td>EUR</td> \n   <td>2,500</td> \n   <td>4.375%</td> \n   <td>London</td> \n   <td>XSO428147093</td> \n  </tr>\n  <tr>\n   <td>22/9/2009</td> \n   <td>22/9/2015</td> \n   <td>USD</td> \n   <td>1,000</td> \n   <td>3.250%</td> \n   <td>New York</td> \n   <td>US822582AH53</td> \n  </tr>\n  <tr>\n   <td>22/9/2009</td> \n   <td>22/9/2019</td> \n   <td>USD</td> \n   <td>2,000</td> \n   <td>4.300%</td> \n   <td>New York</td> \n   <td>US822582AJ10</td> \n  </tr>\n  <tr>\n   <td>25/3/2010</td> \n   <td>25/3/2020</td> \n   <td>USD</td> \n   <td>1,250</td> \n   <td>4.375%</td> \n   <td>New York</td> \n   <td>US822582AM49</td> \n  </tr>\n  <tr>\n   <td>25/3/2010</td> \n   <td>25/3/2040</td> \n   <td>USD</td> \n   <td>1,000</td> \n   <td>5.500%</td> \n   <td>New York</td> \n   <td>US822582AN22</td> \n  </tr>\n  <tr>\n   <td>28/6/2010</td> \n   <td>28/6/2015</td> \n   <td>USD</td> \n   <td>1,750</td> \n   <td>3.100%</td> \n   <td>New York</td> \n   <td>US822582AQ52</td> \n  </tr>\n  <tr>\n   <td>21/8/2012</td> \n   <td>21/8/2017</td> \n   <td>USD</td> \n   <td>1,000</td> \n   <td>1.125%</td> \n   <td>New York</td> \n   <td>US822582AR36</td> \n  </tr>\n  <tr>\n   <td>21/8/2012</td> \n   <td>21/8/2022</td> \n   <td>USD</td> \n   <td>1,000</td> \n   <td>2.375%</td> \n   <td>New York</td> \n   <td>US822582AS19</td> \n  </tr>\n  <tr>\n   <td>21/8/2012</td> \n   <td>21/8/2042</td> \n   <td>USD</td> \n   <td>500</td> \n   <td>3.625%</td> \n   <td>New York</td> \n   <td>US822582AT91</td> \n  </tr>\n  <tr>\n   <td>6/12/2012</td> \n   <td>4/12/2015</td> \n   <td>USD</td> \n   <td>750</td> \n   <td>0.625%</td> \n   <td>New York</td> \n   <td>US822582AU64</td> \n  </tr>\n  <tr>\n   <td>6/12/2012</td> \n   <td>6/01/2023</td> \n   <td>USD</td> \n   <td>1,000</td> \n   <td>2.375%</td> \n   <td>New York</td> \n   <td>US822582AV48</td> \n  </tr>\n </tbody>\n</table><p>The above bonds were issued by Shell International Finance BV and guaranteed by Royal Dutch Shell plc. Shell International Finance BV is a 100% subsidiary of Royal Dutch Shell plc and the issuing vehicle for the Group.</p><h2>Maturity profile in ($M) equivalent</h2><p>Maturity Profile of bonds issued by Shell International Finance BV, guaranteed by Royal Dutch Shell plc $m.</p><img src=\"http://s01.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/maturity-profile-in-$M-equivalent-14052013.gif\" alt=\"Maturity Profile ($m) Equivalent\"/><h2>Credit ratings</h2><h2></h2><table> \n <tbody> \n  <tr> \n   <th> &nbsp; </th> \n   <th> S&amp;P&nbsp;&nbsp;&nbsp; </th> \n   <th> &nbsp; </th> \n   <th> &nbsp; </th> \n   <th> Moody's </th> \n   <th> &nbsp; </th> \n   <th> &nbsp; </th> \n  </tr> \n  <tr> \n   <td> &nbsp; </td> \n   <td> <em>Short-term rating</em> </td> \n   <td> <em>Long-term rating</em> </td> \n   <td> <em>Outlook</em> </td> \n   <td> <em>Short-term rating</em> </td> \n   <td> <em>Long-term rating</em> </td> \n   <td> <em>Outlook</em> </td> \n  </tr> \n  <tr> \n   <td> Royal Dutch Shell plc </td> \n   <td> A-1+ </td> \n   <td> AA </td> \n   <td> Stable </td> \n   <td> P-1 </td> \n   <td> Aa1 </td> \n   <td> Stable </td> \n  </tr> \n  <tr> \n   <td> Debt of Shell International Finance BV </td> \n   <td> A-1+ </td> \n   <td> AA </td> \n   <td> Stable </td> \n   <td> P-1 </td> \n   <td> Aa1 </td> \n   <td> Stable </td> \n  </tr> \n </tbody> \n</table>",
+      "uri": "http://www.shell.com/global/aboutshell/investor/financial-information/bonds-and-credit-rating.html",
+      "htmlimages": [
+        {
+          "uri": "http://s01.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/maturity-profile-in-$M-equivalent-14052013.gif",
+          "uri2x": "http://s01.static-shell.com/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/maturity-profile-in-$M-equivalent-14052013.gif",
+          "id": "/content/dam/shell-new/local/corporate/corporate/images-text/544-wide/maturity-profile-in-$M-equivalent-14052013.gif",
+          "timestamp": "1368626706"
+        }
+      ],
+      "id": "/content/shell/corporate/global/en/aboutshell/investor/financial-information/bonds-and-credit-rating",
+      "timestamp": "1373530526"
+    }
+  ],
+  "timestamp": "0"
 }
