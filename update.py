@@ -7,7 +7,7 @@ import time
 import random
 import subprocess
 
-
+'''
 titlesuffix = sys.argv[1].encode("utf-8")
 timestamp = str(int(time.time())).encode("utf-8")
 
@@ -47,9 +47,10 @@ for filename in sys.argv[2:]:
 	with open(filename, "wb") as feed:
 		for line in output:
 			feed.write(line)
+'''
 
-
-subprocess.check_call("git add " + " ".join(sys.argv[2:]), shell=True)
+subprocess.check_call("git add .", shell=True)
+subprocess.check_call("git add -u", shell=True)
 subprocess.check_call("git commit --message='Commit by timestamp-updating script.'", shell=True)
 subprocess.check_call("git push origin HEAD:bartek2", shell=True)
 
