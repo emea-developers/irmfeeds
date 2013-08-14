@@ -276,7 +276,7 @@
           "description": "Royal Dutch Shell plc - Second quarter and half year 2013 results",
           "notice": "/content/shell/corporate/global/en/aboutshell/investor/financial-information/quarterlyresults/latest",
           "noticeonly": true,
-          "active": false,
+          "active": true,
           "sections": [
             {
               "metadata": {
