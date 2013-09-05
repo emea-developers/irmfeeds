@@ -275,8 +275,8 @@
           "date": "2013-08-01T00:00:00Z",
           "description": "Royal Dutch Shell plc - Second quarter and half year 2013 results",
           "notice": "/content/shell/corporate/global/en/aboutshell/investor/financial-information/quarterlyresults/latest",
-          "noticeonly": false,
-          "active": true,
+          "noticeonly": true,
+          "active": false,
           "sections": [
             {
               "metadata": {
@@ -493,10 +493,10 @@
           "period": "Q3",
           "date": "2013-10-31T00:00:00Z",
           "description": "Royal Dutch Shell plc third quarter 2013 results.",
-          "noticeonly": true,
+          "noticeonly": false,
           "active": false,
           "sections": [],
-          "id": "/content/shell/corporate/global/en/aboutshell/media/news-and-media-releases/2013/second-quarter-2013-results-announcement",
+          "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/q3_2013_results",
           "timestamp": "1368701353"
         }
       ],
