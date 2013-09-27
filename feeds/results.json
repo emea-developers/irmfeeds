@@ -493,8 +493,8 @@
           "period": "Q3",
           "date": "2013-10-31T00:00:00Z",
           "description": "Royal Dutch Shell plc third quarter 2013 results.",
-          "noticeonly": false,
-          "active": true,
+          "noticeonly": true,
+          "active": false,
           "sections": [],
           "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/q3_2013_results",
           "timestamp": "1368701353"
