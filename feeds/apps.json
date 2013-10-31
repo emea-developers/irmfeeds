@@ -22,7 +22,7 @@
         "mimetype": "video/x-youtube",
         "publicationdate": "2011-10-28T13:47:34Z",
         "title": "INSIDE ENERGY: exploring innovation in energy",
-        "summary": "Shell's app for iPad explores the role innovation plays in producing energy to power and sustain our lives. Discover new ways of finding energy, learn about advances in technology, and meet the people involved in making it happen. New stories and interactive features will be added regularly. Find out about your free download at http://www.shell.com/home/content/innovation/inside_energy/index.html",
+        "summary": "Shell's app for iPad explores the role innovation plays in producing energy to power and sustain our lives. Discover new ways of finding energy, learn about advances in technology, and meet the people involved in making it happen. New stories and interactive features will be added regularly. Find out about your free download at \nhttp://www.shell.com/global/future-energy/inside-energy.html",
         "uri": "http://www.youtube.com/embed/pLwQ14PCRig?rel=0",
         "thumbnail": {
           "uri": "http://s05.static-shell.com/content/dam/shell-new/local/country/are/images-notext/first-impression/photo/inside_energy_homepage_banner.jpg",
@@ -31,7 +31,7 @@
           "timestamp": "1354627147"
         },
         "id": "/content/shell/corporate/global/en/apps/irm/apps/jcr:content/apps/inside_energy_innova/1_1362408341220",
-        "timestamp": "1374059360"
+        "timestamp": "1378378132"
       },
       "id": "/content/shell/corporate/global/en/apps/irm/apps/jcr:content/apps/inside_energy_innova",
       "timestamp": "1364428288"

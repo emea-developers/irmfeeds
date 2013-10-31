@@ -24,6 +24,22 @@
     },
     {
       "mimetype": "application/pdf",
+      "publicationdate": "2013-09-23T08:48:21Z",
+      "title": "Investor Highlights May 2013 (Chinese)",
+      "summary": "The Investor Highlights May 2013 provides a high level overview of the business, strategy and investments highlights of Royal Dutch Shell plc.",
+      "description": "Chinese",
+      "uri": "http://s04.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/investor-highlights/shell-investor-highlights-may-2013_chinese.pdf",
+      "thumbnail": {
+        "uri": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-english.png",
+        "uri2x": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-english.png",
+        "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-english.png",
+        "timestamp": "1368892204"
+      },
+      "id": "/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/investor-highlights/shell-investor-highlights-may-2013_chinese.pdf",
+      "timestamp": "1379922501"
+    },
+    {
+      "mimetype": "application/pdf",
       "publicationdate": "2013-05-18T16:10:20Z",
       "title": "Investor Highlights May 2013 (Dutch)",
       "summary": "The Investor Highlights May 2013 provides a high level overview of the business, strategy and investments highlights of Royal Dutch Shell plc.",
@@ -37,6 +53,70 @@
       },
       "id": "/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/investor-highlights/shell-investor-highlights-may-2013_dutch.pdf",
       "timestamp": "1368889820"
+    },
+    {
+      "mimetype": "application/pdf",
+      "publicationdate": "2013-10-14T12:45:44Z",
+      "title": "Investor Highlights May 2013 (French)",
+      "summary": "The Investor Highlights May 2013 provides a high level overview of the business, strategy and investments highlights of Royal Dutch Shell plc.",
+      "description": "French",
+      "uri": "http://s04.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/investor-highlights/shell-investor-highlights-may-2013_french.pdf",
+      "thumbnail": {
+        "uri": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-english.png",
+        "uri2x": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-english.png",
+        "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-english.png",
+        "timestamp": "1368892204"
+      },
+      "id": "/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/investor-highlights/shell-investor-highlights-may-2013_french.pdf",
+      "timestamp": "1381751144"
+    },
+    {
+      "mimetype": "application/pdf",
+      "publicationdate": "2013-09-23T08:52:44Z",
+      "title": "Investor Highlights May 2013 (German)",
+      "summary": "The Investor Highlights May 2013 provides a high level overview of the business, strategy and investments highlights of Royal Dutch Shell plc.",
+      "description": "German",
+      "uri": "http://s00.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/investor-highlights/shell-investor-highlights-may-2013_german.pdf",
+      "thumbnail": {
+        "uri": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-english.png",
+        "uri2x": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-english.png",
+        "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-english.png",
+        "timestamp": "1368892204"
+      },
+      "id": "/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/investor-highlights/shell-investor-highlights-may-2013_german.pdf",
+      "timestamp": "1379922764"
+    },
+    {
+      "mimetype": "application/pdf",
+      "publicationdate": "2013-09-04T15:27:42Z",
+      "title": "Investor Highlights May 2013 (Japanese)",
+      "summary": "The Investor Highlights May 2013 provides a high level overview of the business, strategy and investments highlights of Royal Dutch Shell plc.",
+      "description": "Japanese",
+      "uri": "http://s00.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/investor-highlights/shell-investor-highlights-may-2013_japanese.pdf",
+      "thumbnail": {
+        "uri": "http://s05.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-japanese.png",
+        "uri2x": "http://s05.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-japanese.png",
+        "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-japanese.png",
+        "timestamp": "1378304735"
+      },
+      "id": "/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/investor-highlights/shell-investor-highlights-may-2013_japanese.pdf",
+      "timestamp": "1378304862"
+    },
+    {
+      "mimetype": "application/pdf",
+      "publicationdate": "2013-09-12T16:18:21Z",
+      "title": "Investor Highlights May 2013 (Spanish)",
+      "summary": "The Investor Highlights May 2013 provides a high level overview of the business, strategy and investments highlights of Royal Dutch Shell plc.",
+      "description": "Spanish",
+      "uri": "http://s01.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/investor-highlights/shell-investor-highlights-may-2013_spanish.pdf",
+      "thumbnail": {
+        "uri": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-spanish.png",
+        "uri2x": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-spanish.png",
+        "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/investment-highlights/investor-highlights-may-2013-spanish.png",
+        "timestamp": "1379000162"
+      },
+      "id": "/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/investor-highlights/shell-investor-highlights-may-2013_spanish.pdf",
+      "timestamp": "1378999101"
     }
   ],
   "timestamp": "0"
