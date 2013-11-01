@@ -3,6 +3,7 @@
 
 
 
+
 {
   "apiversion": "2.0",
   "data": [
@@ -526,8 +527,8 @@
           "period": "Q3",
           "date": "2013-10-31T00:00:00Z",
           "description": "Royal Dutch Shell plc third quarter 2013 results.",
-          "noticeonly": false,
-          "active": true,
+          "noticeonly": true,
+          "active": false,
           "sections": [
             {
               "metadata": {
@@ -563,7 +564,7 @@
                     "timestamp": "1354121908"
                   },
                   "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/q3_2013_results/article_4/assets/5_1362491855535",
-                  "timestamp": "1383207337"
+                  "timestamp": "1383245810"
                 }
               ],
               "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/q3_2013_results/article_4",
@@ -656,9 +657,9 @@
               "resources": [
                 {
                   "mimetype": "application/pdf",
-                  "publicationdate": "2013-10-31T13:05:28Z",
-                  "title": "Q3 2013 webcast presentation slidesSlide 1",
-                  "summary": "The 3rd quarter 2013 webcast presentation slides.",
+                  "publicationdate": "2013-10-31T14:49:41Z",
+                  "title": "Q3 2013 webcast presentation slides,",
+                  "summary": "The 3rd quarter 2013 webcast presentation slides.,,",
                   "uri": "http://s02.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q3/q3-2013-results-webcasts-presentation-slides.pdf",
                   "thumbnail": {
                     "uri": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
@@ -667,7 +668,7 @@
                     "timestamp": "1364216620"
                   },
                   "id": "/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q3/q3-2013-results-webcasts-presentation-slides.pdf",
-                  "timestamp": "1383224728"
+                  "timestamp": "1383230981"
                 }
               ],
               "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/q3_2013_results/article_5",
