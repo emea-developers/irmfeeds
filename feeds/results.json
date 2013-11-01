@@ -522,183 +522,20 @@
           "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/seconf_quarter_and_h",
           "timestamp": "1375353301"
         },
+
+
         {
           "period": "Q3",
           "date": "2013-10-31T00:00:00Z",
-          "description": "Royal Dutch Shell plc third quarter 2013 results.",
+          "description": "XXX Royal Dutch Shell plc third quarter 2013 results.",
           "noticeonly": false,
-          "active": true,
-          "sections": [
-            {
-              "metadata": {
-                "view": "CEO statement"
-              },
-              "publicationdate": "2013-10-31T06:00:00Z",
-              "title": "CEO statement",
-              "summary": "Royal Dutch Shell Chief Executive Officer Peter Voser commented on the 3rd quarter 2013 unaudited results:",
-              "maintext": "<p>“Our cash flow pays for Shell's dividends and investment in new projects to ensure affordable and reliable energy supplies for our customers, and to add value for our shareholders.</p> \n<p>We are facing headwinds from weak industry refining margins, and the security situation in Nigeria, which continue to erode the near term outlook.</p> \n<p>Shell has a strong project flow in place for 2014 and beyond. We have started up a series of new oil and gas fields in the last few months, in deep water, integrated gas, and in our longer-term plays such as Iraq. These new fields are part of a project flow that will drive Shell’s cash flow in 2014 and beyond, coming alongside a reduction in net spending next year as we work through a series of acquisitions, and increase the pace of asset sales.</p> \n<p>The company is rich with new investment opportunities – in the next few quarters Shell’s capital discipline means we will need to make hard choices between the best new investment opportunities from this industry-leading portfolio.”</p> \n<p>Voser concluded: “Shell’s sustained investment in new growth projects will drive our financial performance. Dividends are Shell’s main route for returning cash to shareholders. We have distributed more than $11 billion of dividends in the last 12 months. So far this year, we have repurchased more than $4 billion of shares, and we are on track for up to $5 billion of share buybacks in 2013. This underlines our commitment to shareholder returns.”<br /> </p>",
-              "uri": "http://www.shell.com/global/aboutshell/investor/financial-information/quarterlyresults/archive/2013/q3-2013.html",
-              "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/q3_2013_results/article",
-              "timestamp": "1383209780"
-            },
-            {
-              "metadata": {
-                "view": "CFO video"
-              },
-              "publicationdate": "2013-10-31T06:00:00Z",
-              "title": "CFO video",
-              "summary": "Chief Financial Officer Simon Henry comments on the third quarter 2013 results.",
-              "maintext": "<p>&nbsp;<br /> </p>",
-              "resources": [
-                {
-                  "mimetype": "video/x-youtube",
-                  "publicationdate": "2013-10-31T07:07:08Z",
-                  "title": "Simon Henry, CFO of Shell, comments on the Q3 2013 results",
-                  "summary": "Simon Henry, Chief Financial Officer of Royal Dutch Shell plc, comments on the 2013 third quarter results.\n\nSee http://www.shell.com/results for more information.",
-                  "uri": "http://www.youtube.com/embed/_LrV8xCt1dI?rel=0",
-                  "thumbnail": {
-                    "uri": "http://s06.static-shell.com/content/dam/shell/static/zaf/imgs/128x64/ssa-upstream-thumb01b.jpg",
-                    "uri2x": "http://s06.static-shell.com/content/dam/shell/static/zaf/imgs/128x64/ssa-upstream-thumb01b.jpg",
-                    "id": "/content/dam/shell/static/zaf/imgs/128x64/ssa-upstream-thumb01b.jpg",
-                    "timestamp": "1354121908"
-                  },
-                  "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/q3_2013_results/article_4/assets/5_1362491855535",
-                  "timestamp": "1383207337"
-                }
-              ],
-              "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/q3_2013_results/article_4",
-              "timestamp": "1383209358"
-            },
-            {
-              "metadata": {
-                "view": "Quarterly Results Announcement"
-              },
-              "publicationdate": "2013-10-31T06:00:00Z",
-              "title": "Results announcement",
-              "summary": "Download the Quarterly Results Announcement for the 3rd quarter 2013 in PDF.",
-              "maintext": "<p>&nbsp;<br /> </p>",
-              "uri": "http://www.shell.com/global/aboutshell/investor/financial-information/quarterlyresults/archive/2013/q3-2013.html",
-              "resources": [
-                {
-                  "mimetype": "application/pdf",
-                  "publicationdate": "2013-10-30T18:17:47Z",
-                  "title": "Q3 2013 Quarterly Results Announcement",
-                  "summary": "The 3rd quarter 2013 unaudited results.",
-                  "uri": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q3/q3-2013-qra-app.pdf",
-                  "id": "/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q3/q3-2013-qra-app.pdf",
-                  "timestamp": "1383157067"
-                }
-              ],
-              "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/q3_2013_results/article_0",
-              "timestamp": "1383156299"
-            },
-            {
-              "metadata": {
-                "view": "Supplementary financial and operational disclosure"
-              },
-              "publicationdate": "2013-10-31T07:00:00Z",
-              "title": "Supplementary financial and operational disclosure",
-              "summary": "Download the Supplementary financial and operational disclosure for the 3rd quarter 2013 in PDF.",
-              "maintext": "<p>&nbsp;<br /> </p>",
-              "uri": "http://www.shell.com/global/aboutshell/investor/financial-information/quarterlyresults/archive/2013/q3-2013.html",
-              "resources": [
-                {
-                  "mimetype": "application/pdf",
-                  "publicationdate": "2013-10-30T18:23:00Z",
-                  "title": "Q3 2013 Supplementary financial and operational disclosure",
-                  "summary": "The 3rd quarter 2013 Supplementary financial and operational disclosure.",
-                  "uri": "http://s03.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q3/q3-2013-suppl-finandopdisclosure-app.pdf",
-                  "thumbnail": {
-                    "uri": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
-                    "uri2x": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
-                    "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
-                    "timestamp": "1364216620"
-                  },
-                  "id": "/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q3/q3-2013-suppl-finandopdisclosure-app.pdf",
-                  "timestamp": "1383157380"
-                }
-              ],
-              "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/q3_2013_results/article_2",
-              "timestamp": "1383157223"
-            },
-            {
-              "metadata": {
-                "view": "Webcasts"
-              },
-              "publicationdate": "2013-10-31T07:00:00Z",
-              "title": "Webcasts",
-              "summary": " ",
-              "maintext": "<p>&nbsp;<br /> </p>",
-              "uri": "http://www.shell.com/global/aboutshell/investor/financial-information/quarterlyresults/archive/2013/q3-2013.html",
-              "resources": [
-                {
-                  "mimetype": "application/webcast",
-                  "publicationdate": "2013-10-31T14:00:00Z",
-                  "title": "Webcasts",
-                  "description": "Quarterly results webcasts",
-                  "uri": "http://cache.merchantcantos.com/webcast/pub/mobile/app_v02/2013/q3/lobby.html",
-                  "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/q3_2013_results/article_1/assets/1_1361875696778",
-                  "timestamp": "1383157159"
-                }
-              ],
-              "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/q3_2013_results/article_1",
-              "timestamp": "1383157131"
-            },
-            {
-              "metadata": {
-                "view": "Presentation slides"
-              },
-              "publicationdate": "2013-10-31T11:00:00Z",
-              "title": "Presentation slides",
-              "summary": "Download the presentation slides and the transcript for the analyst and media webcasts for the 3rd quarter 2013 in PDF.",
-              "maintext": "<p>&nbsp;<br /> </p>",
-              "uri": "http://www.shell.com/global/aboutshell/investor/financial-information/quarterlyresults/archive/2013/q3-2013.html",
-              "resources": [
-                {
-                  "mimetype": "application/pdf",
-                  "publicationdate": "2013-10-31T13:05:28Z",
-                  "title": "Q3 2013 webcast presentation slidesSlide 1",
-                  "summary": "The 3rd quarter 2013 webcast presentation slides.",
-                  "uri": "http://s02.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q3/q3-2013-results-webcasts-presentation-slides.pdf",
-                  "thumbnail": {
-                    "uri": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
-                    "uri2x": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
-                    "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/results/2012/results-resources-thumbnail.png",
-                    "timestamp": "1364216620"
-                  },
-                  "id": "/content/dam/shell-new/local/corporate/corporate/downloads/quarterly-results/2013/q3/q3-2013-results-webcasts-presentation-slides.pdf",
-                  "timestamp": "1383224728"
-                }
-              ],
-              "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/q3_2013_results/article_5",
-              "timestamp": "1383225622"
-            },
-            {
-              "metadata": {
-                "view": "Dividend announcement"
-              },
-              "publicationdate": "2013-10-31T11:00:00Z",
-              "title": "Royal Dutch Shell plc third quarter 2013 interim dividend",
-              "summary": "<p>Read the third quarter 2013 dividend announcement.<br>\n</p>\n",
-              "maintext": "",
-              "uri": "http://www.shell.com/global/aboutshell/investor/dividend-information/historical-payments/2013/q3.html",
-              "tabs": [
-                {
-                  "publicationdate": "2013-10-31T11:00:00Z",
-                  "title": "Dividend announcement",
-                  "summary": "Dividend announcement",
-                  "maintext": "<p><b>The Board of Royal Dutch Shell plc (“RDS”) today announced an interim dividend in respect of the third quarter of 2013 of US$0.45 per A ordinary share (“A Share”) and B ordinary share (“B Share”), an increase of US$ 0.02 on the equivalent US dollar dividend for the same quarter last year.</b></p> \n<p>RDS provides eligible shareholders with a choice to receive dividends in cash or in shares via a Scrip Dividend Programme (“the Programme”).&nbsp; For further details please see below.</p><h2>Details relating to the third quarter 2013 interim dividend</h2><p>It is expected that cash dividends on the B Shares will be paid via the Dividend Access Mechanism from UK-sourced income of the Shell Group.</p><table> \n <tbody>\n  <tr>\n   <th>Per ordinary share</th> \n   <th>Q3 2013</th> \n  </tr>\n  <tr>\n   <td>RDS A shares (US$)</td> \n   <td>0.45</td> \n  </tr>\n  <tr>\n   <td>RDS&nbsp;B shares (US$)</td> \n   <td>0.45</td> \n  </tr>\n </tbody>\n</table><p>Cash dividends on A Shares will be paid, by default, in euro, although holders of A Shares will be able to elect to receive dividends in pounds sterling.</p> \n<p>Cash dividends on B Shares will be paid, by default, in pounds sterling, although holders of B Shares will be able to elect to receive dividends in euro.</p> \n<p>The pounds sterling and euro equivalent dividend payments will be announced on December 6, 2013.</p><table> \n <tbody>\n  <tr>\n   <th>Per ADS</th> \n   <th>Q3 2013</th> \n  </tr>\n  <tr>\n   <td>RDS A&nbsp;ADSs (US$)</td> \n   <td>0.90</td> \n  </tr>\n  <tr>\n   <td>RDS&nbsp;B&nbsp;ADSs (US$)</td> \n   <td>0.90</td> \n  </tr>\n </tbody>\n</table><p>Cash dividends on American Depository Shares (“ADSs”) will be paid, by default, in US dollars.</p> \n<p>ADS stands for an American Depositary Share. ADR stands for an American Depositary Receipt. An ADR is a certificate that evidences ADSs. ADSs are listed on the NYSE under the symbols RDS.A and RDS.B. Each ADS represents two ordinary shares, two A Shares in the case of RDS.A or two B Shares in the case of RDS.B. In many cases the terms ADR and ADS are used interchangeably.</p><h2>Scrip Dividend Programme</h2><p>RDS provides shareholders with a choice to receive dividends in cash or in shares via a Scrip Dividend Programme.</p> \n<p>Under the Programme shareholders can increase their shareholding in RDS by choosing to receive new shares instead of cash dividends if declared by RDS.&nbsp; Only new A Shares will be issued under the Programme, including to shareholders who currently hold B Shares.</p> \n<p>Joining the Programme may offer a tax advantage in some countries compared with receiving cash dividends. In particular, dividends paid out as shares will not be subject to Dutch dividend withholding tax (currently 15 per cent) and will not generally be taxed on receipt by a UK shareholder or a Dutch corporate shareholder.</p> \n<p>Shareholders who elect to join the Programme will increase the number of shares held in RDS without having to buy existing shares in the market, thereby avoiding associated dealing costs.</p> \n<p>Shareholders who do not join the Programme will continue to receive in cash any dividends declared by RDS.</p> \n<p>Shareholders who held only B Shares and joined the Scrip Dividend Programme are reminded they will need to make a Scrip Dividend Election in respect of their new A Shares if they wish to join the Programme in respect of such new shares.&nbsp; However, this is only necessary if the shareholder has not previously made a Scrip Dividend Election in respect of any new A Shares issued.</p> \n<p>For further information on the Programme, including how to join if you are eligible, please refer to the appropriate publication available on www.shell.com/scrip.</p><h2>Dividend timetable for the third quarter 2013 interim dividend</h2><table> \n <tbody>\n  <tr>\n   <th>&nbsp;</th> \n   <th><p>3rd quarter 2013</p> </th> \n  </tr>\n  <tr>\n   <th>Announcement date</th> \n   <td>October 31, 2013<br /> </td> \n  </tr>\n  <tr>\n   <th>Ex-dividend date</th> \n   <td>November 13, 2013<br /> </td> \n  </tr>\n  <tr>\n   <th>Record date&nbsp;</th> \n   <td>November 15, 2013<br /> </td> \n  </tr>\n  <tr>\n   <th>Scrip reference share price announcement date</th> \n   <td>November 20, 2013<br /> </td> \n  </tr>\n  <tr>\n   <th>Closing of scrip election and currency election <sup><i><b>(*)</b></i></sup></th> \n   <td>November 29, 2013<br /> </td> \n  </tr>\n  <tr>\n   <th>Pounds sterling and euro equivalents announcement date</th> \n   <td>December 6, 2013<br /> </td> \n  </tr>\n  <tr>\n   <th>Payment date</th> \n   <td>December 23, 2013<br /> </td> \n  </tr>\n </tbody>\n</table><p><i>* A different scrip election date may apply to registered and non registered ADS holders.<br /> Registered ADS holders can contact The Bank of New York Mellon for the election deadline that applies. Non registered ADS holders can contact their broker, financial intermediary, bank or financial institution for the election deadline that applies.<br /> <br /> Both a different scrip and currency election date may apply to shareholders holding shares in a securities account with a bank or financial institution ultimately holding through Euroclear Nederland. Please contact your broker, financial intermediary, bank or financial institution where you hold your securities account for the election deadline that applies.</i><br /> <br /> </p><h2>Taxation cash dividends</h2><p>Cash dividends on A Shares will be subject to the deduction of Netherlands dividend withholding tax at the rate of 15%, which may be reduced in certain circumstances. Provided certain conditions are met, shareholders in receipt of A Share cash dividends may also be entitled to a non-payable dividend tax credit in the United Kingdom.<br /> <br /> Shareholders resident in the United Kingdom, receiving cash dividends on B Shares through the Dividend Access Mechanism, are entitled to a tax credit. This tax credit is not repayable. Non-residents may also be entitled to a tax credit, if double tax arrangements between the United Kingdom and their country of residence so provide, or if they are eligible for relief given to non-residents with certain special connections with the United Kingdom or to nationals of states in the European Economic Area.<br /> <br /> The amount of tax credit is 10/90ths of the cash dividend, the tax credit referable to the third quarter 2013 interim dividend of US$0.45 is US$0.05 per ordinary share and the dividend and tax credit together amount to US$0.50. The pounds sterling and euro equivalents will be announced on December 6, 2013.<br /> </p> \n<p><b>Royal Dutch Shell plc<br /> The Hague, October 31st, 2013</b></p> \n<p>&nbsp;</p><h2>Contacts</h2><p><b>Investor Relations&nbsp;&nbsp;<br /> </b>International: + 31 70 377 4540<br /> USA: +1 713 241 1042</p> \n<p><b><br /> Media<br /> </b>International&nbsp; +44 207 934 5550<br /> USA&nbsp; +1 713 241 4544<br /> </p> \n<p><br /> <br /> <b>Cautionary note</b><br /> The companies in which Royal Dutch Shell plc directly and indirectly owns investments are separate entities. In this release “Shell”, “Shell group” and “Royal Dutch Shell” are sometimes used for convenience where references are made to Royal Dutch Shell plc and its subsidiaries in general. Likewise, the words “we”, “us” and “our” are also used to refer to subsidiaries in general or to those who work for them. These expressions are also used where no useful purpose is served by identifying the particular company or companies. ‘‘Subsidiaries’’, “Shell subsidiaries” and “Shell companies” as used in this release refer to companies in which Royal Dutch Shell either directly or indirectly has control, by having either a majority of the voting rights or the right to exercise a controlling influence. The companies in which Shell has significant influence but not control are referred to as “associated companies” or “associates” and companies in which Shell has joint control are referred to as “jointly controlled entities”. In this release, associates and jointly controlled entities are also referred to as “equity-accounted investments”. The term “Shell interest” is used for convenience to indicate the direct and/or indirect (for example, through our 23% shareholding in Woodside Petroleum Ltd.) ownership interest held by Shell in a venture, partnership or company, after exclusion of all third-party interest.<br /> &nbsp;<br /> This release contains forward-looking statements concerning the financial condition, results of operations and businesses of Royal Dutch Shell. All statements other than statements of historical fact are, or may be deemed to be, forward-looking statements. Forward-looking statements are statements of future expectations that are based on management’s current expectations and assumptions and involve known and unknown risks and uncertainties that could cause actual results, performance or events to differ materially from those expressed or implied in these statements. Forward-looking statements include, among other things, statements concerning the potential exposure of Royal Dutch Shell to market risks and statements expressing management’s expectations, beliefs, estimates, forecasts, projections and assumptions. These forward-looking statements are identified by their use of terms and phrases such as ‘‘anticipate’’, ‘‘believe’’, ‘‘could’’, ‘‘estimate’’, ‘‘expect’’, ‘‘intend’’, ‘‘may’’, ‘‘plan’’, ‘‘objectives’’, ‘‘outlook’’, ‘‘probably’’, ‘‘project’’, ‘‘will’’, ‘‘seek’’, ‘‘target’’, ‘‘risks’’, ‘‘goals’’, ‘‘should’’ and similar terms and phrases. There are a number of factors that could affect the future operations of Royal Dutch Shell and could cause those results to differ materially from those expressed in the forward-looking statements included in this release, including (without limitation): (a) price fluctuations in crude oil and natural gas; (b) changes in demand for Shell’s products; (c) currency fluctuations; (d) drilling and production results; (e) reserves estimates; (f) loss of market share and industry competition; (g) environmental and physical risks; (h) risks associated with the identification of suitable potential acquisition properties and targets, and successful negotiation and completion of such transactions; (i) the risk of doing business in developing countries and countries subject to international sanctions; (j) legislative, fiscal and regulatory developments including potential litigation and regulatory measures as a result of climate changes; (k) economic and financial market conditions in various countries and regions; (l) political risks, including the risks of expropriation and renegotiation of the terms of contracts with governmental entities, delays or advancements in the approval of projects and delays in the reimbursement for shared costs; and (m) changes in trading conditions. All forward-looking statements contained in this release are expressly qualified in their entirety by the cautionary statements contained or referred to in this section. Readers should not place undue reliance on forward-looking statements. Additional factors that may affect future results are contained in Royal Dutch Shell’s 20-F for the year ended December 31, 2012 (available at www.shell.com/investor and www.sec.gov ). These factors also should be considered by the reader.&nbsp; Each forward-looking statement speaks only as of the date of this release, October 31, 2013. Neither Royal Dutch Shell nor any of its subsidiaries undertake any obligation to publicly update or revise any forward-looking statement as a result of new information, future events or other information. In light of these risks, results could differ materially from those stated, implied or inferred from the forward-looking statements contained in this release. There can be no assurance that dividend payments will match or exceed those set out in this release in the future, or that they will be made at all.<br /> </p>",
-                  "id": "/content/shell/corporate/global/en/aboutshell/investor/dividend-information/historical-payments/2013/q3/jcr:content/par/accordion/accordionsection",
-                  "timestamp": "1383152086"
-                }
-              ],
-              "id": "/content/shell/corporate/global/en/aboutshell/investor/dividend-information/historical-payments/2013/q3",
-              "timestamp": "1383152086"
-            }
-          ],
-          "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/q3_2013_results",
-          "timestamp": "1383226793"
+          "active": false,
+          "sections": [],
+          "id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/royal_dutch_shell_pl",
+          "timestamp": "1383157547"
         },
+
+
         {
           "period": "Q4",
           "date": "2014-01-30T00:00:00Z",
