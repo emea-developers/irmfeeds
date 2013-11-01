@@ -527,8 +527,8 @@
           "period": "Q3",
           "date": "2013-10-31T00:00:00Z",
           "description": "Royal Dutch Shell plc third quarter 2013 results.",
-          "noticeonly": true,
-          "active": false,
+          "noticeonly": false,
+          "active": true,
           "sections": [
             {
               "metadata": {
