@@ -547,11 +547,42 @@
 			"date": "2014-01-30T00:00:00Z",
 			"description": "Royal Dutch Shell plc fourth quarter 2013 results.",
 			"notice": "/content/shell/corporate/global/en/aboutshell/media/news-and-media-releases/2013/advance-notice-q2-2013",
-			"noticeonly": true,
-			"active": false,
-			"sections": [],
+			"noticeonly": false,
+			"active": true,
+			"sections": [{
+				"metadata": {
+					"view": "CEO statement"
+				},
+				"publicationdate": "2014-01-30T06:00:00Z",
+				"title": "CEO statement",
+				"summary": "Royal Dutch Shell Chief Executive Officer Peter Voser commented on the 2nd quarter 2013 unaudited results:",
+				"maintext": "<p>‚ÄúOur cash flow pays for Shell's dividends and investment in new projects to ensure affordable and reliable energy supplies for our customers, and to add value for our shareholders.‚Äù</p> \n<p>Shell‚Äôs underlying CCS earnings were $4.6 billion for the quarter, a 21% decrease in CCS earnings per share from the second quarter of 2012.</p> \n<p>‚ÄúHigher costs, exploration charges, adverse currency exchange rate effects and challenges in Nigeria have hit our bottom line. These results were undermined by a number of factors ‚Äì but they were clearly disappointing for Shell‚Äú, continued Voser.</p> \n<p>Oil theft and disruptions to gas supplies in Nigeria are causing widespread environmental damage, and could cost the Nigerian government $12 billion in lost revenues per year. ‚ÄúWe will play our part, but these are problems Shell cannot solve alone,‚Äù Voser said.</p> \n<p>‚ÄúWe‚Äôve made substantial improvements to our portfolio in the last few years. Today, Shell is rich with new investment opportunities and is capital constrained ‚Äì the opposite position to where the company was in the middle of the last decade.‚Äù</p> \n<p>‚ÄúShell is investing in new capacity worldwide, to generate profitable growth for shareholders. In the next 18 months we expect to see five major project start-ups, which should add over $4 billion to our 2015 cash flow (1).</p> \n<p>We‚Äôve embedded rigorous portfolio management into Shell, to improve our capital efficiency and refresh the portfolio for growth. We have completed some $21 billion of divestments in the last three years and some $4 billion in the last 12 months alone, with more to come.</p> \n<p>Shell is entering a new phase of more substantial portfolio change, which will lead to a higher rate of divestments in the coming years.</p> \n<p>We have recently launched strategic portfolio reviews in both Nigeria onshore and North America resources plays, which will lead to further focus and divestments there, as we continue to shape the company for the future.</p> \n<p>Our strategy is to deliver sustainable growth in cash generation through the business cycle, underpinning Shell‚Äôs competitive dividends and returns. We are not targeting oil and gas production volumes; rather we are focusing on financial performance.‚Äù</p> \n<p>Voser concluded, ‚ÄúShell‚Äôs sustained investment in new growth projects will drive our financial performance. Dividends are Shell‚Äôs main route for returning cash to shareholders and we have distributed more than $11 billion of dividends in the last 12 months. So far this year, we have repurchased more than $3 billion of shares, and we are on track for $4-5 billion of share buy-backs in 2013. This underlines our commitment to shareholder returns.‚Äù</p> \n<p><br /> <br /> <i>(1) Projects comprised of Mars B and Cardamom in deep-water Gulf of Mexico, Gumusut-Kakap in deep-water Malaysia, Kashagan Phase 1 in Kazakhstan and the completion of the acquisition of part of Repsol S.A.‚Äôs LNG portfolio. Cash flow from operations addition outlook assumes that the Brent oil price is $100 per barrel.</i></p>",
+				"uri": "http://web-preprod.shell.com/global/aboutshell/investor/financial-information/quarterlyresults/archive/2013/q2-2013.html",
+				"id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/royal_dutch_shell_pl/article",
+				"timestamp": "1383663749"
+			}, {
+				"metadata": {
+					"view": "Webcasts test Q3"
+				},
+				"publicationdate": "2014-01-30T06:00:00Z",
+				"title": "Webcasts Q3 test",
+				"summary": " ",
+				"maintext": "<p>&nbsp;<br /> </p>",
+				"uri": "http://web-preprod.shell.com/global/aboutshell/investor/financial-information/quarterlyresults/archive/2013/q1-2013.html",
+				"resources": [{
+					"mimetype": "application/webcast",
+					"publicationdate": "2014-01-30T14:00:00Z",
+					"title": "Webcasts Q3 test",
+					"description": "Quarterly results webcasts",
+					"uri": "http://cache.merchantcantos.com/webcast/pub/mobile/app_v02/2013/q3/lobby.html",
+					"id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/royal_dutch_shell_pl/article_0/assets/1_1361875696778",
+					"timestamp": "1383663774"
+				}],
+				"id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/royal_dutch_shell_pl/article_0",
+				"timestamp": "1383663762"
+			}],
 			"id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/royal_dutch_shell_pl",
-			"timestamp": "1383663218"
+			"timestamp": "1383663714"
 		}],
 		"q1date": "2013-05-02T00:00:00Z",
 		"q2date": "2013-08-01T00:00:00Z",
