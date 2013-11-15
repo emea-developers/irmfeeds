@@ -546,11 +546,12 @@
 			"period": "Q4",
 			"date": "2014-01-30T00:00:00Z",
 			"description": "Royal Dutch Shell plc fourth quarter 2013 results.",
-			"noticeonly": false,
+			"notice": "/content/shell/corporate/global/en/aboutshell/media/news-and-media-releases/2013/advance-notice-q2-2013",
+			"noticeonly": true,
 			"active": false,
 			"sections": [],
 			"id": "/content/shell/corporate/global/en/apps/irm/results/19_1360667435226/jcr:content/quarters/royal_dutch_shell_pl",
-			"timestamp": "1378996165"
+			"timestamp": "1383663218"
 		}],
 		"q1date": "2013-05-02T00:00:00Z",
 		"q2date": "2013-08-01T00:00:00Z",
