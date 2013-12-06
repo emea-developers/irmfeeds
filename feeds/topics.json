@@ -1790,7 +1790,47 @@
           "id": "/content/shell/corporate/global/en/apps/irm/topics/jcr:content/topics/publications/article_2",
           "timestamp": "1372335231"
         },
-        
+        {
+          "metadata": {
+            "view": "2012 Investors' Handbook"
+          },
+          "publicationdate": "2013-04-27T12:12:48Z",
+          "title": "2012 Investors' Handbook",
+          "summary": "An overview of our operational performance over five years, including maps (88 pages). ",
+          "maintext": "<p>&nbsp;<br /> </p>",
+          "uri": "http://www.shell.com/global/aboutshell/investor/financial-information/annual-reports-and-publications.html",
+          "header": {
+            "uri": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/topics/sri/SRI-2-large.jpg",
+            "uri2x": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/topics/sri/SRI-2-large.jpg",
+            "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/topics/sri/SRI-2-large.jpg",
+            "timestamp": "1363884221"
+          },
+          "smallheader": {
+            "uri": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/topics/sri/SRI-2-small.jpg",
+            "uri2x": "http://s07.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/topics/sri/SRI-2-small.jpg",
+            "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/topics/sri/SRI-2-small.jpg",
+            "timestamp": "1363884231"
+          },
+          "resources": [
+            {
+              "mimetype": "application/pdf",
+              "publicationdate": "2013-05-31T14:56:01Z",
+              "title": "2012 Shell Investors' Handbook",
+              "summary": "An overview of our operational performance over five years, incl. maps (88 pages). Published April 19, 2013.",
+              "uri": "http://s08.static-shell.com/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/reports/2012/shell-2012-investorshandbook.pdf",
+              "thumbnail": {
+                "uri": "http://s02.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/annual-publications/2012-investors-handbook-app-thumb.png",
+                "uri2x": "http://s02.static-shell.com/content/dam/shell-new/local/corporate/corporate/irm-app-images/annual-publications/2012-investors-handbook-app-thumb.png",
+                "id": "/content/dam/shell-new/local/corporate/corporate/irm-app-images/annual-publications/2012-investors-handbook-app-thumb.png",
+                "timestamp": "1366384813"
+              },
+              "id": "/content/dam/shell-new/local/corporate/corporate/downloads/pdf/investor/reports/2012/shell-2012-investorshandbook.pdf",
+              "timestamp": "1370008561"
+            }
+          ],
+          "id": "/content/shell/corporate/global/en/apps/irm/topics/jcr:content/topics/publications/article_0",
+          "timestamp": "1372335302"
+        },
         {
           "metadata": {
             "view": "Shell International Finance BV 2011 reports "
